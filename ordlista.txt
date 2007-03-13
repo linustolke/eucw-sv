@@ -1,12 +1,19 @@
+Det europeiska CW-förbundet
+			THE EUROPEAN CW ASSOCIATION
 klubbar			clubs
 medlemsklubbar		Member clubs, 
 associerade klubbar	Assoziierte
 nybörjardiplom		Novice Award
 EUCW-diplom		EUCW Award
-Historia		Geschichte
-Funktionärer		Officiers, Vorstand
+historia		Geschichte
+funktionärer		Officiers, Vorstand
+EUCW-ordförande		EUCW Chairman
 Ändamål			Objectives and Constitution, Satzung
 EUCW FP-aktivitet	EUCW Fraternizing CW QSO Party, EUCW-Contestausschreibung, EUCW Kontest FP
-Handpumpsdag		Handtastentag
+Handpumpsdag		Straight Key Day, Handtastentag
 QRS-veckan		QRS Week, QRS Woche
 160m party		160m Party
+EUCW QRS-vecka		EUCW QRS Week
+konstitution		Constitution
+Syfte			Objectives
+EUCW-kommunikationsfunktionär	EUCW Communiations Manager, ECM

@@ -17,3 +17,4 @@ EUCW QRS-vecka		EUCW QRS Week
 konstitution		Constitution
 Syfte			Objectives
 EUCW-kommunikationsfunktionär	EUCW Communiations Manager, ECM
+EUCW-bulletin		EUCW Bulletin

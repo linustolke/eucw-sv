@@ -17,7 +17,7 @@ QRS-veckan		QRS Week, QRS Woche
 EUCWs QRS-vecka		EUCW QRS Week
 konstitution		Constitution
 Syfte			Objectives
-EUCW-kommunikationsfunktionär	EUCW Communiations Manager, ECM
+EUCW-kommunikationsfunktionär	EUCW Communications Manager, ECM
 EUCW-bulletin		EUCW Bulletin
 förbindelsefunktionär	Liaison officer
 EUCWs QRS-party		EUCW QRS Party

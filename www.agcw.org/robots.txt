@@ -1,0 +1,15 @@
+# /robots.txt for www.agcw.org
+User-agent *
+# meaningless for others
+Disallow: /pdf/
+Disallow: /gaestebuch/
+Disallow: /images/
+Disallow: /files/
+Disallow: /dl4no/
+Allow: /qtc/
+Allow: /eucw-con/
+Allow: /abschnit/
+Allow: /agcw-con/
+Allow: /kapitel/
+Allow: /unterabs/
+Allow: /klasse/

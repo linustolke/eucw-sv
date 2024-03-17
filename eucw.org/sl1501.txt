@@ -1,0 +1,64 @@
+Snakes & Ladders result for January
+
+Received were 36 logs containing 1201 valid QSOs into 303 locator squares. Thanks to all
+for your continuous participation, which is very much appreciated. In addition, a check
+log was received from DJ6UX (Eddi).
+
+A warm welcome to three new participants: G0MPJ (Richard), G0OTT (Darren) and G3XVL (Chris).
+This brings the number of participants so far at 46.
+
+The Snake squares for January have been determined as follows:
+IO92 with 98 hits
+JO02 with 66 hits
+IO83 with 26 hits
+
+=> Note that IO92, JO02, IO83, IO91, JO53, IO80 cannot be snake in the month of February,
+because they were already snake in either December or January.
+
+Of the 303 locator squares worked, 133 made it to ladder square with only 1 QSO each:
+IL38 IM12 IM59 IM75 IM77 IM78 IM86 IM98 IN50 IN51 IN77 IN83 IN88 IN91 IN94 IN95 IN97
+IO52 IO53 IO63 IO64 IO71 IO74 IO77 IO84 IO85 IO88 JM68 JM75 JM78 JN07 JN11 JN17 JN23
+JN26 JN27 JN34 JN41 JN42 JN52 JN56 JN62 JN77 JN80 JN81 JN90 JN92 JN94 JO23 JO29 JO49
+JO54 JO63 JO67 JO69 JO82 JO86 JO90 JO91 JP53 JP66 JP81 JP84 KM27 KN08 KN16 KN17 KN21
+KN29 KN33 KN34 KN36 KN37 KN44 KN45 KN49 KN68 KN75 KN84 KN87 KN97 KN99 KO03 KO15 KO16
+KO27 KO33 KO40 KO50 KO64 KO76 KO78 KO80 KO82 KO92 KO97 KP06 KP11 KP15 KP21 KP22 KP26
+KP32 KP41 KP69 KP71 LN04 LN07 LN29 LO01 LO02 LO06 LO07 LO11 LO16 LO20 LO23 LO33 LO53
+LO66 LO68 LO76 LP31 LP98 MO02 MO05 MO25 MO64 MP65 NO14 NO53 OO14 OO17
+
+This leads to the following scores (total accumulated scores in parentheses):
+2E0DPH, Phil:	   10 points (230)		G3ZOD, Graham:	  -10 points (60)
+2E0EML, David:	    0 points (0)		G4FAI, Tony:       10 points (130)
+2E0TEK, Graham:	  -10 points (20)		G4KLE, Merv:	   35 points (535)
+5B4AHO, Barry:	    - points (155)		G4LHI, Peter:	   60 points (600)
+DF2OK, Mike:	   20 points (55)		G5VZ, Chris:	    - points (30)
+DH0DK, Ben:	   60 points (515)		GM0EPO, John:	   55 points (405)
+DK2DO, Wolfgang:    - points (25)		I2CZQ, Peter:	   60 points (410)
+DK5OE, Klaus:	   20 points (205)		IK2RMZ, Martin:	   60 points (600)
+DL1DXL, Lothar:	   55 points (560)		IK5WOB, Fabrizio:  10 points (125)
+DL1GBZ, Martin:	    - points (210)		IZ1POZ, Paolo:	    - points (155)
+DL1HBL, Claus:     60 points (415)		IZ5JLW, Lele:	    - points (55)
+DL7UGN, Mike:	   15 points (290)		M0DAG, Dean:	    - points (25)
+DO1UZ, Olaf:	   60 points (505)		M0DRK, Derek:	    5 points (105)
+DO2TC, Peter:	   60 points (480)		M5ABN, Pete:	   60 points (460)
+EI6KH, Chris:	    0 points (155)		M6DXL, Marshall:    - points (0)
+F5IYJ, Philippe:   35 points (275)		OE3LHB, Heinz:	   55 points (580)
+G0DDX, Geoff:	    0 points (15)		OH7QR, Erkki:	   60 points (600)
+G0DJA, Dave:	    - points (40)		OK2BMA, Pavel:	   30 points (175)
+G0ILN, Richard:   -10 points (220)		PA0ATG, Adriaan:   60 points (565)
+G0MPJ, Richard:     0 points (0)		PA0DIN, Din:	   15 points (230)
+G0OTT, Darren:      0 points (0)		RN3ANT, Vitaly:	    - points (30)
+G3XVL, Chris:       5 points (5)		RW3AI, Valery:	   60 points (600)
+G3YJQ, Fred:	   60 points (510)		SP9NLI, Andy:	   55 points (530)
+
+=> Note that "- points" as usually means that no log was received this month
+
+=> In January IO92 again was the epicentre of snake activity, unfortunately some did
+not manage to escape from these venomous monsters: 2E0TEK, G0ILN and G3ZOD fell
+victim to IO92. But since we are nearing the end of the first run of SL, IO92 cannot
+be snake any-more. So IO92, JO02 and IO83 are snake free zones for the next two months.
+
+Thanks to all for your participation, good luck for February, and I hope to see
+everyone back end of February or begin of March.
+
+Best 73s,
+Robert, DM4RW (mgr S&L)

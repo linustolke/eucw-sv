@@ -1,0 +1,55 @@
+Snakes & Ladders result for June
+
+Received were 28 logs, containing 861 valid log entries into 258 square locators.
+
+The Snake squares have been determined as follows:
+IO80 with 24 hits
+JO53 with 18 hits
+JO22 with 17 hits
+
+=> Note that IO80, IO91, IO93, JO00, JO22 and JO53 cannot be snake in the month of July,
+because they were snake in May or June.
+
+Of the 258 square locators worked, 117 (!) made it to ladder square with 1 log entry each:
+IL18 IM66 IM67 IM77 IM78 IM97 IM98 IM99 IN82 IN96 IO51 IO52 IO72 IO73 IO76 IO85 IO86 IO87 
+IO95 IP62 JM08 JM68 JM89 JM99 JN00 JN03 JN07 JN08 JN12 JN16 JN19 JN23 JN26 JN34 JN35 JN37 
+JN38 JN46 JN53 JN57 JN61 JN64 JN69 JN71 JN73 JN77 JN83 JN84 JN93 JN95 JN96 JN99 JO32 JO45 
+JO57 JO76 JO77 JO80 JO81 JO88 JP65 JP73 JP81 KM09 KM17 KM18 KN01 KN02 KN03 KN07 KN08 KN13
+KN25 KN29 KN35 KN44 KN64 KN69 KN87 KO01 KO06 KO14 KO23 KO24 KO30 KO33 KO47 KO53 KO78 KO80
+KO90 KO92 KO93 KP05 KP10 KP13 KP33 KP44 KP50 LN04 LN05 LN14 LN28 LO01 LO06 LO26 MO04 MO05
+MO25 MO27 MO64 MP73 NO13 NO14 NO53 NP49 OO06
+
+This leads to the following score for June (total accumulated score in parentheses):
+2E0DPH, Phil:	50 points (150)		GM0EPO, John:		10 points (100)
+2E0TEK, Graham:	 5 points (5)		IK1POZ, Paolo:		40 points (125)
+5B4AHO, Barry:	35 points (155)		IK2RMZ, Martin:		60 points (180)
+DH0DK, Ben:	55 points (170)		IK5WOB, Fabrizio:	 5 points (25)
+DK5OE, Klaus:	 5 points (55)		IZ5JLW, Lele:		 - points (55)
+DL1DXL, Lothar:	60 points (180)		M0DAG, Dean:		 - points (25)
+DL1GBZ, Martin:	 - points (60)		M0DRK, Derek:		 5 points (5)
+DL7UGN, Mike:	60 points (120)		M5ABN, Pete:		60 points (105)
+DO1UZ, Olaf:	60 points (155)		OE3LHB, Heinz:		60 points (180)
+DO2TC, Peter:	50 points (90)		OH7QR, Erkki:		60 points (180)
+EI6KH, Chris:	-10 points (80)		OK2BMA, Pavel:		10 points (40)
+G0DJA, Dave:	 - points (40)		PA0ATG, Adriaan:	55 points (155)
+G3YJQ, Fred:	60 points (170)		PA0DIN, Din:		10 points (20)
+G3ZOD, Graham:	 5 points (25)		RN3ANT, Vitaly:		 - points (30)
+G4KLE, Merv:	60 points (175)		RW3AI, Valery:		60 points (180)
+G4LHI, Peter:	60 points (180)		SP9NLI, Andy:		60 points (135)
+G5VZ, Chris:	30 points (30)
+
+=> note that "- points" means that no log was received this month
+
+A warm welcome to two new participants that joined us this month: 2E0TEK, Graham, and M0DRK, Derek.
+
+Although there were snake bites this month, most of you managed to neutralise them by having a ladder
+at the same time, or by having sufficient "normal" QSOs. Only Chris, EI6KH, had to take a rough beating
+by stepping on IO80 without sufficient compensation from other locators.
+
+I wish you all the best of luck for July, and I hope to see you all back early August.
+
+
+Regards, 73s,
+Robert
+
+DM4RW mgr S&L

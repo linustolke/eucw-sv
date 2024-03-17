@@ -1,0 +1,59 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for March 2016, 3rd month of the winter/spring run.
+
+Received were 30 logs containing 1219 valid QSOs into 244 locator squares.
+Among these locator squares, we had 111 candidate ladders (each with 1 QSO
+only) of which the following 22 were randomly selected as ladders:
+
+	JN00 JN66 JN70 JN75 JN99 JO23 JO57 JO73 JO79 JO80
+	JO81 JO84 JP50 KN01 KN14 KN22 KN57 KO49 KO93 KP30
+	LO48 LO94
+
+Furthermore we had 46 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	IO83 JN53 JN77 JO21
+
+This leads to the following scores
+
+Call, name	Total score	 1	 2	3	4	5	6
+===========================================================================
+2E0DPH, Phil:	   229		35	64    130
+2E0EML, David:	   154		58	27     69
+DH3LK, Rudolf:	   234	       132	51     51
+DJ6UX, Eddi:	  1011	       354     360    297
+DK5OE, Klaus:	   158	        36	91     31
+DL1DXL, Lothar:    215	        42	82     91
+DL1HBL, Claus:	   155	        73	37     45
+DL7UGN, Mike:	    17	         4	10      3
+DM4RW, Robert:	    81	        26	22     33
+F5IYJ, Philippe:   115	        60	 9     46
+G0DDX, Geoff:       29	        12	 -     17
+G0DJA, Dave:	     9	         9	 -      -
+G0ILN, Richard:    201	        73	64     64
+G0POT, Michael:	   131	        30	45     56
+G3XVL, Chris:	   455	       130     240     85
+G3YJQ, Fred:	    51	        15	 6     30
+G4FAI, Tony:       171	        28	77     66
+G4KLE, Merv:	    22		 -	22      -
+G4LHI, Peter:	  1059	       284     313    462
+G4RHR, Ken:	   129	        50	38     41
+G7JMZ, John:	     1	    	 -       -      1
+GM0EPO, John:	    50	        15	23     12
+IK2RMZ, Martin:	   946	       404     174    368
+M0DRK, Derek:	   238	        58	59    121
+M0GGK, Dave:	     1	 	 -	 1      -
+M5ABN, Pete:	   181	        23	47    111
+M5IPX, FISTS:        3	         3	 -      -
+M6MEN, Mark:       126	        48	 6     72
+OE6GWG, Werner:	   647	       137     231    279
+OH7QR, Erkki:	   167	       107	 -     60
+OK2BMA, Pavel:	    70	        18	19     33
+OK2PXJ, Vaclav:	    72	         7	19     46
+PA0DIN, Din:        58	        14	12     32
+
+I wish all good luck for the running month of April, and see you back soon.
+
+73,
+DM4RW mgr S&L

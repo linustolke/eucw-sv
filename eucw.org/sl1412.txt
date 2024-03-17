@@ -1,0 +1,58 @@
+Snakes & Ladders result for December
+
+Received were 31 logs containing 1406 valid QSOs into 283 locator squares. This is the highest
+number of QSOs in the young history of Snakes & Ladders, thanks to all for contributing!
+
+A warm welcome to two new participants: 2E0EML (David) and DF2OK (Mike)
+In addition, 1 check log was received from DJ6UX (Eddi).
+
+The Snake squares have been determined as follows:
+IO91 with 56 hits
+JO53 with 37 hits
+IO80 with 33 hits
+
+=> Note that IO91, JO53, IO80, IO93, JO20, JO21 cannot be snake in the month of January,
+because they were already snake in either November or December.
+
+Of the 283 locator squares worked, 116 made it to ladder square with only 1 QSO each:
+HM68 IM76 IN51 IN52 IN53 IN81 IN87 IN92 IN96 IN99 IO65 IO68 IO71 IO72 IO85 IP35 JM08
+JM67 JM89 JN01 JN04 JN17 JN27 JN29 JN34 JN43 JN58 JN64 JN66 JN69 JN75 JN81 JN93 JN96
+JO11 JO38 JO39 JO45 JO54 JO55 JO63 JO79 JO84 JO88 JO94 JO97 JO99 JP73 JP83 KN01 KN02
+KN03 KN05 KN09 KN14 KN23 KN24 KN26 KN32 KN35 KN44 KN47 KN57 KN58 KN64 KN67 KN68 KN74
+KN75 KN84 KN85 KN93 KO05 KO06 KO26 KO30 KO49 KO55 KO61 KO65 KO74 KO82 KO83 KO90 KO94
+KP01 KP06 KP11 KP13 KP21 KP22 KP38 KP41 KP71 KP72 LO07 LO15 LO19 LO20 LO22 LO32 LO53
+LO65 LO73 LO78 LO93 LP04 LP31 LP98 MP61 NO13 NO15 NO35 NO53 NO56 OO06
+
+This leads to the following scores (total accumulated scores in parentheses):
+2E0DPH, Phil:	   20 points (220)		G4KLE, Merv:	   50 points (500)
+2E0EML, David:	    0 points (0)		G4LHI, Peter:	   60 points (540)
+2E0TEK, Graham:	    - points (30)		G5VZ, Chris:	    - points (30)
+5B4AHO, Barry:	    - points (155)		GM0EPO, John:	   50 points (350)
+DF2OK, Mike:	   35 points (35)		I2CZQ, Peter:	   60 points (350)
+DH0DK, Ben:	   55 points (455)		IK2RMZ, Martin:	   60 points (540)
+DK2DO, Wolfgang:    - points (25)		IK5WOB, Fabrizio:  40 points (115)
+DK5OE, Klaus:	   15 points (185)		IZ1POZ, Paolo:	    - points (155)
+DL1DXL, Lothar:	   50 points (505)		IZ5JLW, Lele:	    - points (55)
+DL1GBZ, Martin:	    - points (210)		M0DAG, Dean:	    - points (25)
+DL1HBL, Claus:     55 points (355)		M0DRK, Derek:	   -5 points (100)
+DL7UGN, Mike:	   40 points (275)		M5ABN, Pete:	   55 points (400)
+DO1UZ, Olaf:	   60 points (445)		M6DXL, Marshall:    - points (0)
+DO2TC, Peter:	   60 points (420)		OE3LHB, Heinz:	   55 points (525)
+EI6KH, Chris:	  -10 points (155)		OH7QR, Erkki:	   60 points (540)
+F5IYJ, Philippe:   55 points (240)		OK2BMA, Pavel:	   45 points (145)
+G0DDX, Geoff:	    5 points (15)		PA0ATG, Adriaan:   60 points (505)
+G0DJA, Dave:	    - points (40)		PA0DIN, Din:	   15 points (215)
+G0ILN, Richard:    55 points (230)		RN3ANT, Vitaly:	    - points (30)
+G3YJQ, Fred:	   60 points (450)		RW3AI, Valery:	   60 points (540)
+G3ZOD, Graham:	    - points (70)		SP9NLI, Andy:	   60 points (475)
+G4FAI, Tony:       35 points (120)
+
+=> note that "- points" means that no log was received this month
+
+=> Snake bites were taken by DK5OE (JO53), EI6KH (IO91) and M0DRK (IO91)
+
+Thanks to all for your participation, good luck for January, and I hope to see
+everyone back early February, 2015.
+
+Regards, 73s,
+Robert, DM4RW (mgr S&L)

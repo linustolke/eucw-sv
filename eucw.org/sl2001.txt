@@ -1,0 +1,52 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of 1st semester of 2020
+
+Welcome back in the new year!
+
+Received were 25 logs containing 734 valid QSOs into 192 locator squares.
+Among these squares, we had 80 candidate ladders (each with 1 QSO
+only) of which the following 16 were randomly selected as ladders:
+
+	IM59 IM78 IN61 IN71 JM49 JN11 JN63 JN90 JO21 JP65
+	JP93 KN07 KN48 KN98 KO26 KO33
+
+Furthermore we had 35 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	JO55 JO71 KP25
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   13		 13
+DH0DK, Ben:	   13		 13
+DH3LK, Rudolf:	   40	 	 40
+DJ6UX, Eddi:	  343		343	
+DL1DXL, Lothar:   110		110
+DL1HBL, Claus:	    2		  2
+DL7UGN, Mike:	    6		  6
+G0ILN, Richard:    22		 22
+G3XVL, Chris:	   34		 34
+G4FAI, Tony:       36		 36
+G4LHI, Peter:	  278		278
+G4TGJ, Richard:	    3		  3
+I2CZQ, Peter:	  244		244
+I5SKK, Alex:	   60		 60
+IK2RMZ, Martin:	   82		 82
+IK5WOB, Fabrizio:  13		 13
+IZ2FME, Mike:	   39		 39
+M0PYC, David:	   30		 30
+M0UZE, Mark:	    3		  3
+M5ABN, Pete:	   24		 24
+MI0WWB, William:   37		 37
+OH7QR, Erkki:	  255		255
+OK2BMA, Pavel:	    6		  6
+PA0DIN, Din:	   19		 19
+SV2BBK, Fanis:	  145		145
+
+I wish all good luck for the running month of February, and see you back soon.
+
+73,
+DM4RW mgr S&L

@@ -1,0 +1,67 @@
+Snakes & Ladders results for March 2015
+
+This was the last month of Snakes & Ladders version 1. This report is for March only,
+the final report, and therewith the winners of the two Begali keys, will be anounced
+in due time. Thanks to everybody for participating! I found this activity fun to do,
+and I hope you felt the same. Note that Snakes & Ladders version 2 has already started!
+
+Received were 30 logs containing 916 valid QSOs into 259 locator squares. One new
+participant entered the game: G0POT, Michael. Welcome Michael, we're glad to see you here
+and I'm happy you intend to join us in SLv2.
+
+The Snake squares for March have been determined as follows:
+IO91 with 29 hits
+IO80 with 25 hits
+JO31 with 16 hits
+
+Of the 259 locator squares worked, 116 made it to ladder square with only 1 QSO each:
+HP94 IL27 IL28 IM12 IM67 IM75 IM77 IM89 IM97 IN50 IN71 IN72 IN83 IN87 IN90 IN97 IN98
+IO62 IO74 IO86 IO95 IO99 JM89 JN01 JN09 JN12 JN15 JN16 JN18 JN19 JN25 JN26 JN37 JN38
+JN69 JN70 JN71 JN80 JN93 JO10 JO29 JO41 JO49 JO54 JO72 JO79 JO81 JP21 JP80 JP83 KM08
+KM17 KM18 KM46 KN05 KN10 KN11 KN12 KN14 KN21 KN25 KN29 KN32 KN45 KN48 KN56 KN58 KN59
+KN64 KN68 KN69 KN74 KN75 KN93 KO03 KO05 KO24 KO26 KO29 KO33 KO45 KO49 KO52 KO61 KO68
+KO73 KO83 KO84 KO86 KO92 KO99 KP01 KP06 KP13 KP15 KP22 KP23 KP30 KP44 KP50 LN14 LO01
+LO02 LO06 LO16 LO20 LO21 LO45 LO48 LO55 LO66 LP51 MO04 MO05 MO06 MO07
+
+This leads to the following scores (end-scores in parentheses):
+2E0DPH, Phil:	    0 points (270)		G3ZOD, Graham:	   15 points (80)
+2E0EML, David:	    0 points (5)		G4FAI, Tony:       45 points (210)
+2E0TEK, Graham:	    - points (20)		G4KLE, Merv:	   60 points (600)
+5B4AHO, Barry:	    - points (155)		G4LHI, Peter:	   60 points (720)
+DF2OK, Mike:	   10 points (70)		G5VZ, Chris:	    - points (30)
+DH0DK, Ben:	   40 points (600)		GM0EPO, John:	  -10 points (425)
+DK2DO, Wolfgang:    - points (25)		I2CZQ, Peter:	   60 points (530)
+DK5OE, Klaus:	   15 points (245)		IK2RMZ, Martin:	    - points (660)
+DL1DXL, Lothar:	    - points (605)		IK5WOB, Fabrizio:  35 points (160)
+DL1GBZ, Martin:	   40 points (250)		IZ1POZ, Paolo:	    - points (155)
+DL1HBL, Claus:     50 points (520)		IZ5JLW, Lele:	    - points (55)
+DL7UGN, Mike:	   40 points (380)		M0DAG, Dean:	    - points (25)
+DO1UZ, Olaf:	   50 points (615)		M0DRK, Derek:	   15 points (130)
+DO2TC, Peter:	   60 points (600)		M5ABN, Pete:	   60 points (580)
+EI6KH, Chris:	    - points (155)		M6DXL, Marshall:    - points (0)
+F5IYJ, Philippe:   50 points (375)		OE3LHB, Heinz:	   35 points (655)
+G0DDX, Geoff:	    5 points (25)		OH7QR, Erkki:	   60 points (720)
+G0DJA, Dave:	    - points (40)		OK2BMA, Pavel:	    5 points (170)
+G0ILN, Richard:    50 points (290)		PA0ATG, Adriaan:    - points (615)
+G0MPJ, Richard:     - points (5)		PA0DIN, Din:	   30 points (265)
+G0OTT, Darren:      - points (0)		RN3ANT, Vitaly:	    - points (30)
+G0POT, Michael:	   45 points (45)		RW3AI, Valery:	   60 points (720)
+G3XVL, Chris:       - points (5)		SP9NLI, Andy:	   35 points (625)
+G3YJQ, Fred:	   35 points (580)
+
+=> Note that "- points" as usually means that no log was received this month
+
+=> In March we only had few casualties: both 2E0DPH and GM0EPO stepped on IO91,
+leading to a penalty of 15 points.
+
+=> Potential winners of this first run of Snakes & Ladders are G4LHI (Peter),
+OH7QR (Erkki) and RW3AI (Valery).
+
+=> Certificates will be given to partipants who have filed at least 6 logs,
+certificates with endorsements will be given to participants who have filed 12 logs
+(i.e. a log for each period), and for taking part in the draw for the second key,
+at least 10 logs must have been filed. To each certificate, infos about number of
+QRAs worked and total number of QSOs made, may be added.
+
+Best 73s,
+Robert, DM4RW (mgr S&L)

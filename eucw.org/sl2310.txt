@@ -1,0 +1,76 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fourth month of the second semester of 2023
+
+Received were 43 logs containing 1661 valid QSOs into 302 locator squares.
+
+Among these squares, we had 100 candidate ladders (each with 1 QSO
+only) from which the following 20 were randomly selected as ladders:
+
+     IM89 IN73 IN87 JM08 JN34 JN40 JP83 KM18 KN09 KN14
+     KN47 KO18 KO27 KO80 KO92 KP00 KP05 KP41 LO62 MP41
+     
+Furthermore we had 87 candidate snakes (each with more than 5 QSOs), of which
+the following 8 were randomly selected as snakes:
+
+     IO91 JN49 JO10 JO51 JO62 JO65 KN05 KO34 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+5B4AHO, Barry            220|      0|     37|    122|     61|
+CT7AWB, Jorge              5|      0|      0|      0|      5|
+DJ6UX, Eddi             1563|    399|    438|    342|    384|
+DL110RG, Martin            4|      0|      0|      0|      4|
+DL1DHM, Hanns            331|     67|    104|     46|    114|
+DL1DXL, Lothar           469|    126|    157|    104|     82|
+DL1GBZ, Martin           583|    236|    104|    140|    103|
+DL1HBL, Claus             28|      2|      1|     20|      5|
+DL3GJ, Greg               15|     13|      1|      0|      1|
+DL75BRD, Martin            5|      0|      0|      0|      5|
+DM4RW, Robert             22|      5|      1|      7|      9|
+F4GOU, Tom               711|    233|    132|     97|    249|
+F5IYJ, Philippe          175|      8|     75|     49|     43|
+F5LKK, Serge              81|     21|     18|     14|     28|
+F5POJ, Philippe         1769|    397|    699|    273|    400|
+F8EHJ, Herve              68|     31|     21|      4|     12|
+G0HGH, Jim                 2|      0|      2|      0|      0|
+G0ILN, Richard            17|      2|      4|      7|      4|
+G0XAH, David               8|      0|      8|      0|      0|
+G3PCL, noname              1|      0|      0|      0|      1|
+G3XVL, Chris             133|     43|     36|     30|     24|
+G3ZOD, Graham             28|     12|      2|      6|      8|
+GM0EPO, John               5|      0|      0|      0|      5|
+I0YQX, Italo              59|      7|      5|     14|     33|
+I3JUK, Giuseppe         1250|    260|    316|    297|    377|
+I5ECW, Vanni             312|     62|     97|     83|     70|
+IK1VQO, Gianluca          31|      6|      4|     17|      4|
+IK1WNO, Enrico           157|     24|     46|     33|     54|
+IK5WOB, Fabrizio         242|     39|     31|     42|    130|
+IK7UKF, Sal              128|     13|     42|     48|     25|
+IK8SCR, Nicola            69|      6|     25|      7|     31|
+IN3FHE, Helga             27|      2|      7|     13|      5|
+IT9FGY, Salvo             58|      0|      0|     45|     13|
+IU8OJT, Marco            216|     23|     60|     68|     65|
+IW2JJS, Giorgio           43|     17|      9|     10|      7|
+IZ2FME, Michele          276|     24|    113|     42|     97|
+IZ5BBS, Renato           746|    134|    187|    217|    208|
+IZ7EBY, Tony             155|     18|     31|     37|     69|
+M0KTZ, Enzo              474|    126|    102|    136|    110|
+M5ABN, Pete              120|     37|     29|     27|     27|
+MI0WWB, William          797|    177|    308|    150|    162|
+MM0UMH, Les              272|     66|     68|     69|     69|
+MX5IPX, Graham             8|      0|      1|      7|      0|
+OH7QR, Erkki             223|     33|     23|    100|     67|
+OK2BMA, Pavel             23|      0|      0|      8|     15|
+PA7RA, Rien              457|    189|     90|    106|     72|
+SN9MT, Mirek              10|     10|      0|      0|      0|
+SQ9S, Adam                 4|      0|      0|      4|      0|
+SV2BBK, Fanis            181|    110|     71|      0|      0|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

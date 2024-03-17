@@ -1,0 +1,60 @@
+Snakes & Ladders, Edition 2016
+
+Results for December, final month of the second semester of 2019.
+
+Received were 23 logs containing 1014 valid QSOs into 195 locator squares.
+Among these locator squares, we had 80 candidate ladders (each with 1 QSO
+only) of which the following 16 were randomly selected as ladders:
+
+        IM58 IM68 IN61 IO63 IO87 JN13 JN36 JN78 JN84 JN96
+        JO57 JO88 KN33 KO95 KP50 LO94
+
+Furthermore we had 38 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+        JN45 JN59 JO31
+
+This leads to the following final scores
+
+Call, name      Total score       1       2       3       4       5       6
+=============================================================================
+2E0DPH, Phil:      162           43      22      12      21      19      45
+9H1PI, Ivan:         1            -       -       1       -       -       -
+DJ6UX, Eddi:      2262          495     306     271     408     425     357
+DH3LK, Rudolf:      55            -      55       -       -       -       -
+DL1DXL, Lothar:    257           58       -       7      66      64      62
+DL1GBZ, Martin:    116            -       -     116       -       -       -
+DL1HBL, Claus:      84           21      27       5      19       2      10
+F5IYJ, Phil:        24            -       -       5       6       8       5
+G0BON, Ivan:        36           36       -       -       -       -       -
+G0ILN, Richard:    320           64      87      63      47      30      29
+G0POT, Michael:     19           19       -       -       -       -       -
+G0UYG, Andy:       152           60       -       -       -      43      49
+G0XAH, David:      194           82      51      61       -       -       -
+G3XVL, Chris:      263           19      34      27      43      92      48
+G3ZOD, Graham:      10            5       -       -       5       -       -
+G4FAI, Tony:        10            2       2       1       -       1       4
+G4KLE, Mervyn:      13            -       -       -      13       -       -
+G4LHI, Peter:     2680          521     346     433     544     374     462
+G4RHR, Ken:        197           33      35      43      23      25      38
+G4TGJ, Richard:     30           13       5       6       4       -       2
+I2CZQ, Peter:      475           41      63      31     125      93     122
+I5SKK, Alex:       118            -      15      49       -      36      18
+IK2RMZ, Martin:   1868          153     488     389     332     263     243
+M0DRK, Derek:      167           42      32      29      26       6      32
+M0ILR, Simon:      254           39      24      30      51      58      52
+M0PYC, David:      246           57      48      39      36      33      33
+M0UZE, Mark:       310           81      69      68      92       -       -
+M5ABN, Pete:       206           36      34      35      41       2      58
+MI0WWB, William:   495          179      95      56      82      83       -
+OH7QR, Erkki:      859           97     105      31     119     215     292
+OK1LIX, Petr:       14            -       5       7       2       -       -
+OK2BMA, Pavel:      20            1       6       2       3       2       6
+PA0DIN, Din:        26            -      18       6       -       2       -
+SV2BBK, Fanis:    1468          204     237     144     310     310     263
+SV9RPE, Dick:       77           31      15       7      12       3       9
+
+I wish all good luck for the new semester and Happy New Year 2020!
+
+Best 73,
+Robert, DM4RW mgr S&L

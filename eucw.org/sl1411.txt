@@ -1,0 +1,59 @@
+Snakes & Ladders result for November
+
+Received were 29 logs containing 1197 valid QSOs into 289 locator squares.
+In addition, 1 check log was received.
+
+The Snake squares have been determined as follows:
+IO93 with 32 hits
+JO20 with 22 hits
+JO21 with 21 hits
+
+=> Note that IO93, JO20, JO21, IO92, JO02 and IO83 cannot be snake in the month of December,
+because they were already snake in either October or November.
+
+Of the 289 locator squares worked, 129 made it to ladder square with only 1 QSO each:
+HM77 IL18 IL27 IL28 IM57 IM58 IM78 IM87 IN53 IN70 IN83 IN93 IN96 IN97 IN99 IO52 IO53
+IO55 IO62 IO63 IO72 IO74 IO76 IO86 IO87 IP90 JM67 JM68 JN04 JN05 JN08 JN24 JN28 JN29
+JN38 JN64 JN66 JN69 JN70 JN71 JN72 JN75 JN84 JN86 JN92 JO23 JO45 JO49 JO54 JO55 JO63
+JO66 JO69 JO77 JO78 JO88 JO92 JO93 JO94 JO98 JP20 JP63 JP64 JP70 JP83 KM27 KN03 KN10
+KN11 KN13 KN16 KN19 KN27 KN29 KN37 KN44 KN49 KN56 KN64 KN66 KN67 KN68 KN69 KN74 KN85
+KO00 KO14 KO24 KO29 KO43 KO45 KO49 KO51 KO71 KO73 KO77 KO81 KO86 KO91 KO92 KP03 KP19
+KP21 KP25 KP30 KP50 KP68 LN05 LO01 LO02 LO07 LO16 LO21 LO22 LO31 LO33 LO34 LO45 LO48
+LO66 LO73 LP31 MO06 MO07 MO25 MO92 MP80 MP86 NO15
+
+This leads to the following scores (total accumulated scores in parentheses):
+2E0DPH, Phil:	    5 points (200)		G4LHI, Peter:	   60 points (480)
+2E0TEK, Graham:	    - points (30)		G5VZ, Chris:	    - points (30)
+5B4AHO, Barry:	    - points (155)		GM0EPO, John:	   50 points (300)
+DH0DK, Ben:	    0 points (400)		I2CZQ, Peter:	   60 points (290)
+DK2DO, Wolfgang:    - points (25)		IK2RMZ, Martin:	   60 points (480)
+DK5OE, Klaus:	   40 points (170)		IK5WOB, Fabrizio:   0 points (75)
+DL1DXL, Lothar:	   60 points (455)		IZ1POZ, Paolo:	    - points (155)
+DL1GBZ, Martin:	    - points (210)		IZ5JLW, Lele:	    - points (55)
+DL1HBL, Claus:     60 points (300)		M0DAG, Dean:	    - points (25)
+DL7UGN, Mike:	    5 points (235)		M0DRK, Derek:	   45 points (105)
+DO1UZ, Olaf:	   60 points (385)		M5ABN, Pete:	    5 points (345)
+DO2TC, Peter:	   60 points (360)		M6DXL, Marshall:    - points (0)
+EI6KH, Chris:	   40 points (165)		OE3LHB, Heinz:	   50 points (470)
+F5IYJ, Philippe:   50 points (185)		OH7QR, Erkki:	   60 points (480)
+G0DDX, Geoff:	   10 points (10)		OK2BMA, Pavel:	   10 points (100)
+G0DJA, Dave:	    - points (40)		PA0ATG, Adriaan:   55 points (445)
+G0ILN, Richard:    60 points (175)		PA0DIN, Din:	   10 points (200)
+G3YJQ, Fred:	   55 points (390)		RN3ANT, Vitaly:	    - points (30)
+G3ZOD, Graham:	    - points (70)		RW3AI, Valery:	   60 points (480)
+G4FAI, Tony:       35 points (85)		SP9NLI, Andy:	   60 points (415)
+G4KLE, Merv:	   60 points (450)		
+
+=> note that "- points" means that no log was received this month
+
+=> November was a good month, with conditions still being favourable during a long time.
+
+=> Snake bites were taken by M5ABN (IO93), 2E0DPH (IO93), DH0DK (IO93), yet no
+negative scores had to be given, because these participants managed to level out
+the minus points with points gained from normal squares.
+
+Thanks to all for your participation, good luck for December, and I hope to see
+everyone back early January, 2015.
+
+73, Merry Christmas to all,
+DM4RW (mgr S&L)

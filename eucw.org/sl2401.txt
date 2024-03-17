@@ -1,0 +1,61 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the first semester of 2024
+
+Received were 34 logs containing 1386 valid QSOs into 264 locator squares.
+
+Among these squares, we had 89 candidate ladders (each with 1 QSO
+only) from which the following 17 were randomly selected as ladders:
+
+     IM67 IM78 IM89 IM98 IM99 IO71 JM89 JN24 JN26 JN92
+     JO28 KM17 KO36 KP05 KP52 LN05 MO05 
+
+Furthermore we had 71 candidate snakes (each with more than 5 QSOs), of which
+the following 7 were randomly selected as snakes:
+
+     IO90 JN36 JN55 JN66 JN99 JO11 JO89 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+5B4AHO, Barry             28|     28|
+DJ6UX, Eddi              362|    362|
+DL1DHM, Hanns             74|     74|
+DL1DXL, Lothar            78|     78|
+DL1GBZ, Martin           256|    256|
+DL1HBL, Claus              3|      3|
+F4GOU, Tom               237|    237|
+F5IYJ, Philippe           49|     49|
+F5LKK, Serge              25|     25|
+F5POJ, Philippe           64|     64|
+F8EHJ, Herve              42|     42|
+G3XVL, Chris              43|     43|
+G6HH, Richard              8|      8|
+GM0EPO, John              19|     19|
+I0YQX, Italo              19|     19|
+I3JUK, Giuseppe          271|    271|
+I5ECW, Vanni              69|     69|
+IK1WNO, Enrico            57|     57|
+IK5WOB, Fabrizio         103|    103|
+IK7UKF, Sal               15|     15|
+IK8SCR, Nicola            12|     12|
+IN3FHE, Helga              6|      6|
+IT9FGY, Salvo             65|     65|
+IW2JJS, Giorgio           20|     20|
+IZ2FME, Michele           66|     66|
+IZ5BBS, Renato           137|    137|
+IZ7EBY, Tony              18|     18|
+M0KTZ, Enzo              333|    333|
+M5ABN, Pete               25|     25|
+MM0UMH, Les               77|     77|
+OH7QR, Erkki              76|     76|
+OK2BMA, Pavel              2|      2|
+PA7RA, Rien               69|     69|
+RM2D, Mats                15|     15|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

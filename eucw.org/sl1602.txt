@@ -1,0 +1,59 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for February 2016, second month of the winter/spring run.
+
+New participant this month: Dave, M0GGK. Welcome to SL2016 Dave.
+
+Received were 28 logs containing 928 valid QSOs into 221 locator squares.
+Among the 221 locator squares, we had 94 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+	IO52 IO63 JM67 JN19 JN23 JN61 JN87 JO03 JO94 KN08
+	KN49 KO01 KO13 KO29 KO82 KP34 KP42 LO48
+
+Furthermore we had 41 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN47 JO02 JO89 JP80
+
+This leads to the following scores
+
+Call, name	Total score	 1	 2	3	4	5	6
+===========================================================================
+2E0DPH, Phil:	    99		35	64	
+2E0EML, David:	    85		58	27
+DH3LK, Rudolf:	   183	       132	51
+DJ6UX, Eddi:	   714	       354     360
+DK5OE, Klaus:	   127	        36	91
+DL1DXL, Lothar:    124	        42	82
+DL1HBL, Claus:	   110	        73	37
+DL7UGN, Mike:	    14	         4	10
+DM4RW, Robert:	    48	        26	22
+F5IYJ, Philippe:    69	        60	 9
+G0DDX, Geoff:       12	        12	 -
+G0DJA, Dave:	     9	         9	 -
+G0ILN, Richard:    137	        73	64
+G0POT, Michael:	    75	        30	45
+G3XVL, Chris:	   370	       130     240
+G3YJQ, Fred:	    21	        15	 6
+G4FAI, Tony:       105	        28	77
+G4KLE, Merv:	    22		 -	22
+G4LHI, Peter:	   597	       284     313
+G4RHR, Ken:	    88	        50	38
+GM0EPO, John:	    38	        15	23
+IK2RMZ, Martin:	   578	       404     174
+M0DRK, Derek:	   117	        58	59
+M0GGK, Dave:	     1	 	 -	 1
+M5ABN, Pete:	    70	        23	47
+M5IPX, FISTS:        3	         3	 -
+M6MEN, Mark:        54	        48	 6
+OE6GWG, Werner:	   368	       137     231
+OH7QR, Erkki:	   107	       107	 -
+OK2BMA, Pavel:	    37	        18	19
+OK2PXJ, Vaclav:	    26	         7	19
+PA0DIN, Din:        26	        14	12
+
+I wish all good luck for the running month of March, and see you back soon.
+
+73,
+DM4RW mgr S&L

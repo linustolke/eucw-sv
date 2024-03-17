@@ -1,0 +1,57 @@
+Snakes & Ladders, Edition 2016
+
+Results for the third month of 1st semester of 2020
+
+Received were 27 logs containing 1273 valid QSOs into 296 locator squares.
+Among these squares, we had 115 candidate ladders (each with 1 QSO
+only) of which the following 23 were randomly selected as ladders:
+
+        IM67 IM79 IN83 IN97 JN04 JN16 JN40 JN94 JO73 JO80
+        JP82 KM27 KM78 KM86 KN23 KN26 KN36 KN37 KN77 KO95
+        KP11 KP51 LP62
+
+Furthermore we had 59 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+        IO90 JN56 JO21 JO99 KP42
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:      55            13      11      31
+DH0DK, Ben:        26            13      13       -
+DH3LK, Rudolf:    112            40      72       -
+DJ6UX, Eddi:      964           343     189     432
+DL1DXL, Lothar:   271           110      65      96
+DL1HBL, Claus:     69             2      25      42
+DL7UGN, Mike:      19             6       4       9
+DM4RW, Robert:      2             -       -       2
+F5IYJ, Phil:       11             -       2       9
+G0DDX, Geoff:       9             -       -       9
+G0ILN, Richard:    83            22      37      24
+G3XVL, Chris:     110            34      33      43
+G4FAI, Tony:       52            36      16       -
+G4LHI, Peter:    1192           278     419     495
+G4TGJ, Richard:    12             3       6       3
+GM0EPO, John:      25             -       -      25
+I2CZQ, Peter:    1494           244     466     784
+I5SKK, Alex:      102            60       -      42
+IK2RMZ, Martin:   593            82     225     286
+IK5WOB, Fabrizio:  46            13       3      30
+IZ2FME, Mike:     102            39       7      56
+M0DRK, Derek:      36             -      13      23
+M0ILR, Simon:     141             8      63      70
+M0PYC, David:      99            30      33      36
+M0UZE, Mark:        3             3       -       -
+M5ABN, Pete:      125            24      61      40
+MI0WWB, William:  128            37      59      32
+OH7QR, Erkki:     788           255     276     257
+OK2BMA, Pavel:     12             6       3       3
+PA0DIN, Din:       62            19      25      18
+SV2BBK, Fanis:    623           145     152     326
+
+I wish all good luck for the running month of April, and see you back soon.
+
+73,
+DM4RW mgr S&L

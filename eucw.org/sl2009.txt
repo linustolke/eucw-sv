@@ -1,0 +1,84 @@
+Snakes & Ladders, Edition 2016
+
+Results for the third month of the 2nd semester of 2020
+
+This month we may again welcome newcomers from Italy: I0YQX, Italo;
+IK0XFD, Giordano; IK2CKR, Angelo; IK2WQH, Fabio; IK5ZWU, Walter;
+IK8SCR, Nicola; IT9FGY, Salvo; IU0HMB, Vlado; IW2JJS, Giorgio; IZ8SWO, Everaldo.
+Thanks again to IZ2FME, Michele, for his engagement to get so many newcomers
+involved. And last but not least our first participant from Latvia, YL3JD, Hanz. 
+
+Received were 43 logs containing 2320 valid QSOs into 328 locator squares.
+Among these squares, we had 104 candidate ladders (each with 1 QSO
+only) of which the following 20 were randomly selected as ladders:
+
+        HM77 IM79 IM87 IN94 IN97 JM08 JP66 JP99 KM06 KM17
+        KM25 KM39 KN13 KN14 KN29 KN37 KN66 KO30 LO21 LO58
+
+Furthermore we had 101 candidate snakes (each with more than 5 QSOs), of which
+the following 10 were randomly selected as snakes:
+
+        IO70 JN01 JN46 JN48 JN54 JN59 JN71 JN97 JO42 JO53
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:         21         11       -      10
+DJ6UX, Eddi:        1254        432     450     372
+DL1DXL, Lothar:      297        120      99      78
+DL1HBL, Claus:        33         21       2      10
+DL7UGN, Mike:         49         22      26       1
+DM4RW, Robert:        18          8       -      10
+F5IYJ, Phil:          90         47      18      25
+G0ILN, Richard:       75         49      26       -
+G3XVL, Chris:        135         54      26      55
+G3ZOD, Graham:        21         15       2       4
+G4FAI, Tony:           5          4       -       1
+G4LHI, Peter:       1832        715     615     502
+I0YQX, Italo:         52          -       -      52
+I2AZ, Giuseppe:       45          -      45       -
+I2CZQ, Peter:        166        166       -       -
+I3JUK, Giuseppe:     667          -     225     442
+I8QFK, Ben:           93          -      26      67
+II2EMCA, Mike:        48          -      34      14
+IK0XFD, Giordano:     89          -       -      89
+IK1WNO, Enrico:       77          -      35      42
+IK1YBL, Paolo:        49         26      15       8
+IK2CKR, Angelo:       10          -       -      10
+IK2RMZ, Martin:      421        155     170      96
+IK2WQH, Fabio:        17          -       -      17
+IK5ZWU, Walter:     1632          -       -    1632
+IK7UKF, Sal:         383          -     212     171
+IK8SCR, Nicola:      108          -       -     108
+IN3FHE, Helga:        19          -      12       7
+IT9FGY, Salvo:        70          -       -      70
+IU0HMB, Vlado:        28          -       -      28
+IU3KGO, Massimo:     101          -      15      86
+IW2JJS, Giorgio:      41          -       -      41
+IZ2FME, Mike:        337         17      14     306
+IZ7EBY, Tony:        173          -       4     169
+IZ8NXG, Renato:      352         63     145     144
+IZ8SWO, Everaldo:     21          -       -      21
+M0DRK, Derek:         16         16       -       -
+M0ILR, Simon:        187          -      78     109
+M0PYC, David:        120         42      36      42
+M0UZE, Mark:         373        111     139     123
+M5ABN, Pete:          90         21      38      31
+MI0WWB, William:      69         52       6      11
+MX5IPX, Graham:       18         12       6       -
+OH7QR, Erkki:        639        214     203     222
+OK1LIX, Petr:          3          -       3       -
+OK2BMA, Pavel:        22          3      16       3
+PA0DIN, Din:          61         18      43       -
+PG4I, Joop:          552        132     234     186
+SV2BBK, Fanis:       427        165      81     181
+YL3JD, Hanz:          36          -       -      36
+
+Note that II2EMCA is a special call sign run by IZ2FME, Mike
+
+I wish all good luck for the running month of October, thanks for participating
+and hopefully I'll see you back next month. Take care and stay safe.
+
+73,
+DM4RW mgr S&L

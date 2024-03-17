@@ -1,0 +1,66 @@
+Snakes & Ladders result for July
+
+Despite the vacation season, S&L had a good month with 32 logs received.
+These contained 989 valid log entries into 290 square locators.
+
+Welcome to five new participants this month: DK2DO, DL1HBL, G0ILN, I2CZQ and M6DXL. 
+Total participants up to now: 38
+
+The Snake squares have been determined as follows:
+IO92 with 73 hits
+JO02 with 31 hits
+IO83 with 30 hits
+
+=> It comes without surprise that these are the same squares as in April, although the
+differences in hits are much less pronounced.
+
+=> Note that IO92, JO02, IO83, IO80, JO53 and JO22 cannot be snake in the month of August,
+because they were snake in June or July.
+
+Of the 290 square locators worked, 137 (!) made it to ladder square with 1 log entry each:
+IL18 IM12 IM58 IM75 IM86 IN73 IN77 IN81 IN84 IN88 IN91 IN95 IN98 IO42 IO44 IO52 IO53 IO73
+IO74 IO85 JM88 JN00 JN01 IO95 IP62 J032 JJ00 JM19 JN13 JN17 JN19 JN23 JN37 JN52 JN64
+JN70 JN78 JN83 JN84 JN95 JN96 JO23 JO28 JO34 JO46 JO47 JO59 JO63 JO76 JO77 JO78 JO79
+JO81 JO88 JO91 JO93 JP81 JP82 JP83 JP93 KM09 KM15 KM17 KM27 KM36 KM64 KN01 KN05 KN11 
+KN13 KN15 KN17 KN25 KN26 KN28 KN30 KN33 KN45 KN48 KN57 KN65 KN66 KN68 KN77 KN86 KN89 
+KN98 KN99 KO01 KO06 KO11 KO18 KO24 KO26 KO42 KO49 KO51 KO55 KO60 KO78 KO84 KO91 KO92 
+KO97 KP01 KP03 KP05 KP06 KP21 KP22 KP26 KP31 KP50 KP71 KP75 KP80 LN14 LO00 LO01 LO02 
+LO16 LO26 LO31 LO33 LO53 LO55 LO66 LO88 LO97 LP51 MO05 MO06 MO07 MO16 MO27 NO13 QN17
+
+This leads to the following score for July (total accumulated score in parentheses):
+2E0DPH, Phil:	  -15 points (135)		G5VZ, Chris:	    - points (30)
+2E0TEK, Graham:	    - points (5)		GM0EPO, John:	   50 points (150)
+5B4AHO, Barry:	    - points (155)		I2CZQ, Peter:	   55 points (55)
+DH0DK, Ben:	   60 points (230)		IK2RMZ, Martin:	   60 points (240)
+DK2DO, Wolfgang:   25 points (25)		IK5WOB, Fabrizio:   5 points (30)
+DK5OE, Klaus:	   15 points (70)		IZ1POZ, Paolo:	    5 points (130)
+DL1DXL, Lothar:	   50 points (230)		IZ5JLW, Lele:	    0 points (55)
+DL1GBZ, Martin:	   60 points (120)		M0DAG, Dean:	    - points (25)
+DL1HBL, Claus:     60 points (60)		M0DRK, Derek:	    5 points (10)
+DL7UGN, Mike:	   45 points (165)		M5ABN, Pete:	   60 points (165)
+DO1UZ, Olaf:	   60 points (215)		M6DXL, Marshall:    0 points (0)
+DO2TC, Peter:	   50 points (140)		OE3LHB, Heinz:	   60 points (240)
+EI6KH, Chris:	   45 points (125)		OH7QR, Erkki:	   60 points (240)
+G0DJA, Dave:	    - points (40)		OK2BMA, Pavel:	   35 points (75)
+G0ILN, Richard:     0 points (0)		PA0ATG, Adriaan:   60 points (215)
+G3YJQ, Fred:	   50 points (220)		PA0DIN, Din:	   60 points (80)
+G3ZOD, Graham:	   45 points (70)		RN3ANT, Vitaly:	    - points (30)
+G4KLE, Merv:	   50 points (225)		RW3AI, Valery:	   60 points (240)
+G4LHI, Peter:	   60 points (240)		SP9NLI, Andy:	   60 points (195)
+
+=> note that "- points" means that no log was received this month
+
+There were only few snake bites this month, most of you managed to spread their QSOs well
+over Europe and as a result managed to climb a ladder, or simply avoided the snakes.
+
+Tough luck for newcomers G0ILN, Richard and M6DXL, Marshall: although they had quite some
+QSOs, only few locators were worked. And as it turned out, some of these were
+snakes for July. As a result, only 1 or 2 normal locators squares remained, which
+results in 0 points, because you need 3 normal squares at least for 5 points.
+
+Good luck to all for August, and I hope to see you all back early September.
+
+Regards, 73s,
+Robert
+
+DM4RW mgr S&L

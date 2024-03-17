@@ -1,0 +1,62 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for September 2016, 3rd month of the summer/autumn run.
+
+A warm welcome to Emil, I5EFO! It is good to see new participants.
+
+September was a good month for Snakes & Ladders, with 33 logs filed.
+These 33 logs contained 748 valid QSOs into 204 locator squares.
+Among these locator squares, we had 90 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+	IN91 IN98 JN03 JN07 JN25 JN62 JN67 JN95 JO49 KM18
+	KN58 KN66 KN84 KO13 KO49 KO54 KO91 KO92
+
+Furthermore we had 24 candidate snakes (each with more than 5 QSOs), of which
+the following 2 were randomly selected as snakes:
+
+	JN48 JO51
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    73		  -	 50	  23
+2E0EML, David:	   147		 42	 48	  57
+DH3LK, Rudolf:	    81		 34	 29	  18
+DJ6UX, Eddi:	    98		  -	 64	  34
+DK5OE, Klaus:	    19		 11	  7	   1
+DL1DXL, Lothar:     74		 19	  4	  51
+DL1HBL, Claus:	    70		 52	  -	  18
+DL7UGN, Mike:	     3		 13	  6	  22
+DM4RW, Robert:	    38		 21	  -	  17
+F5IYJ, Philippe:   234		 96	 80	  58
+G0ILN, Richard:    128		 48	 33	  47
+G0POT, Michael:	    81		 15	  6	  60
+G3XVL, Chris:	   258		107	114	  37
+G3YJQ, Fred:	    54		  9	 10	  35
+G3ZOD, Graham:	    12		  6	  -	   6
+G4FAI, Tony:        89		 61	  9	  19
+G4LHI, Peter:	   763		286	234	 243
+G4RHR, Ken:	   116		 23	 41	  52
+G7JMZ, John:	     7		  -	  7	   -
+GX0IPX, FISTS:	     4		  -	  -	   4
+I2CZQ, Peter:	   275		  -	126	 149
+I5EFO, Emil:	    22		  -	  -	  22
+I5SKK, Alex:	   395		176	 93	 126
+IK2RMZ, Martin:	  1046		233	445	 368
+M0DRK, Derek:	   142	         27	 77	  38
+M5ABN, Pete:	   111	         32	 39	  40
+M6MEN, Mark:       290	         50	149	  91
+MX5IPX, FISTS:	    10		  -	  -	  10
+OE3LHB, Heinz:	    54		 16	 30	   8
+OE6GWG, Werner:	   162	         33	 75	  54
+OH7QR, Erkki:	    85	         21	 31	  33
+OK2BMA, Pavel:	    46	         12	  5	  29
+PA0DIN, Din:        36	         18	 12	   6
+SV2BBK, Fanis:	   450		143	157	 150
+
+I wish all good luck for the running month of October, and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

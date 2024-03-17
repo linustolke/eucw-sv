@@ -1,0 +1,61 @@
+Snakes & Ladders edition 2nd semester of 2017
+
+Results for September 2017, 3rd month.
+
+Received were 32 logs containing 883 valid QSOs into 236 locator squares.
+Among these locator squares, we had 94 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+	IM77 IM78 IN61 JM19 JM76 JN06 JN29 JN63 JN71 JN75
+	JN90 JN92 JO49 KN15 KO86 KO94 KP32 KP34
+
+Furthermore we had 44 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	IO91 JN58 JO61 JP80
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    48		 12	 16	  20
+2E0EML, David:	    93		 30	 30	  33
+DJ6UX, Eddi:	  1229		539	360	 330
+DL1DXL, Lothar:	   148		  -	 40	 108
+DL1GBZ, Martin:	   141		  -	  -	 141
+DL1HBL, Claus:	    76		 45	 22	   9
+DL7UGN, Mike:	    37		 12	  7	  18
+DM4RW, Robert:	    15		  -	  7	   8
+F5IYJ, Philippe:    91		 49	 35	   7
+G0ILN, Richard:     33		 12	 15	   6
+G0POT, Michael:	    84		  9	 37	  38
+G3XVL, Chris:	   441		172	120	 149
+G3YJQ, Fred:	    47		  6	 22	  19
+G4FAI, Tony:        52		 29	 22	   1
+G4KLE, Mervin:	    55		 55	  -	   -
+G4LHI, Peter:	  1144		299	502	 343
+G4RHR, Ken:	    80		 32	 31	  17
+G6HH. Richard:      50		 14	 19	  17
+G7JMZ, John:	     1		  -	  -	   1
+I2CZQ, Peter:	    70		 70	  -	   -
+I5EFO, Emil:	   123		 40	 41	  42
+I5SKK, Alex:	    45		  -	  -	  45
+IK1YBL, Paolo:      48		  1	 32	  15
+IK2RMZ, Martin:	   463		180	108	 175
+IZ8NXG, Renato:	   268		 12	116	 140
+M0DRK, Derek:	    65		 25	 20	  20
+M5ABN, Pete:	    88		 27	 34	  27
+M6MEN, Mark:       137		 74	 45	  18
+OH2BN, Jarmo:	     1		  -	  1	   -
+OH7QR, Erkki:	    99		 30	 20	  49
+OK1PSI, Michal:     27		 12	  5	  10
+OK2BMA, Pavel:	    58	 	 12	  6	  40
+OK2PXJ, Vaclav:	    10		  -	  -	  10
+PA0DIN, Din:        94		 10	 38	  46
+SV2BBK, Fanis:	   316		102	 74	 140
+
+I wish all good luck for October, and hopefully I'll be hearing
+back from all of you next month.
+
+Best 73,
+Robert, DM4RW mgr S&L

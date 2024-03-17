@@ -1,0 +1,64 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for April 2016, 4th month of the winter/spring run.
+
+We had one new participant: Fanis, SV2BBK as well as one returning
+participant: Valery, RW3AI. Welcome to both.
+
+Received were 29 logs containing 1054 valid QSOs into 206 locator squares.
+Among these locator squares, we had 85 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+	IN97 IO63 IO68 JN16 JN96 JO45 JO69 JO93 KN22 KN59
+	KN76 KN93 KO40 KO68 KO94 KP06 KP20
+
+Furthermore we had 42 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN45 JO01 JO60 JP80
+
+This leads to the following scores
+
+Call, name	Total score	 1	 2	3	4	5	6
+===========================================================================
+2E0DPH, Phil:	   295		35	64    130      66
+2E0EML, David:	   211		58	27     69      57
+2E0JYK, Graham:	    84		 -	 -     84	-
+DH3LK, Rudolf:	   279	       132	51     51      45
+DJ6UX, Eddi:	  1385	       354     360    297     374
+DK5OE, Klaus:	   187	        36	91     31      29
+DL1DXL, Lothar:    291	        42	82     91      76
+DL1HBL, Claus:	   196	        73	37     45      41
+DL7UGN, Mike:	    41	         4	10      3      24
+DM4RW, Robert:	   131	        26	22     33      50
+F5IYJ, Philippe:   244	        60	 9     46     129
+G0DDX, Geoff:       29	        12	 -     17	-
+G0DJA, Dave:	     9	         9	 -      -	-
+G0ILN, Richard:    271	        73	64     64      70
+G0POT, Michael:	   227	        30	45     56      96
+G3XVL, Chris:	   566	       130     240     85     111
+G3YJQ, Fred:	    86	        15	 6     30      35
+G4FAI, Tony:       187	        28	77     66      16
+G4KLE, Merv:	    22		 -	22      -	-
+G4LHI, Peter:	  1448	       284     313    462     389
+G4RHR, Ken:	   152	        50	38     41      23
+G7JMZ, John:	     4	    	 -       -      1	3
+GM0EPO, John:	    55	        15	23     12	5
+IK2RMZ, Martin:	  1445	       404     174    368     499
+M0DRK, Derek:	   358	        58	59    121     120
+M0GGK, Dave:	     1	 	 -	 1      -	-
+M5ABN, Pete:	   253	        23	47    111      72
+M5IPX, FISTS:        3	         3	 -      -	-
+M6MEN, Mark:       231	        48	 6     72     105
+OE6GWG, Werner:	   768	       137     231    279     121
+OH7QR, Erkki:	   256	       107	 -     60      89
+OK2BMA, Pavel:	    82	        18	19     33      12
+OK2PXJ, Vaclav:	    72	         7	19     46	-
+PA0DIN, Din:        67	        14	12     32	9
+RW3AI, Val:	     4		 -	 -	-	4
+SV2BBK, Fanis:	     9		 -	 -	-	9
+
+I wish all good luck for the running month of May, and see you back soon.
+
+73,
+Robert, DM4RW mgr S&L

@@ -1,0 +1,52 @@
+Snakes & Ladders (v2) result for October 2015
+
+Received were 32 logs containing 1168 valid QSOs into 283 locator squares.
+Welcome to Sylvester, DH4PB.
+
+Among the 283 locator squares, we had 53 locator squares with more than 5 QSOs.
+From these 53 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	JP80 JO78 JO65 IO93 JO43
+
+Of the 283 square locators worked, 126 made it to ladder square with
+only 1 QSO each:
+
+HM77 IL18 IM12 IM68 IM76 IM77 IM79 IM97 IN53 IN80 IN88 IN95 IN96 IN97 IO53
+IO62 IO64 IO65 IO71 IO74 IO85 IO86 JM19 JM29 JM68 JM78 JM89 JN00 JN09 JN13
+JN16 JN23 JN26 JN29 JN33 JN36 JN40 JN41 JN52 JN61 JN66 JN80 JN81 JN83 JN85
+JN94 JN95 JO03 JO49 JO55 JO58 JO66 JO76 JO79 JO80 JO81 JO84 JO88 JO91 JO97
+JP21 JP40 JP50 JP54 JP81 JP83 JP90 JP93 KM15 KN04 KN06 KN09 KN11 KN26 KN32
+KN34 KN36 KN39 KN45 KN47 KN49 KN50 KN59 KN64 KN65 KN68 KN75 KN77 KN88 KN93
+KN95 KN96 KN97 KO10 KO21 KO37 KO41 KO50 KO51 KO60 KO70 KO74 KO76 KO80 KO81
+KO86 KP00 KP01 KP04 KP11 KP22 KP68 KP94 LN04 LN08 LN14 LO06 LO20 LO33 LO34
+LO43 LO45 LO64 LO66 MO05 NO15
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   18 points (128)	G3XVL, Chris:	   80 points (200)
+2E0EML, David:	    8 points (64)	G3YJQ, Fred:	   28 points (150)
+2E0TEK, Graham:	    - points (8)	G3ZOD, Graham:	   10 points (54)
+DF2OK, Mike:	    - points (98)	G4FAI, Tony:       18 points (190)
+DH3LK, Rudolf:	    - points (310)	G4KLE, Merv:	   16 points (365)
+DH4PB, Sylvester    4 points (4)	G4LHI, Peter:	  151 points (1097)
+DJ6UX, Eddi:	  174 points (354)	G7JMZ, John:	    4 points (28)
+DK0AG, AGCW:	  111 points (229)	I2CZQ, Peter:	  327 points (1587)
+DK5OE, Klaus:	   26 points (204)	IK2RMZ, Martin:	  307 points (1900)
+DL1DXL, Lothar:    36 points (463)	M0DRK, Derek:	   34 points (182)
+DL1GBZ, Martin:	   52 points (198)	M5ABN, Pete:	   72 points (446)
+DL1HBL, Claus:	   16 points (491)	M6MEN, Mark:        - points (30)
+DL7UGN, Mike:	   28 points (196)	OE6GWG, Werner:	   24 points (657)
+DO1UZ, Olaf:        - points (126)	OH7QR, Erkki:	  127 points (779)
+EI6KH, Chris:	    - points (8)	OK2BMA, Pavel:	    6 points (100)
+F5IYJ, Philippe:   78 points (472)	OK2PXJ, Vaclav:	   14 points (114)
+G0DDX, Geoff:       6 points (80)	PA0DIN, Din:       16 points (108)
+G0DJA, Dave:	    4 points (46)	R2DEX, Alexej:	    - points (4)
+G0HGH, Jim:         - points (8)	RN3ANT, Vit:	    - points (94)
+G0ILN, Richard:    48 points (404)	RW3AI, Valery:	   20 points (196)
+G0POT, Michael:	   64 points (588)	
+	
+I wish all good luck for the running month of November, and I hope I may hear
+back from you end of November, early December.
+
+73,
+DM4RW mgr S&L

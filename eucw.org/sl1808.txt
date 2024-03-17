@@ -1,0 +1,55 @@
+Snakes & Ladders edition 2016
+
+Results for August 2018, 2nd month of the 2nd semester 2018.
+
+Welcome back to everybody!
+
+Received were 26 logs containing 853 valid QSOs into 206 locator squares.
+Among these locator squares, we had 81 candidate ladders (each with 1 QSO
+only) of which the following 16 were randomly selected as ladders:
+
+	IM99 IN93 IN95 IP62 JN04 JN11 JO33 JO76 JO91 JP70
+	KN05 KN29 KN84 KO02 KO15 LO66
+
+Furthermore we had 45 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN55 JN98 JO61 JO65
+
+This leads to the following scores
+
+Call, name	Total score	  1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    24		  4	 20
+DJ6UX, Eddi:	   867		435	432
+DL1DXL, Lothar:	    87		 59	 28
+DL1HBL, Claus:	    25		  9	 16
+DL7UGN, Mike:	    38		 10	 28
+F5IYJ, Philippe:     9		  9	  -
+G0ILN, Richard:    201		100	101
+G0POT, Michael:	     9		  4	  5
+G4FAI, Tony:	    27		 19	  8
+G4LHI, Peter:	  1035		457	578
+G4RHR, Ken:	    35		 24	 11
+G4TGJ, Richard:	    51		  4	 47
+I2CZQ, Peter:	   243		 24	219
+I5EFO, Emil:	    17		 12	  5
+I5SKK, Alex:	   193		120	 73
+IK2RMZ, Martin:	   317		148	169
+IZ8NXG, Renato:	   126		 77	 49
+M0DRK, Derek:	    39		 15	 24
+M0ILR, Simon:	    54		 24	 30
+M0PYC, David:	    57		 39	 18
+M0UZE, Mark:	   108		108	  -
+M5ABN, Pete:	    47		 26	 21
+MI0WWB, William:    64		 38	 26
+OH7QR, Erkki:	    33		 15	 18
+OK2BMA, Pavel:	    25		 14	 11
+PA0DIN, Din:        34		 18	 16
+SN9MT, Mirek:	    10		  3	  7
+SV2BBK, Fanis:	   374		226	148
+
+Good luck for September, enjoy the remainder ofsummer and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

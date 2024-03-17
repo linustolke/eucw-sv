@@ -1,0 +1,68 @@
+Snakes & Ladders, Edition 2016
+
+Results for June, last month of the first semester of 2019.
+
+Received were 26 logs containing 872 valid QSOs into 183 locator squares.
+Among these squares, we had 69 candidate ladders (each with 1 QSO
+only) of which the following 13 were randomly selected as ladders:
+
+        IM77 IN99 IO72 JM78 JN07 JN92 JO33 JP81 KN07 KN34
+        KO00 KP12 LO06
+
+Furthermore we had 36 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+        JN53 JN89 JO78
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:     165            15      34      26      30      33      14
+9H1PI, Ivan:       14             6       4       4       -       -       -
+DH3LK, Rudolf:    145             -      33      46      30      36       -
+DJ6UX, Eddi:     2281           327     367     348     321     429     489
+DL1DXL, Lothar:   116            29       -       -      10      67      10
+DL1HBL, Claus:    160            66      27      16      39      11       1
+DL7UGN, Mike:       6             6       -       -       -       -       -
+DM4RW, Robert:     80             1      55      10      10       4       -
+F5IYJ, Philippe:  115            34      42      18      21       -       -
+G0BON, Ivan:       54            17      10      15       -       -      12
+G0ILN, Richard:   474            55      79     110      84      86      60
+G0UYG, Andy:       76             -       -      76       -       -       -
+G0POT, Michael:    29             6      15       -       -       8       -
+G0XAH, David:     606             -       -       -     241     248     117
+G3XVL, Chris:     259            53      44      54      59      35      14
+G4FAI, Tony:       13             1       3       5       3       1       -
+G4LHI, Peter:    3019           390     400     688     469     614     458
+G4RHR, Ken:       231            29      31      37      65      50      19
+G4TGJ, Richard:    27             6       7       1       4       5       4
+I2CZQ, Peter:     157             -       -       -      18      80      59
+I5EFO, Emil:       68            15      53       -       -       -       -
+I5SKK, Alex:      530           141      64     151     144      12      18
+IK1YBL, Paolo:     36             -       -      15      21       -       -
+IK2RMZ, Martin:  1368           134     170     215     408     295     146
+IZ8NXG, Renato:   143            73      46      24       -       -       -
+M0DRK, Derek:     191            27      15      49      49      51       -
+M0ILR, Simon:     201            39      27      54      30      33      18
+M0PYC, David:     312            54      39      51      54      78      36
+M0UZE, Mark:      594            92      76     103     164      87      72
+M5ABN, Pete:      230            15      32      84      33      42      24
+MI0WWB, William:  326            29      53      72      58      46      68
+OE3KAB, Karl:     177            60      33      27      46       -      11
+OE6GWG, Werner:   451            93      75      96     110      39      38
+OH7QR, Erkki:     703            97     158     122      93      98     135
+OK1LIX, Petr:      27             -       -      27       -       -       -
+OK2BMA, Pavel:     55             9      21      15       4       5       1
+OK2PXJ, Vaclav:    56             -      56       -       -       -       -
+PA0DIN, Din:       58            20       8      15       -       4      11
+SN9MT, Mirek:      13             -      10       3       -       -       -
+SQ9IWA, Tom:      394             -      59     335       -       -       -
+SV2BBK, Fanis:   1221           187      35     275     231     283     210
+SV9RPE, Dick:     164            53      15      31      29      12      24
+
+Congratulation to everybody with the results achieved. I wish all good luck for
+the running month of July, and see you back soon.
+
+73,
+Robert (DM4RW), mgr S&L

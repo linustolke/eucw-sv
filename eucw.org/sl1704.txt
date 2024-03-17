@@ -1,0 +1,64 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for April 2017, fourth month of the winter/spring run.
+
+Received were 31 logs containing 1090 valid QSOs into 235 locator squares.
+Among the 235 locator squares, we had 89 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+	IN95 JM49 JM68 JM75 JN72 JN85 JN92 JP61 JP81 KN28
+	KN79 KO11 KO55 KO67 KO84 KP41 LO36
+
+Furthermore we had 55 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	IO80 IO91 JN48 JO10 JO61
+
+This leads to the following scores
+
+Call, name	Total score	 1	 2	 3	 4	5	6
+============================================================================
+2E0DPH, Phil:	    79		18	22	16	23
+2E0EML, David:	   253		72	58	71	52
+DJ6UX, Eddi:	  1304	       359     258     297     390
+DK5OE, Klaus:	    97	        21	23	27	26
+DL1DXL, Lothar:    275	        83	52	50	90
+DL1HBL, Claus:	   115	        43	35	 8	29
+DL2NBY, Tom:	    13		 -	 -	13	 -
+DL7UGN, Mike:	   101	        10	18	41	32
+DM4RW, Robert:	    43	        14	14	 9	 6
+F5IYJ, Philippe:    85	        15	 5	44	21
+G0DDX, Geoff:       19	        15	 4	 -	 -
+G0ILN, Richard:    135	        45	19	29	42
+G0POT, Michael:	    58	        10	15	 -	33
+G3XVL, Chris:	   340	        91	41     102     106
+G3YJQ, Fred:	   145	        26	43	50	26
+G3ZOD, Graham:	     5		 1	 -	 4	 -
+G4FAI, Tony:       101	        28	21	37	15
+G4LHI, Peter:	  1490	       347     383     330     430
+G4RHR, Ken:	    46	        31	 1	 6	 8
+G6HH, Richard:	    60		14	13	21	12
+G7JMZ, John:	     3	         2	 -	 1	 -
+I2CZQ, Peter:	   594		93     129     226     146
+I5EFO, Emil:	   118		26	25	42	25
+I5SKK, Alex:	   113		 -	 8	48	57
+IK1YBL,	Paolo:	    26		 -	 4	 1	21
+IK2RMZ, Martin:	  1293	       315     210     249     519
+IZ2FME, MiK:  	     3		 -	 1	 2	 -
+M0DRK, Derek:	   166	        48	59	59	 -
+M5ABN, Pete:	   209	        56	62      57	34
+M6MEN, Mark:       351	       136     109	64	42
+MX5IPX, Graham:	     9		 6	 -	 3	 -
+OE6GWG, Werner:	   197	        27	51	38	81
+OH7QR, Erkki:	   162	        36	54	24	48
+OK1PSI, Michal:     41	         -	17	12	12
+OK2BMA, Pavel:	    89	        18	45	18	 8
+OK2PXJ, Vaclav:	    74	        15	26	12	21
+PA0DIN, Din:        56	         6	 8	19	23
+SV2BBK, Fanis:	   746	       299     156     144     147
+
+I wish all of you good luck for the running month of May, and I hope to see
+you back soon.
+
+73,
+DM4RW mgr S&L

@@ -1,0 +1,168 @@
+EuCW Bulletin No 2020/01
+=======================
+
+1) Covid-19
+Dear friends, I am writing to you after a few months of silence due to the
+very difficult situation caused by the Covid-19 pandemic virus which, as
+you know, has heavily affected, in particular, Northern Italy and especially
+the city of Bergamo where I live with my family. We have gone through very
+difficult moments and some of you have written to me telling that you have
+had to face very serious problems, both family and professional. I hope that
+you are all healthy and safe and I invite you not to let your guard down,
+in view of the Autumn period: it is not finished yet. I hope to hear from
+you soon and that you can take part in to the initiatives of our Club.
+
+2) IARU Region 1 General Conference
+
+As you know, the IARU Region 1 General Conference will be in Novi Sad, Serbia
+by virtual means and it is starting in a few months (October 10 – 2020,
+October 16, 2020). In the light of the COVID-19 problems, General Conference
+will be divided in two parts.
+
+The first part will be held on the scheduled dates by virtual means and the
+second part in-person in Novi Sad on a date to be determined in 2021. The
+11 – 15 October 2020event will consider much of the “business as
+usual” elements of a General Conference in Committees C2, C3, C4, C5 and
+C7. We received the IARU “news” that you can read on official IARU web site:
+“Because frequency allocations and amateur radio operating interests vary
+in different parts of the world, the development of band plans – voluntary
+guidelines on the use of the spectrum that is available to radio amateurs
+– is a responsibility of the three IARU regional organizations. Each of
+the three Regions has a band planning committee to focus on this work. In
+recent years there have been increased efforts to bring the regional band
+plans into alignment wherever possible. Final approval of band plan revisions
+is generally given by the regional conferences of IARU member-societies that
+are held every three years on a rotating basis. This approach to band planning
+generally has kept pace with the evolution of amateur radio operating. However,
+the explosive growth in HF (below 30 MHz) digital modes, particularly FT8, has
+led to perceived overcrowding of HF digital mode band segments. Accordingly,
+a working group has been formed consisting of representatives of the three
+regional band planning committees. This is the first time the three Regions
+have joined together to directly coordinate band planning efforts. The working
+group has already had fruitful discussions with the WSJT Development Group
+led by Joe Taylor, K1JT.Additional discussions, including with other HF
+stakeholders, will be held as part of a fundamental review of the different
+HF digital modes, and how they can be best categorized and arranged to share
+the limited spectrum available. The main aim is to develop solutions that
+reduce congestion within very popular mode segments while preventing mutual
+interference between incompatible modes to the greatest extent possible. While
+the proposed band plan revisions will have to be approved by member-societies
+in each Region, recent administrative changes mean that the changes can be
+implemented without having to wait for the regional conferences”.
+
+You are all invited, in view of the Conference, to send us any proposals or opinions, with particular regard to the question relating to the frequency segments to be assigned or confirmed to the cw mode. Every proposal, comment or suggestion will be greatly appreciated.
+
+ 
+
+ 
+
+3) Snakes & Ladders activity
+
+I would like to thank Robert, DM4RW, for all the good job about the Snakes &
+Ladders EuCW activity; I’d like to congratulate with all the OM who decided
+to take part in this important event. Here you can find - ranked by totalscore,
+the complete list:
+
+ 
+1.      G4LHI,Peter:           3386
+2.      I2CZQ,Peter:           2861
+3.      DJ6UX,Eddi:            2200
+4.      IK2RMZ, Martin:         1531
+5.      SV2BBK, Fanis:          1424
+6.      OH7QR, Erkki:           1410
+7.      M0ILR, Simon:           466
+8.      DL1DXL, Lothar:         422
+9.      M0UZE, Mark:            312
+10.     G3XVL, Chris:           289
+11.     IZ2FME, Mike:           282
+12.     M0PYC, David:           282
+13.     M5ABN, Pete:            266
+14.     MI0WWB, William:        246
+15.     2E0DPH, Phil:           187
+16.     G0ILN, Richard:         177
+17.     I5SKK, Alex:            147
+18.     DH3LK, Rudolf:          112
+19.     M0DRK, Derek:           110
+20.     OK2BMA, Pavel:          108
+21.     F5IYJ, Phil:            93
+22.     DL1HBL, Claus:          92
+23.     GM0EPO, John:           80
+24.     PA0DIN, Din:            67
+25.     G4FAI, Tony:            66
+26.     IK1YBL, Paolo:          61
+27.     DL7UGN, Mike:           60
+28.     IK5WOB, Fabrizio:       56
+29.     G0POT, Michael:         40
+30.     DH0DK, Ben:             26
+31.     PG4I, Joop:             16
+32.     G4TGJ, Richard:         12
+33.     G0DDX, Geoff:           9
+34.     G3ZOD, Graham:          9
+35.     DK9HE, Andreas:         7
+36.     DM4RW, Robert:          6
+37.     MX5IPX, Graham:         3
+38.     M0TEU, Mateusz:         2
+
+
+I wish all good luck for the new semester! Please invite your friends to take part of the game!
+
+ 
+
+4) EuCW/AGCW QRS Week 2020
+
+We ha a great activity with the EuCW QRS week too!
+Here you can find the results:
+
+Class A (qro)
+c/s    QSO  Err  Award
+2E0DPH   8   0.0
+DC2TS    9  0.0
+DC8ED    7  0.0
+DD7CW   14  0.2
+DL1AH    4  0.0
+DL1DXL  18  0.2
+DL9EBG  19  1.0
+F4GOP   24  1.6
+G0EML   39  1.0  A2
+G0FDC    3  0.0
+G4LHI  100  0.2  A1
+IK2RMZ(observer)
+M0ILR   10  0.2
+M0PBZ   15  0.0
+M0UZE    8  0.0
+M5ABN   10  0.2
+OH7QR   27  0.2  A3
+PA2ST    3  0.0
+PG4I    11  0.2
+
+Class B - 5WRF
+
+DG1FBN   1  0.0
+DJ6UX   28  0.2  B2
+DM2DZM  39  0.0  B1
+G4DNP    8  0.8  B3
+
+Class C - SWL had no entries
+
+MRMAward:  OH7QR
+
+Club Class
+
+AGCW    242    Club Award
+FISTS   239
+UFT     24
+VHSC    100
+
+RBNs Spots inQRS
+
+   1769 IK2RMZ  (observer)
+    519 PA2ST   RBN Award
+    453 G4LHI
+    452 F4GOP
+    301 DJ6UX
+    267 PG4I
+    240 M0PBZ
+
+I wish you all the best and stay safe!
+
+IZ2FME MiKi

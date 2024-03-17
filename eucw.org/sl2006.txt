@@ -1,0 +1,107 @@
+Snakes & Ladders, Edition 2016
+
+Results for the last month of the 1st semester of 2020
+
+Welcome to Joop, PG4I, who joined S&L this month.
+
+Received were 27 logs containing 1122 valid QSOs into 232 locator squares.
+Among these squares, we had 89 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+        IN96 IO64 JM75 JN06 JN70 JN76 JN80 JN95 JO58 KM17
+        KN28 KN36 KO50 KO80 KO83 KP22 KP24
+
+Furthermore we had 46 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+        JN35 JN58 JO61 JO70
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:     187            13      11      31      89      31      12
+DH0DK, Ben:        26            13      13       -       -       -       -
+DH3LK, Rudolf:    112            40      72       -       -       -       -
+DJ6UX, Eddi:     2200           343     189     432     369     402     465
+DK9HE, Andreas:     7             -       -       -       -       7       -
+DL1DXL, Lothar:   422           110      65      96      74      52      25
+DL1HBL, Claus:     92             2      25      42       8       3      12
+DL7UGN, Mike:      60             6       4       9      17      16       8
+DM4RW, Robert:      6             -       -       2       2       2       -
+F5IYJ, Phil:       93             -       2       9      16      40      26
+G0DDX, Geoff:       9             -       -       9       -       -       -
+G0ILN, Richard:   177            22      37      24      32      37      25
+G0POT, Michael:    40             -       -       -      40       -       -
+G3XVL, Chris:     289            34      33      43      39      71      69
+G3ZOD, Graham:      9             -       -       -       -       2       7
+G4FAI, Tony:       66            36      16       -       3      11       -
+G4LHI, Peter:    3386           278     419     495     789     768     637
+G4TGJ, Richard:    12             3       6       3       -       -       -
+GM0EPO, John:      80             -       -      25       7      18      30
+I2CZQ, Peter:    2861           244     466     784     587     426     354
+I5SKK, Alex:      147            60       -      42      45       -       -
+IK1YBL, Paolo:     61             -       -       -       -      36      25
+IK2RMZ, Martin:  1531            82     225     286     542     250     146
+IK5WOB, Fabrizio:  56            13       3      30       1       9       -
+IZ2FME, Mike:     282            39       7      56      29      68      83
+M0DRK, Derek:     110             -      13      23      48       9      17
+M0ILR, Simon:     466             8      63      70     126     111      88
+M0PYC, David:     282            30      33      36      66      66      51
+M0TEU, Mateusz:     2             -       -       -       -       2       -
+M0UZE, Mark:      312             3       -       -      46     136     127
+M5ABN, Pete:      266            24      61      40      56      38      47
+MI0WWB, William:  246            37      59      32      30      32      56
+MX5IPX, Graham:     3             -       -       -       -       -       3
+OH7QR, Erkki:    1410           255     276     257     197     218     207
+OK2BMA, Pavel:    108             6       3       3      15      47      34
+PA0DIN, Din:       67            19      25      18       -       1       4
+PG4I, Joop:        16             -       -       -       -       -      16
+SV2BBK, Fanis:   1424           145     152     326     301     328     172
+
+Ranked by total score, the list looks as follows:
+
+1.      G4LHI, Peter:           3386
+2.      I2CZQ, Peter:           2861
+3.      DJ6UX, Eddi:            2200
+4.      IK2RMZ, Martin:         1531
+5.      SV2BBK, Fanis:          1424
+6.      OH7QR, Erkki:           1410
+7.      M0ILR, Simon:           466
+8.      DL1DXL, Lothar:         422
+9.      M0UZE, Mark:            312
+10.     G3XVL, Chris:           289
+11.     IZ2FME, Mike:           282
+12.     M0PYC, David:           282
+13.     M5ABN, Pete:            266
+14.     MI0WWB, William:        246
+15.     2E0DPH, Phil:           187
+16.     G0ILN, Richard:         177
+17.     I5SKK, Alex:            147
+18.     DH3LK, Rudolf:          112
+19.     M0DRK, Derek:           110
+20.     OK2BMA, Pavel:          108
+21.     F5IYJ, Phil:            93
+22.     DL1HBL, Claus:          92
+23.     GM0EPO, John:           80
+24.     PA0DIN, Din:            67
+25.     G4FAI, Tony:            66
+26.     IK1YBL, Paolo:          61
+27.     DL7UGN, Mike:           60
+28.     IK5WOB, Fabrizio:       56
+29.     G0POT, Michael:         40
+30.     DH0DK, Ben:             26
+31.     PG4I, Joop:             16
+32.     G4TGJ, Richard:         12
+33.     G0DDX, Geoff:           9
+34.     G3ZOD, Graham:          9
+35.     DK9HE, Andreas:         7
+36.     DM4RW, Robert:          6
+37.     MX5IPX, Graham:         3
+38.     M0TEU, Mateusz:         2
+
+I wish all good luck for the new semester and the running month of July, and
+I hope to see you back soon. Take care and stay safe!
+
+73,
+DM4RW mgr S&L

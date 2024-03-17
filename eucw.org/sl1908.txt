@@ -1,0 +1,56 @@
+Snakes & Ladders, Edition 2016
+
+Results for August, second month of the second semester of 2019.
+
+Received were 26 logs containing 933 valid QSOs into 204 locator squares.
+Among these locator squares, we had 91 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+        IM59 IN94 IN99 IO95 JN05 JN15 JN16 JN46 JN56 JN66
+        JN68 JN75 JO56 KM26 KM27 KN33 KN93 KP21 
+
+Furthermore we had 44 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+        IO81 JO10 JO50 JO51
+
+This leads to the following scores
+
+Call, name      Total score       1       2       3       4       5       6
+=============================================================================
+2E0DPH, Phil:       65           43      22
+DJ6UX, Eddi:       801          495     306
+DH3LK, Rudolf:      55            -      55
+DL1DXL, Lothar:     58           58       -
+DL1HBL, Claus:      48           21      27
+G0BON, Ivan:        36           36       -
+G0ILN, Richard:    151           64      87
+G0POT, Michael:     19           19       -
+G0UYG, Andy:        60           60       -
+G0XAH, David:      133           82      51
+G3XVL, Chris:       53           19      34
+G3ZOD, Graham:       5            5       -
+G4FAI, Tony:         4            2       2
+G4LHI, Peter:      867          521     346
+G4RHR, Ken:         68           33      35
+G4TGJ, Richard:     18           13       5
+I2CZQ, Peter:      104           41      63
+I5SKK, Alex:        15            -      15
+IK2RMZ, Martin:    641          153     488
+M0DRK, Derek:       74           42      32
+M0ILR, Simon:       63           39      24
+M0PYC, David:      105           57      48
+M0UZE, Mark:       150           81      69
+M5ABN, Pete:        70           36      34
+MI0WWB, William:   274          179      95
+OH7QR, Erkki:      202           97     105
+OK1LIX, Petr:        5            -       5
+OK2BMA, Pavel:       7            1       6
+PA0DIN, Din:        18            -      18
+SV2BBK, Fanis:     441          204     237
+SV9RPE, Dick:       46           31      15
+
+I wish all good luck for September, enjoy late summer and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

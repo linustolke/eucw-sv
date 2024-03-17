@@ -1,0 +1,58 @@
+Snakes & Ladders result for October
+
+Welcome to one new participant this month: G0DDX, Geoff
+Total participants up to now: 41
+
+Received were 31 logs containing 1188 valid QSOs into 310 locator squares.
+In addition, 1 check log was received.
+
+The Snake squares have been determined as follows:
+IO92 with 88 hits
+JO02 with 65 hits
+IO83 with 30 hits
+
+=> Note that IO92, JO02, IO83, IO80, JO62 and JO53 cannot be snake in the month of November,
+because they were already snake in either September or October.
+
+Of the 310 locator squares worked, 137 made it to ladder square with only 1 QSO each:
+HP94 IM59 IM66 IM76 IM77 IM78 IM97 IN50 IN51 IN70 IN81 IN83 IN87 IN93 IN95 IN96 IN99 IO67
+IO71 IO84 IO87 JM68 JM76 JM78 JM89 JN00 JN03 JN04 JN09 JN19 JN24 JN33 JN34 JN35 JN37 JN41
+JN52 JN63 JN69 JN72 JN80 JN81 JN83 JN84 JN94 JN98 JO03 JO28 JO44 JO45 JO65 JO68 JO69 JO74
+JO76 JO77 JO79 JO80 JO82 JO87 JO88 JO89 JO91 JP70 JP81 JP82 JP93 KM06 KM08 KM19 KM25 KM27
+KM36 KM46 KM65 KN08 KN10 KN11 KN12 KN33 KN41 KN43 KN44 KN59 KN64 KN74 KN89 KN99 KO00 KO03
+KO04 KO06 KO13 KO29 KO43 KO45 KO49 KO61 KO70 KO71 KO75 KO81 KO83 KO86 KO89 KO93 KO95 KO96
+KP11 KP12 KP13 KP21 KP22 KP24 KP30 KP68 KP69 LN04 LN15 LN19 LN28 LO02 LO10 LO21 LO42 LO44
+LO48 LO66 LO72 LP73 MO05 MO06 MO27 MO75 NO43 OO06 PN64
+
+This leads to the following score for September (total accumulated score in parentheses):
+2E0DPH, Phil:	   40 points (195)		G4LHI, Peter:	   60 points (420)
+2E0TEK, Graham:	   25 points (30)		G5VZ, Chris:	    - points (30)
+5B4AHO, Barry:	    - points (155)		GM0EPO, John:	   30 points (250)
+DH0DK, Ben:	   60 points (400)		I2CZQ, Peter:	   60 points (230)
+DK2DO, Wolfgang:    - points (25)		IK2RMZ, Martin:	   60 points (420)
+DK5OE, Klaus:	   15 points (130)		IK5WOB, Fabrizio:  25 points (75)
+DL1DXL, Lothar:	   55 points (395)		IZ1POZ, Paolo:	    - points (155)
+DL1GBZ, Martin:	   60 points (210)		IZ5JLW, Lele:	    - points (55)
+DL1HBL, Claus:     60 points (240)		M0DAG, Dean:	    - points (25)
+DL7UGN, Mike:	   30 points (230)		M0DRK, Derek:	   -5 points (60)
+DO1UZ, Olaf:	   60 points (325)		M5ABN, Pete:	   55 points (340)
+DO2TC, Peter:	   60 points (300)		M6DXL, Marshall:    - points (0)
+EI6KH, Chris:	    0 points (125)		OE3LHB, Heinz:	   60 points (420)
+F5IYJ, Philippe:   50 points (135)		OH7QR, Erkki:	   60 points (420)
+G0DDX, Geoff:	    0 points (0)		OK2BMA, Pavel:	    5 points (90)
+G0DJA, Dave:	    - points (40)		PA0ATG, Adriaan:   55 points (390)
+G0ILN, Richard:    60 points (115)		PA0DIN, Din:	   35 points (190)
+G3YJQ, Fred:	   35 points (335)		RN3ANT, Vitaly:	    - points (30)
+G3ZOD, Graham:	    - points (70)		RW3AI, Valery:	   60 points (420)
+G4FAI, Tony:       15 points (50)		SP9NLI, Andy:	   55 points (355)
+G4KLE, Merv:	   60 points (390)		
+
+=> note that "- points" means that no log was received this month
+
+=> October was a good month, wherein only M0DRK had to take a snake bite (IO92).
+
+Thanks to all for your participation, good luck for November, and I hope to see
+you everyone back early December.
+
+73
+DM4RW (mgr S&L)

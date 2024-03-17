@@ -1,0 +1,67 @@
+Snakes & Ladders, Edition 2016
+
+Results for the final month of 1st semester of 2018
+
+Welcome to one new participants: William, GI0WWB!
+
+Received were 28 logs containing 1144 valid QSOs into 226 locator squares.
+Among these squares, we had 88 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+	IN80 JM78 JN69 JO46 JO59 JO91 KM36 KN01 KN12 KN56
+	KN89 KN98 KO15 KO33 KO90 KP12 LO48
+
+Furthermore we had 52 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	IO83 JN48 JN58 JN77 JO65
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	  124		 28	 15	 23	 17	 22	 19
+2E0EML, David:	   12		 12	  -	  -	  -	  -	  -
+DJ6UX, Eddi:	 2422		327	366	411	471	460	387
+DL1DXL, Lothar:   267		126	 78	 57	  6	  -	  -
+DL1HBL, Claus:	   98		 20	 19	 14	  6	  -	 39
+DL7UGN, Mike:	   61		 11	  1	 22	  -	 11	 16
+DM4RW, Robert:	   51		  7	 20	 10	 10	  4	  -
+F5IYJ, Philippe:   76		  8	 40	 13	 15	  -	  -
+G0ILN, Richard:   424		 74	 33	 83	 70	 78	 86
+G0JHK, Mike:	   55		 41	 14	  -	  -	  -	  -
+G0POT, Michael:	   87		  -	  1	 12	 27	 28	 19
+G0XAH, David:	  719		  -	  -	102	154	256	207
+G3XVL, Chris:	   62		 62	  -	  -	  -	  -	  -
+G3YJQ, Fred:	  118		 40	 13	 19	 17	 29	  -
+G4FAI, Tony:      123		 37	 31	 19	  6	 20	 10
+G4KLE, Merv:	   86		  -	  -	  -	  -	 31	 55
+G4LHI, Peter:	 3229		124	244	655	770	710	726
+G4RHR, Ken:	  127		 19	 47	 24	  6	  8	 23
+G4TGJ, Richard:	  214		  -	 21	 38	 35	 86	 34
+GM0EPO, John:	  113		  -	 32	 13	 61	  7	  -
+I2CZQ, Peter:	 2408		195	394	607	520	484	208
+I5EFO, Emil:	   71		  9	 14	 12	 17	  4	 15
+I5SKK, Alex:	  231		 24	  6	 48	 90	 63	  -
+IK1YBL, Paolo:	   15		  -	  -	  5	 10	  -	  -
+IK2RMZ, Martin:	 2145		253	247	446	458	348	393
+IZ8NXG, Renato:   713		207	238	160	 33	 27	 48
+M0DRK, Derek:	  174		 21	 11	 41	 35	 39	 27
+M0ILR, Simon:	  177		  -	 21	 33	 24	 51	 48
+M0PYC, David:	  297		  -	 21	 69	 54	 78	 75
+M0UZE, Mark:	  268		 22	  -	  -	  3	111	132
+M5ABN, Pete:	  142		 28	 35	 12	 22	 25	 20
+MI0WWB, William:   10		  -	  -	  -	  -	  -	 10
+OE6GWG, Werner:	  556		102	106	 90	114	 72	 72
+OH7QR, Erkki:	  260		 37	 57	 50	 32	 42	 42
+OK1PSI, Michal:     9		  4	  -	  3	  2	  -	  -
+OK2BMA, Pavel:	   84		 32	  6	 24	  9	  7	  6
+PA0DIN, Din:	   53		  -	  6	 14	  8	 21	  4
+SN9MT, Mirek:	   18		  -	  -	  -	  -	  9	  9
+SV2BBK, Fanis:	 1085		210	167	207	232	158	111
+
+Congratulations to everyone for the results achieved. At the same time, I wish all
+good luck for the second semester of this year, and I hope to see you back soon.
+
+Best 73,
+DM4RW mgr S&L

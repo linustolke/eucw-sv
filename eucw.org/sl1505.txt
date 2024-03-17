@@ -1,0 +1,51 @@
+Snakes & Ladders (v2) result for May 2015
+
+There was one new participant this month: welcome to G7JMZ, John.
+
+Received were 32 logs and 1 check log from Eddi, DJ6UX. One log had to be
+invalidated due to lacking "OFF" times for all QSOs. The remaining 31 logs
+contained 1235 valid QSOs into 270 locator squares.
+
+Among the 270 locator squares, we had 56 locator squares with more than 5 QSOs.
+From these 56 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	JO00, JO21, IO81, IO75, JN97
+
+Of the 270 square locators worked, 125 (!) made it to ladder square with only 1
+QSO each:
+
+IM58 IM76 IM78 IM98 IN70 IN73 IN77 IN80 IN82 IN88 IN93 IN94 IN95 IN99 IO65 IO67
+IO68 IO72 IO87 IO95 IP35 IP90 JM78 JM88 JM99 JN04 JN09 JN11 JN15 JN19 JN23 JN35
+JN37 JN40 JN41 JN42 JN46 JN52 JN56 JN57 JN64 JN70 JN71 JN78 JN80 JN81 JN86 JN89
+JN93 JN99 JO29 JO38 JO46 JO47 JO48 JO55 JO58 JO68 JO69 JO75 JO76 JO77 JO78 JO79
+JO80 JO81 JO87 JO88 JO90 JO92 JO94 JP20 JP43 JP51 JP64 JP81 KM39 KN02 KN03 KN08
+KN09 KN10 KN12 KN17 KN24 KN25 KN40 KN44 KN67 KN68 KN77 KN79 KN89 KN91 KN95 KN98
+KO04 KO13 KO30 KO47 KO50 KO51 KO74 KO81 KO86 KO91 KO93 KO95 KP00 KP03 KP19 KP40
+KP71 LO00 LO06 LO09 LO20 LO21 LO45 LO46 LO48 LO91 LO93 LP31 MO09
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   20 points (36)	G3ZOD, Graham:	   12 points (18)
+2E0EML, David:	   12 points (36)	G4FAI, Tony:       36 points (80)
+2E0TEK, Graham:	    - points (8)	G4KLE, Merv:	   84 points (219)
+DF2OK, Mike:	   14 points (32)	G4LHI, Peter:	  169 points (356)
+DH3LK, Rudolf:	   54 points (66)	G7JMZ, John:	   12 points (12)
+DK5OE, Klaus:	   44 points (82)	I2CZQ, Peter:	  160 points (333)
+DL1DXL, Lothar:   115 points (201)	IK2RMZ, Martin:	  336 points (642)
+DL1GBZ, Martin:	    - points (66)	M0DRK, Derek:	   16 points (72)
+DL1HBL, Claus:	  112 points (208)	M5ABN, Pete:	   32 points (120)
+DL7UGN, Mike:	   38 points (68)	OE6GWG, Werner:	  146 points (192)
+DO1UZ, Olaf:       18 points (60)	OH7QR, Erkki:	  133 points (262)
+F5IYJ, Philippe:   88 points (152)	OK2BMA, Pavel:	   14 points (34)
+G0DJA, Dave:	   24 points (24)	OK2PXJ, Vaclav:	   22 points (42)
+G0ILN, Richard:    66 points (140)	PA0DIN, Din:       12 points (36)
+G0POT, Michael:	  119 points (203)	RN3ANT, Vit:	   32 points (74)
+G3XVL, Chris:	   14 points (14)	RW3AI, Valery:	   28 points (48)
+G3YJQ, Fred:	   30 points (32)	
+
+Many thanks for such a great contribution: I wish all good luck for the running
+month of June, hope conditions will stay good, and I hope to hear back from you
+end of June, early July.
+
+Regards, best 73,
+DM4RW mgr S&L

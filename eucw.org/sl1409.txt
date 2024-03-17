@@ -1,0 +1,58 @@
+Snakes & Ladders result for September
+
+Welcome to one new participant this month: G4FAI, Tony
+Total participants up to now: 40
+
+Received were 29 logs containing 957 valid QSOs into 285 locator squares.
+
+The Snake squares have been determined as follows:
+IO80 with 22 hits
+JO62 with 16 hits
+JO53 with 15 hits
+
+=> Note that IO80, JO62, JO53, IO93, IO91 and IO70 cannot be snake in the month of October,
+because they were already snake in either August or September.
+
+Of the 285 locator squares worked, 135 (!) made it to ladder square with only 1 log entry each:
+HM77 HP94 IL18 IM76 IM79 IN78 IN80 IN81 IN82 IN83 IN95 IN99 IO52 IO64 IO65 IO67 IO70 IO71 IO72
+IO74 IO87 JM76 JN00 JN04 JN09 JN12 JN13 JN19 JN28 JN29 JN46 JN56 JN64 JN75 JN85 JN87 JN95 JN98
+JO03 JO33 JO45 JO48 JO57 JO58 JO67 JO73 JO75 JO83 JO92 JO93 JO99 JP41 JP51 JP65 JP70 JP80 JP90
+JQ98 KM08 KM17 KM25 KM27 KN03 KN08 KN10 KN11 KN14 KN19 KN20 KN28 KN33 KN35 KN37 KN44 KN47 KN48
+KN49 KN56 KN58 KN59 KN67 KN68 KN75 KN93 KN94 KN97 KO01 KO05 KO06 KO10 KO14 KO16 KO25 KO30 KO51
+KO53 KO54 KO55 KO63 KO74 KO80 KO83 KO92 KO98 KP01 KP03 KP11 KP12 KP13 KP22 KP23 KP30 LN06 LO00
+LO01 LO21 LO23 LO35 LO36 LO44 LO48 LO74 LO82 LO93 MO06 MO16 MO27 MP27 MP61 NO01 NO53 NO56 OO06
+OO22 OO90
+
+This leads to the following score for September (total accumulated score in parentheses):
+2E0DPH, Phil:	   10 points (155)		G4LHI, Peter:	   60 points (360)
+2E0TEK, Graham:	    - points (5)		G5VZ, Chris:	    - points (30)
+5B4AHO, Barry:	    - points (155)		GM0EPO, John:	   25 points (220)
+DH0DK, Ben:	   55 points (340)		I2CZQ, Peter:	   55 points (170)
+DK2DO, Wolfgang:    - points (25)		IK2RMZ, Martin:	   60 points (360)
+DK5OE, Klaus:	    5 points (115)		IK5WOB, Fabrizio: -10 points (50)
+DL1DXL, Lothar:	   60 points (340)		IZ1POZ, Paolo:	    - points (155)
+DL1GBZ, Martin:	   30 points (150)		IZ5JLW, Lele:	    - points (55)
+DL1HBL, Claus:     60 points (180)		M0DAG, Dean:	    - points (25)
+DL7UGN, Mike:	  -10 points (200)		M0DRK, Derek:	   45 points (65)
+DO1UZ, Olaf:	   50 points (265)		M5ABN, Pete:	   60 points (285)
+DO2TC, Peter:	   60 points (240)		M6DXL, Marshall:    - points (0)
+EI6KH, Chris:	    0 points (125)		OE3LHB, Heinz:	   60 points (360)
+F5IYJ, Philippe:   30 points (85)		OH7QR, Erkki:	   60 points (360)
+G0DJA, Dave:	    - points (40)		OK2BMA, Pavel:	    5 points (85)
+G0ILN, Richard:     5 points (55)		PA0ATG, Adriaan:   60 points (335)
+G3YJQ, Fred:	   45 points (300)		PA0DIN, Din:	   15 points (155)
+G3ZOD, Graham:	    - points (70)		RN3ANT, Vitaly:	    - points (30)
+G4FAI, Tony:       35 points (35)		RW3AI, Valery:	   60 points (360)
+G4KLE, Merv:	   55 points (330)		SP9NLI, Andy:	   55 points (300)
+
+=> note that "- points" means that no log was received this month
+
+=> Unfortunately, there were 4 casualties this month, as follows:
+ DL7UGN (JO62), G0ILN (IO80), IK5WOB (JO62), DK5OE (JO53)
+
+Good luck to all for October, and I hope to see you all back early November.
+
+Regards, 73s,
+Robert
+
+DM4RW mgr S&L

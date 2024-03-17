@@ -1,0 +1,77 @@
+EuCW Bulletin No 2019/Dec/19
+============================
+
+1) Merry Christmas and Happy New Year
+Just to wish you and your families Merry X-Mas and Happy New Year.
+I really hope to listen to you on the air more often.
+Keep in touch with all the EuCW activities and 1st of all with the
+Snakes and Ladders.
+
+2) EUCW complaints
+As Chairman of the EUCW it is my task to defend the interests of the
+CW community in case of band-plan abuse at the expense of dedicated
+CW-only frequencies. Occasionally, I do this by sending out a letter.
+Usually, I invite the involved parties to respect the recommendations
+of the band-plan. Lately, we observed two types of abuses. One refers
+to uncoordinated beacons that occupy CW frequencies in a
+semi-permanent way (such as SM6AAL or RN6HI) blocking the frequency
+for QSOs. Please do not send reception reports to beacons that are
+not coordinated by the IARU. The other one is the use of digital mode
+FT8 by DXpeditions (such as EX0QP or TO9W) around the CW frequency
+3567 kHz. If you are a DXer, please check DXpeditions announcing CW
+frequencies for digital modes. If you detect them, please let the
+organizers know that the IARU band plan should be respected by us
+all.
+
+3) EuCW rules
+Our EUCW rule is that all our ECMs have a decent command of the
+English language because English is our working language as it is
+established in our constitutions. ECMs who feel insecure in this
+field should try to find an appropriate successor. Nevertheless, none
+of us is a fault-finder and we are all tolerant with possible errors
+or imprecision. Moreover, most ECMs will translate all news into the
+languages of their clubs. Even if not perfect, any contribution is
+better than no contribution. If ever possible please DO NOT use
+machine translation. Machine translation is a great tool to overcome
+language barriers, however, it is absolutely not the task of machine
+translations to provide output for publication. In our context it
+should be nothing but a last resort if everything else fails. If you
+have to use machine translation, please get familiar with the
+instructions for the particular software you are using. It is of
+utmost importance that the input format is correct. Some machines
+produce garbage if you interrupt sentences with line breaks in it,
+all machines depend on a correct use of commas, full stops, colons,
+semi-colons, etc. Virtually none of us speaks a foreign language
+well enough to feed amachine translation. Therefore, please do not
+feed machine translators with anything other than text written by
+educated native speakers. Any machine output must be checked by a
+human. Do not translate into a language you do not speak at all
+unless you know somebody to do the checking for you.
+
+4) EuCW formats for communications via web: advice
+As long as we stick to the fact that our working language is English
+it is safe to provide texts as pure ASCII. If we need a more
+comfortable set of symbols it is perfect to use Unicode text, since
+this has become a de facto standard for many years. If you want to
+underpin your texts with logos or other graphic input it is safe to
+provide a link to the graphical item. For general distribution do
+*not* use PDF, very few of us can modify PDF, moreover, the PDF
+format has become a major vector of malware and it may be unsafe to
+open PDF. Do not take it for granted that every ECM has access to the
+text processor of your choice (e.g. Word, libreoffice, TeX, or
+whatever). Provide simple *.txt output using either ASCII or UTF8
+code. Avoid the use of the old standards like ISO-8859-N or Latin.
+
+5) ARI Loano - Marconi Club 04.01.2020 activity on the air
+I inform you that A.R.I Loano, to promote the MARCONI CLUB A.R.I.
+LOANO, founded on May the 8th 1988 by Libero Meriggi I1YXN, strongly
+motivated by the famous DXpeditioners Baldur DJ6SI, intend to
+organize a day to introduce the new generations to the Club, and
+bring together all those who truly love in the wonderful art of
+telegraphy. For having a successfully event, we ask you to spend a
+few hours on the key. Date: 04/01/2020
+Time: from 09:00 UTC - 21:00 UTC. Band : 20m - 40m - 80m - Exchange:
+"CQ MCD" - RST report and the membership number. Non members: RST
+report + progressive number (Logs: marconiclub@ariloano.it).
+
+IZ2FME MiKi

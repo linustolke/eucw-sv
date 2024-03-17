@@ -1,0 +1,118 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for November 2016, 6th and last month of the summer/autumn run.
+
+First of all a Happy New Year to anybody who reads this. I could wish for better
+conditions, but we all know that the current bad conditions will remain for some
+years, so we better get used to it.
+
+Despite the conditions, December was a good month with 32 logs filed, comprising
+1114 QSOs into 245 locator squares.
+Among these locator squares, we had 100 candidate ladders (each with 1 QSO
+only) of which the following 21 were randomly selected as ladders:
+
+	IM58 IM98 IN82 IN92 IN95 IN96 JM78 JN75 JN83 JN85
+	JP90 KN05 KN07 KN08 KN14 KN59 KO30 KP19 LN42 MO27
+
+Furthermore we had 54 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	JN53 JO01 JO22 JO52 JP80
+
+This leads to the following, final scores for the 2nd half year of 2016
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	   172		  -	 50	  23	   32	    39	     28
+2E0EML, David:	   318		 42	 48	  57       66	    66	     39
+DH3LK, Rudolf:	    81		 34	 29	  18        -	     -	      -
+DJ6UX, Eddi:	   992		  -	 64	  34      312	   294	    288
+DK5OE, Klaus:	    44		 11	  7	   1        -	     4	     21
+DL1DXL, Lothar:    154		 19	  4	  51       80	     -	      -
+DL1GBZ, Martin:    116		  -       -        -      116	     -	      -
+DL1HBL, Claus:	   150		 52	  -	  18       38	    21	     21
+DL7UGN, Mike:	    55		 13	  6	   3       16	     3	     14
+DM4RW, Robert:	   123		 21	  -	  17       17	    28	     40
+EI6KH, Chris:	     5		  -	  -	   -	    -	     -	      5
+F5IYJ, Philippe:   330		 96	 80	  58       51	    10	     35
+G0ILN, Richard:    316		 48	 33	  47       51	    61	     76
+G0POT, Michael:	   148		 15	  6	  60       21	    12	     34
+G3XVL, Chris:	   559		107	114	  37       42	   146	    113
+G3YJQ, Fred:	   165		  9	 10	  35       69	    21	     21
+G3ZOD, Graham:	    19		  6	  -	   6        -	     3	      4
+G4FAI, Tony:       152		 61	  9	  19        -	    24	     39
+G4LHI, Peter:	  2118		286	234	 243      469	   419	    467
+G4RHR, Ken:	   220		 23	 41	  52       45	    18	     41
+G7JMZ, John:	    11		  -	  6	   -        2	     -	      3
+GX0IPX, FISTS:	     4		  -	  -	   4        -	     -	      -
+I2CZQ, Peter:	   936		  -	126	 149      200	   169	    292
+I5EFO, Emil:	    69		  -	  -	  22       18	    16	     13
+I5SKK, Alex:	   497		176	 93	 126       46	    29	     27
+IK2RMZ, Martin:	  1795		233	445	 368      200	   215	    334
+M0DRK, Derek:	   362	         27	 77	  38       65	   100	     55
+M5ABN, Pete:	   188	         32	 39	  40       23	    33	     21
+M6MEN, Mark:       587	         50	149	  91       97	   141	     59
+MX5IPX, FISTS:	    13		  -	  -	  10        2	     -	      1
+OE3LHB, Heinz:	    79		 16	 30	   8       19	     6	      -
+OE6GWG, Werner:	   382	         33	 75	  54       54	   121	     45
+OH7QR, Erkki:	   263	         21	 31	  33      101	    21	     56
+OK2BMA, Pavel:	    66	         12	  5	  29        3	     4	     13
+OK2PXJ, Vaclav:     23		  -	  -	   -	    -	     -	     23
+PA0DIN, Din:       108	         18	 12	   6       11	    18	     43
+RW3AI, Val:        423		  -       -        -      185	   238	      -
+SV2BBK, Fanis:	   857		143	157	 150      120	   123	    164
+
+If we sort this result by scores, then this leads to the following order,
+with an indication whether a certificate will be provided (minimum of 5 logs
+submitted) with or without endorsement for 6 logs filed:
+
+1	G4LHI, Peter:		2118	Cert	6 logs	1st Award
+2	IK2RMZ, Martin:		1795	Cert	6 logs	2nd Award
+3	DJ6UX, Eddi:		 992	Cert	6 logs	3rd Award
+4	I2CZQ, Peter:		 936	Cert
+5	SV2BBK, Fanis:		 857	Cert	6 logs
+6	M6MEN, Mark:		 587	Cert	6 logs
+7	G3XVL, Chris:		 559	Cert	6 logs
+8	I5SKK, Alex:		 497	Cert	6 logs
+9	RW3AI, Val:		 423
+10	OE6GWG, Werner:		 382	Cert	6 logs
+11	M0DRK, Derek:		 362	Cert	6 logs
+12	F5IYJ, Philippe:	 330	Cert	6 logs
+13	2E0EML, David:		 318	Cert	6 logs
+14	G0ILN, Richard:		 316	Cert	6 logs
+15	OH7QR, Erkki:		 263	Cert	6 logs
+16	G4RHR, Ken:		 220	Cert	6 logs
+17	M5ABN, Pete:		 188	Cert	6 logs
+18	2E0DPH, Phil:		 172	Cert
+19	G3YJQ, Fred:		 165	Cert	6 logs
+20	DL1DXL, Lothar:		 154
+21	G4FAI, Tony:		 152	Cert
+22	DL1HBL, Claus:		 150	Cert
+23	G0POT, Michael:		 148	Cert	6 logs
+24	DM4RW, Robert:		 123	Cert
+25	DL1GBZ, Martin:		 116
+26	PA0DIN, Din:		 108	Cert	6 logs
+27	DH3LK, Rudolf:		  81
+28	OE3LHB, Heinz:		  79	Cert
+29	I5EFO, Emil:		  69
+30	OK2BMA, Pavel:		  66	Cert	6 logs
+31	DL7UGN, Mike:		  55	Cert	6 logs
+32	DK5OE, Klaus:		  44	Cert
+33	OK2PXJ, Vaclav:		  23
+34	G3ZOD, Graham:		  19
+35	MX5IPX, FISTS:		  13
+36	G7JMZ, John:		  11
+37	EI6KH, Chris:		   5
+38	GX0IPX, FISTS:		   4
+
+Everybody congratulations on the achieved results!
+
+The certificates will be distributed as soon as possible by Martin, IK2RMZ.
+
+This completes the second run of SL2016. Many thanks to all of you for participating
+in the second half of 2016! As announced, SL16 will continue to run in 2017 as well
+(as SL16, not SL17 HI!). Good luck to all for the time to come, and I look forward
+to receiving your logs.
+
+Best 73,
+Robert, DM4RW mgr S&L

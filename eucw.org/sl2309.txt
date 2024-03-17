@@ -1,0 +1,71 @@
+Snakes & Ladders, Edition 2016
+
+Results for the third month of the second semester of 2023
+
+Received were 39 logs containing 1442 valid QSOs into 288 locator squares.
+
+Among these squares, we had 102 candidate ladders (each with 1 QSO
+only) from which the following 20 were randomly selected as ladders:
+
+     IM77 IO68 JN73 JN90 JO29 JO77 JO81 JO82 JO87 JP92
+     KM64 KN20 KN29 KN49 KO11 KO61 KO80 LO43 LO87 LO88
+     
+Furthermore we had 74 candidate snakes (each with more than 5 QSOs), of which
+the following 7 were randomly selected as snakes:
+
+     IO85 JN54 JN58 JN92 JO01 KN16 KP20 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+5B4AHO, Barry            159|      0|     37|    122|
+DJ6UX, Eddi             1179|    399|    438|    342|
+DL1DHM, Hanns            217|     67|    104|     46|
+DL1DXL, Lothar           387|    126|    157|    104|
+DL1GBZ, Martin           480|    236|    104|    140|
+DL1HBL, Claus             23|      2|      1|     20|
+DL3GJ, Greg               14|     13|      1|      0|
+DM4RW, Robert             13|      5|      1|      7|
+F4GOU, Tom               462|    233|    132|     97|
+F5IYJ, Philippe          132|      8|     75|     49|
+F5LKK, Serge              53|     21|     18|     14|
+F5POJ, Philippe         1369|    397|    699|    273|
+F8EHJ, Herve              56|     31|     21|      4|
+G0HGH, Jim                 2|      0|      2|      0|
+G0ILN, Richard            13|      2|      4|      7|
+G0XAH, David               8|      0|      8|      0|
+G3XVL, Chris             109|     43|     36|     30|
+G3ZOD, Graham             20|     12|      2|      6|
+I0YQX, Italo              26|      7|      5|     14|
+I3JUK, Giuseppe          873|    260|    316|    297|
+I5ECW, Vanni             242|     62|     97|     83|
+IK1VQO, Gianluca          27|      6|      4|     17|
+IK1WNO, Enrico           103|     24|     46|     33|
+IK5WOB, Fabrizio         112|     39|     31|     42|
+IK7UKF, Sal              103|     13|     42|     48|
+IK8SCR, Nicola            38|      6|     25|      7|
+IN3FHE, Helga             22|      2|      7|     13|
+IT9FGY, Salvo             45|      0|      0|     45|
+IU8OJT, Marco            151|     23|     60|     68|
+IW2JJS, Giorgio           36|     17|      9|     10|
+IZ2FME, Michele          179|     24|    113|     42|
+IZ5BBS, Renato           538|    134|    187|    217|
+IZ7EBY, Tony              86|     18|     31|     37|
+M0KTZ, Enzo              364|    126|    102|    136|
+M5ABN, Pete               93|     37|     29|     27|
+MI0WWB, William          635|    177|    308|    150|
+MM0UMH, Les              203|     66|     68|     69|
+MX5IPX, Graham             8|      0|      1|      7|
+OH7QR, Erkki             156|     33|     23|    100|
+OK2BMA, Pavel              8|      0|      0|      8|
+PA7RA, Rien              385|    189|     90|    106|
+SN9MT, Mirek              10|     10|      0|      0|
+SQ9S, Adam                 4|      0|      0|      4|
+SV2BBK, Fanis            181|    110|     71|      0|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

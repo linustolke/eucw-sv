@@ -1,0 +1,54 @@
+Snakes & Ladders edition 2nd semester of 2017
+
+Results for July 2017, 1st month of the summer/autumn run.
+
+Welcome back to everybody!
+
+Received were 27 logs containing 790 valid QSOs into 214 locator squares.
+Among these locator squares, we had 94 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+	IN72 IN73 IN90 JN34 JN54 JN77 JN81 JO66 JO72 JO79
+	JO86 KM28 KN32 KN66 KN78 KN98 KO84 LO23
+
+Furthermore we had 31 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO94 JO51 JO62
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    12		 12
+2E0EML, David:	    30		 30
+DJ6UX, Eddi:	   539		539
+DL1HBL, Claus:	    45		 45
+DL7UGN, Mike:	    12		 12
+F5IYJ, Philippe:    49		 49
+G0ILN, Richard:     12		 12
+G0POT, Michael:	     9		  9
+G3XVL, Chris:	   172		172
+G3YJQ, Fred:	     6		  6
+G4FAI, Tony:        29		 29
+G4KLE, Mervin:	    55		 55
+G4LHI, Peter:	   299		299
+G4RHR, Ken:	    32		 32
+G6HH. Richard:      14		 14
+I2CZQ, Peter:	    70		 70
+IK1YBL, Paolo:       1		  1
+IK2RMZ, Martin:	   180		180
+IZ8NXG, Renato:	    12		 12
+M0DRK, Derek:	    25		 25
+M5ABN, Pete:	    27		 27
+M6MEN, Mark:        74		 74
+OH7QR, Erkki:	    30		 30
+OK1PSI, Michal:     12		 12
+OK2BMA, Pavel:	    12	 	 12
+PA0DIN, Din:        10		 10
+SV2BBK, Fanis:	   102		102
+
+I wish all good luck for August, enjoy the summer and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

@@ -1,0 +1,54 @@
+Snakes & Ladders edition 2016
+
+Results for September 2018, 3rd month of the 2nd semester 2018.
+
+Received were 23 logs containing 758 valid QSOs into 203 locator squares.
+Among these locator squares, we had 91 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+	IL18 IN95 IO85 IO86 JN04 JN93 JN95 JO52 JO74 JO97
+	JP73 KN07 KN25 KN97 KO83 KO95 LO16 LO61
+
+Furthermore we had 32 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO91 JN97 JO00
+
+This leads to the following scores
+
+Call, name	Total score	  1	  2	  3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    58		  4	 20	 34
+DJ6UX, Eddi:	  1388		435	432	521
+DL1DXL, Lothar:	    87		 59	 28	  -
+DL1GBZ, Martin:	    68		  -	  -	 68
+DL1HBL, Claus:	    25		  9	 16	  -
+DL7UGN, Mike:	    38		 10	 28	  -
+F5IYJ, Philippe:     9		  9	  -	  -
+G0ILN, Richard:    263		100	101	 62
+G0POT, Michael:	     9		  4	  5	  -
+G4FAI, Tony:	    34		 19	  8	  7
+G4LHI, Peter:	  1426		457	578	391
+G4RHR, Ken:	    58		 24	 11	 23
+G4TGJ, Richard:	    85		  4	 47	 34
+I2CZQ, Peter:	   342		 24	219	 99
+I5EFO, Emil:	    31		 12	  5	 14
+I5SKK, Alex:	   293		120	 73	100
+IK2RMZ, Martin:	   464		148	169	147
+IZ8NXG, Renato:	   193		 77	 49	 67
+M0DRK, Derek:	    73		 15	 24	 34
+M0ILR, Simon:	    79		 24	 30	 25
+M0PYC, David:	    84		 39	 18	 27
+M0UZE, Mark:	   108		108	  -	  -
+M5ABN, Pete:	    72		 26	 21	 25
+MI0WWB, William:   101		 38	 26	 37
+OH7QR, Erkki:	    45		 15	 18	 12
+OK2BMA, Pavel:	    35		 14	 11	 10
+PA0DIN, Din:        37		 18	 16	  3
+SN9MT, Mirek:	    13		  3	  7	  3
+SV2BBK, Fanis:	   626		226	148	252
+
+Good luck for October and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

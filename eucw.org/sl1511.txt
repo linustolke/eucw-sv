@@ -1,0 +1,56 @@
+Snakes & Ladders (v2) result for November 2015
+
+Received were 31 logs containing 1101 valid QSOs into 271 locator squares.
+Welcome to Jean-Paul, ON7AMI and Ken, G4RHR. In addition, two logs were
+received from GX0IPX and MX5IPX, which are club call-signs from FISTS,
+with thanks Graham, G3ZOD.
+
+Among the 271 locator squares, we had 47 locator squares with more than 5 QSOs.
+From these 47 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	IO75 JN48 JO43 JO59
+
+Of the 271 square locators worked, 136 made it to ladder square with
+only 1 QSO each:
+
+IL18 IM67 IM88 IM98 IN51 IN73 IN80 IN87 IN90 IN97 IO52 IO53 IO68 IO71 IO74 IO77
+IO84 IO87 IO88 IO95 IO99 IP35 JM08 JN00 JN01 JN04 JN05 JN08 JN09 JN11 JN24 JN26
+JN28 JN29 JN33 JN36 JN37 JN46 JN54 JN62 JN67 JN69 JN70 JN72 JN78 JN79 JN80 JN81
+JN85 JN86 JN91 JN92 JN94 JN95 JO03 JO28 JO49 JO66 JO68 JO72 JO74 JO81 JO82 JO84
+JO91 JO93 JO97 JP65 JP93 KM25 KM27 KN01 KN02 KN03 KN05 KN13 KN14 KN16 KN17 KN19
+KN23 KN29 KN32 KN43 KN46 KN47 KN49 KN56 KN66 KN69 KN78 KN79 KN84 KN86 KN87 KN94
+KN95 KN97 KO00 KO06 KO13 KO14 KO24 KO34 KO44 KO50 KO54 KO68 KO70 KO74 KO80 KO84
+KO85 KO99 KP11 KP13 KP23 KP25 KP50 KP51 LN24 LO03 LO06 LO09 LO16 LO26 LO44 LO48
+LO53 LO66 LO71 LP21 MO05 MO06 NO15 NO34
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   24 points (152)	G3ZOD, Graham:	    4 points (58)
+2E0EML, David:	   12 points (76)	G4FAI, Tony:       20 points (210)
+2E0TEK, Graham:	    - points (8)	G4KLE, Merv:	    - points (365)
+DF2OK, Mike:	    - points (98)	G4LHI, Peter:	  130 points (1227)
+DH3LK, Rudolf:	    - points (310)	G4RHR, Ken:	   26 points (26)
+DH4PB, Sylvester    - points (4)	G7JMZ, John:	    2 points (30)
+DJ6UX, Eddi:	  170 points (524)	GX0IPX, FISTS:     14 points (14)
+DK0AG, AGCW:	    - points (229)	I2CZQ, Peter:	  293 points (1880)
+DK5OE, Klaus:	   14 points (218)	IK2RMZ, Martin:	  291 points (2191)
+DL1DXL, Lothar:    60 points (523)	M0DRK, Derek:	   36 points (218)
+DL1GBZ, Martin:	    - points (198)	M5ABN, Pete:	   48 points (494)
+DL1HBL, Claus:	   46 points (537)	MX5IPX, FISTS:     12 points (12)
+DL7UGN, Mike:	    4 points (200)	M6MEN, Mark:        - points (30)
+DO1UZ, Olaf:        - points (126)	OE6GWG, Werner:	  127 points (784)
+EI6KH, Chris:	    6 points (14)	OH7QR, Erkki:	   96 points (875)
+F5IYJ, Philippe:   34 points (506)	OK2BMA, Pavel:	    8 points (108)
+G0DDX, Geoff:      10 points (90)	OK2PXJ, Vaclav:	    - points (114)
+G0DJA, Dave:	   24 points (70)	ON7AMI, Jean-Paul: 36 points (36)
+G0HGH, Jim:         - points (8)	PA0DIN, Din:       22 points (130)
+G0ILN, Richard:    62 points (466)	R2DEX, Alexej:	    - points (4)
+G0POT, Michael:	   26 points (614)	RN3ANT, Vit:	    - points (94)
+G3XVL, Chris:	  101 points (301)	RW3AI, Valery:	    - points (196)
+G3YJQ, Fred:	   22 points (172)
+	
+I wish all good luck for the running month of December, the last month of the SLv2,
+and I hope I may hear back from you end of December, early January 2016.
+
+73,
+DM4RW mgr S&L

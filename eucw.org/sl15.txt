@@ -1,0 +1,69 @@
+Snakes & Ladders version 2, final results
+
+It is with pleasure that I can now present to you the final result of EuCW's
+Snakes & Ladders, version 2. We had a total number of 45 participants based on
+call-sign, of which some only filed a single log, others participated every
+month. Some call-signs were club call-signs (DK0AG, GX0IPX, MX5IPX).
+
+The results listed below include for every participant the end-score, the rank,
+the number of logs filed and whether a certificate will be granted, with or
+without the endorsement for 9 logs filed (marked with an asterix).
+
+CALL, Name	   end-score   rank   #logs   	cert (*)
+--------------------------------------------------------
+2E0DPH, Phil:		168	24	9	yes*
+2E0EML, David:		 80	32	9	yes*
+2E0TEK, Graham:		  8	42	1	no
+DF2OK, Mike:		 98	29	5	no
+DH3LK, Rudolf:		310	15	6	yes
+DH4PB, Sylvester	  4	43	1	no
+DJ6UX, Eddi:		662	 6	4	no
+DK0AG, AGCW:		229	20	2	no
+DK5OE, Klaus:		232	18	9	yes*
+DL1DXL, Lothar:		553	10	9	yes*
+DL1GBZ, Martin:		198	22	3	no
+DL1HBL, Claus:		605	 8	9	yes*
+DL7UGN, Mike:		230	19	8	yes
+DO1UZ, Olaf:		126	26	5	no
+EI6KH, Chris:		 32	37	3	no
+F5IYJ, Philippe:	530	11	9	yes*
+G0DDX, Geoff:		 96	30	7	yes
+G0DJA, Dave:		 70	33	5	no
+G0HGH, Jim:		  8	42	1	no
+G0ILN, Richard:		492	12	9	yes*
+G0POT, Michael:		636	 7	9	yes*
+G3XVL, Chris:		391	13	7	yes
+G3YJQ, Fred:		180	23	9	yes*
+G3ZOD, Graham:		 58	34	7	yes
+G4FAI. Tony:		228	21	9	yes*
+G4KLE, Merv:		365	14	6	yes
+G4LHI, Peter:	       1360	 3	9	yes
+G4RHR, Ken:		 26	39	2	no
+G7JMZ, John:		 30	38	5	no
+GX0IPX, FISTS:		 14	40	1	no
+I2CZQ, Peter:	       2210	 2	9	yes*
+IK2RMZ, Martin:	       2620	 1	9	yes*
+M0DRK, Derek:		238	17	9	yes*
+M5ABN, Pete:		564	 9	9	yes*
+MX5IPX, FISTS:		 12	41	1	no
+M6MEN, Mark:		 34	36	5	no
+OE6GWG, Werner:		804	 5	9	yes*
+OH7QR, Erkki:		947	 4	9	yes*
+OK2BMA, Pavel:		118	27	9	yes*
+OK2PXJ, Vaclav:		116	28	6	yes
+ON7AMI, Jean-Paul:	 36	35	1	no
+PA0DIN, Din:		148	25	9	yes*
+R2DEX, Alexej:		  4	43	1	no
+RN3ANT, Vit:		 94	31	3	no
+RW3AI, Valery:		248	16	8	yes
+
+This means that Martin, IK2RMZ managed to get gold status with 2620 points;
+Peter, I2CQZ silver with 2210 points and Peter, G4LHI, bronze with 1360 points.
+Congrats to these three participants for a very good score,
+and congrats to all others to their achieved rank and performance.
+
+This finalises Snakes & Ladders version 2. I hope you enjoyed it as much
+as I did, and I look forward to receiving your logs for SL2016.
+
+Good luck to you all, best 73s,
+Robert, DM4RW (mgr S&L)

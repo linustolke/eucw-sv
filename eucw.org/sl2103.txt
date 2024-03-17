@@ -1,0 +1,87 @@
+Snakes & Ladders, Edition 2016
+
+Results for the third month of the first semester of 2021
+
+Received were 50 logs containing 2977 valid QSOs into 365 locator squares.
+
+Among these squares, we had 112 candidate ladders (each with 1 QSO
+only) from which the following 22 were randomly selected as ladders:
+
+     IL28 IM68 IN50 IP62 JN69 JN74 JN95 JO28 JO45 JO49
+     JO58 KM39 KN00 KN14 KN58 KO51 KP22 LN05 LO21 LO43
+     LO71 MO07 
+
+Furthermore we had 126 candidate snakes (each with more than 5 QSOs), of which
+the following 12 were randomly selected as snakes:
+
+     IN71 JN36 JN49 JN52 JN78 JN80 JN87 JN89 JO32 JO53
+     KM18 KN06 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+2E0DPH, Phil             122|     58|     32|     32|
+CR7AWB, Jorge             23|      0|      9|     14|
+DJ6UX, Eddi             1338|    468|    393|    477|
+DL1DXL, Lothar           108|     18|     55|     35|
+DL1HBL, Claus             25|      9|     14|      2|
+DM4RW, Robert             24|      6|     12|      6|
+F5IYJ, Philippe          164|     52|     41|     71|
+G0ILN, Richard           123|     26|     30|     67|
+G3XVL, Chris             127|     39|     48|     40|
+G3ZOD, Graham              7|      1|      3|      3|
+G4FAI, Tony               18|      9|      6|      3|
+G4KLE, Merv                8|      0|      0|      8|
+G4LHI, Peter             945|    407|    233|    305|
+G4TGJ, Richard            32|     18|      9|      5|
+G4WQI, Dean               21|     13|      8|      0|
+I0YQX, Italo             271|    105|     80|     86|
+I3JUK, Giuseppe         1907|    529|    536|    842|
+I5ECW, Vanni             709|    107|    255|    347|
+IK0XFD, Giordano          32|     27|      0|      5|
+IK1VQO, Gianluca           1|      0|      0|      1|
+IK1WNO, Enrico            84|     48|     15|     21|
+IK1YBL, Paolo             67|     28|     39|      0|
+IK2CKR, Angelo           422|    207|    133|     82|
+IK2GAJ, Marco             93|     21|     51|     21|
+IK2RMZ, Martin           898|    331|    249|    318|
+IK2SAE, Paolo             61|      6|     34|     21|
+IK2WQH, Fabio             14|     14|      0|      0|
+IK5ZWU, Walter          2585|    386|    563|   1636|
+IK7UKF, Sal              259|    144|     40|     75|
+IK8SCR, Nicola           195|     31|     44|    120|
+IN3FHE, Helga             23|      8|     10|      5|
+IT9FGY, Salvo             59|     13|     18|     28|
+IU0HMB, Vlado           1329|    439|    434|    456|
+IU0LJD, Ernesto           16|     11|      5|      0|
+IW2JJS, Giorgio           32|     12|      8|     12|
+IZ2CPS, Roberto           51|     51|      0|      0|
+IZ2FME, Michele          411|    157|    123|    131|
+IZ7EBY, Tony              45|     45|      0|      0|
+IZ8NXG, Renato           112|     30|     19|     63|
+IZ8SWO, Everaldo          60|     21|     24|     15|
+M0DRK, Derek              59|     23|     16|     20|
+M0PYC, David              60|      0|     30|     30|
+M0UZE, Mark              399|    138|    126|    135|
+M5ABN, Pete              175|     55|     50|     70|
+MI0WWB, William           75|     36|     13|     26|
+MX5IPX, Graham             5|      0|      5|      0|
+OE3KAB, Karl             124|     21|    103|      0|
+OH7QR, Erkki             797|    281|    272|    244|
+OK1LIX, Petr               5|      3|      1|      1|
+OK2BMA, Pavel             58|     11|     19|     28|
+PA0DIN, Din               33|      8|      6|     19|
+PA0VLD, Cees             102|     44|     30|     28|
+PA7RA, Rien              697|    182|    299|    216|
+PG4I, Joop               688|    228|    271|    189|
+SQ9S, Adam               113|      8|     63|     42|
+SV1DAY, Manos             18|      3|      9|      6|
+SV2BBK, Fanis            419|    149|    120|    150|
+YL3JD, Hanz              392|     95|    121|    176|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

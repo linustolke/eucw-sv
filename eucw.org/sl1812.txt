@@ -1,0 +1,58 @@
+Snakes & Ladders edition 2016
+
+Results for December 2018, 6th month of the 2nd semester 2018.
+
+We have one new participant: OE3KAB, Karl: welcome!
+
+Received were 26 logs containing 1237 valid QSOs into 227 locator squares.
+Among these locator squares, we had 100 candidate ladders (each with 1 QSO
+only) of which the following 20 were randomly selected as ladders:
+
+	IM86 IN81 IN96 IO68 IO86 JM99 JN33 JO64 JO88 JP83
+	JP93 KN01 KN09 KN17 KN35 KN98 KO10 KO27 KP50 NO56
+
+Furthermore we had 59 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	IO94 JN18 JN59 JO60 KP42
+
+This leads to the following scores
+
+Call, name	Total score	  1	  2	  3	  4	  5       6
+===============================================================================
+2E0DPH, Phil:	    75		  4	 20	 34	 12	  -	  5
+DJ6UX, Eddi:	  2691		435	432	521	454	408	441
+DL1DXL, Lothar:	   198		 59	 28	  -	  -	111	  -
+DL1GBZ, Martin:	    68		  -	  -	 68	  -	  -	  -
+DL1HBL, Claus:	    37		  9	 16	  -	  -	  6	  6
+DL7UGN, Mike:	    51		 10	 28	  -	  -	  8	  5
+F5IYJ, Philippe:   106		  9	  -	  -	 13	 34	 50
+G0BON, Ivan:	    61		  -	  -	  -	  -	 40	 21
+G0ILN, Richard:    509		100	101	 62	 66	 67	113
+G0POT, Michael:	     9		  4	  5	  -	  -	  -	  -
+G4FAI, Tony:	    70		 19	  8	  7	 29	  -	  7
+G4LHI, Peter:	  3077		457	578	391	522	516	613
+G4RHR, Ken:	   202		 24	 11	 23	 34	 27	 83
+G4TGJ, Richard:	   104		  4	 47	 34	 16	  3	  -
+I2CZQ, Peter:	  1338		 24	219	 99	363	345	288
+I5EFO, Emil:	    51		 12	  5	 14	 12	  5	  3
+I5SKK, Alex:	   353		120	 73	100	  -	 30	 30
+IK2RMZ, Martin:	  1180		148	169	147	270	105	341
+IZ8NXG, Renato:	   517		 77	 49	 67	 54	105	165
+M0DRK, Derek:	   121		 15	 24	 34	 21	 17	 10
+M0ILR, Simon:	   181		 24	 30	 25	 33	 36	 33
+M0PYC, David:	   189		 39	 18	 27	 48	 42	 15
+M0UZE, Mark:	   392		108	  -	  -	 85	107	 92
+M5ABN, Pete:	   202		 26	 21	 25	 19	 22	 89
+MI0WWB, William:   206		 38	 26	 37	 52	 18	 35
+OE3KAB, Karl:	    10		  -	  -	  -	  -	  -	 10
+OH7QR, Erkki:	   174		 15	 18	 12	 73	 18	 38
+OK2BMA, Pavel:	    74		 14	 11	 10	 22	  1	 16
+PA0DIN, Din:        55		 18	 16	  3	  3	  7	  8
+SN9MT, Mirek:	    13		  3	  7	  3	  -	  -	  -
+SV2BBK, Fanis:	  1207		226	148	252	128	218	235
+
+Good luck for Janaury, best wishes for 2019 and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

@@ -1,0 +1,54 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for July 2016, 1st month of the summer/autumn run.
+
+Welcome back to everybody!
+
+Received were 27 logs containing 606 valid QSOs into 188 locator squares.
+Among these locator squares, we had 95 candidate ladders (each with 1 QSO
+only) of which the following 19 were randomly selected as ladders:
+
+	IM87 IO81 IO82 IO85 IO88 IO95 JM49 JN16 JN69 JN81
+	JN85 JO64 JO80 JO91 KN08 KN56 KN79 KO80 KP23
+
+Furthermore we had 26 candidate snakes (each with more than 5 QSOs), of which
+the following 2 were randomly selected as snakes:
+
+	JN88 JO61
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0EML, David:	    42		 42
+DH3LK, Rudolf:	    34		 34
+DK5OE, Klaus:	    11		 11
+DL1DXL, Lothar:     19		 19
+DL1HBL, Claus:	    52		 52
+DL7UGN, Mike:	    13		 13
+DM4RW, Robert:	    21		 21
+F5IYJ, Philippe:    96		 96
+G0ILN, Richard:     48		 48
+G0POT, Michael:	    15		 15
+G3XVL, Chris:	   107		107
+G3YJQ, Fred:	     9		  9
+G3ZOD, Graham:	     6		  6
+G4FAI, Tony:        61		 61
+G4LHI, Peter:	   286		286
+G4RHR, Ken:	    23		 23
+I5SKK, Alex:	   176		176
+IK2RMZ, Martin:	   233		233
+M0DRK, Derek:	    27	         27
+M5ABN, Pete:	    32	         32
+M6MEN, Mark:        50	         50
+OE3LHB, Heinz:	    16		 16
+OE6GWG, Werner:	    33	         33
+OH7QR, Erkki:	    21	         21
+OK2BMA, Pavel:	    12	         12
+PA0DIN, Din:        18	         18
+SV2BBK, Fanis:	   143		143
+
+I wish all good luck for the running month of August, and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

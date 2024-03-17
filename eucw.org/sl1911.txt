@@ -1,0 +1,61 @@
+Snakes & Ladders, Edition 2016
+
+Results for November, fifth month of the second semester of 2019.
+
+Received were 25 logs containing 846 valid QSOs into 207 locator squares.
+Among these locator squares, we had 98 candidate ladders (each with 1 QSO
+only) of which the following 19 were randomly selected as ladders:
+
+        IM89 IM97 IN62 JN36 JN65 JN96 JO29 JO33 JO55 KN08
+        KN74 KN77 KN87 KN98 KO12 KP13 KP50 LO64 OO22
+
+Furthermore we had 46 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+        JN11 JN61 JO21 JP65
+
+This leads to the following scores
+
+Call, name      Total score       1       2       3       4       5       6
+=============================================================================
+2E0DPH, Phil:      117           43      22      12      21      19
+9H1PI, Ivan:         1            -       -       1       -       -
+DJ6UX, Eddi:      1905          495     306     271     408     425
+DH3LK, Rudolf:      55            -      55       -       -       -
+DL1DXL, Lothar:    195           58       -       7      66      64
+DL1GBZ, Martin:    116            -       -     116       -       -
+DL1HBL, Claus:      74           21      27       5      19       2
+F5IYJ, Phil:        19            -       -       5       6       8
+G0BON, Ivan:        36           36       -       -       -       -
+G0ILN, Richard:    291           64      87      63      47      30
+G0POT, Michael:     19           19       -       -       -       -
+G0UYG, Andy:        60           60       -       -       -       -
+G0XAH, David:      194           82      51      61       -       -
+G3XVL, Chris:      215           19      34      27      43      92
+G3ZOD, Graham:      10            5       -       -       5       -
+G4FAI, Tony:         6            2       2       1       -       1
+G4KLE, Mervyn:      13            -       -       -      13       -
+G4LHI, Peter:     2218          521     346     433     544     374
+G4RHR, Ken:        159           33      35      43      23      25
+G4TGJ, Richard:     28           13       5       6       4       -
+I2CZQ, Peter:      353           41      63      31     125      93
+I5SKK, Alex:       100            -      15      49       -      36
+IK2RMZ, Martin:   1625          153     488     389     332     263
+M0DRK, Derek:      135           42      32      29      26       6
+M0ILR, Simon:      202           39      24      30      51      58
+M0PYC, David:      213           57      48      39      36      33
+M0UZE, Mark:       310           81      69      68      92       -
+M5ABN, Pete:       148           36      34      35      41       2
+MI0WWB, William:   495          179      95      56      82      83
+OH7QR, Erkki:      567           97     105      31     119     215
+OK1LIX, Petr:       14            -       5       7       2       -
+OK2BMA, Pavel:      14            1       6       2       3       2
+PA0DIN, Din:        26            -      18       6       -       2
+SV2BBK, Fanis:    1205          204     237     144     310     310
+SV9RPE, Dick:       68           31      15       7      12       3
+
+I wish all good luck for December, have fun and a Merry Christmas and
+see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

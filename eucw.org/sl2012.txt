@@ -1,0 +1,88 @@
+Snakes & Ladders, Edition 2016
+
+Results for the last month of the second semester of 2020
+
+Received were 52 logs containing 2969 valid QSOs into 360 locator squares.
+
+Among these squares, we had 105 candidate ladders (each with 1 QSO
+only) from which the following 21 were randomly selected as ladders:
+
+     IM86 IN71 IN78 IN92 IP62 JN85 JP50 JP81 KN01 KN13
+     KN49 KN74 KO00 KO37 KO84 KP10 LO01 LO97 MO05 MO36
+     PN78 
+
+Furthermore we had 127 candidate snakes (each with more than 5 QSOs), of which
+the following 12 were randomly selected as snakes:
+
+     IO81 IO85 JN35 JN38 JN47 JO30 JO32 JO51 KN04 KN07
+     KN32 KP21 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+2E0DPH, Phil             184|     11|      0|     10|     21|    115|     27|
+DJ6UX, Eddi             2406|    432|    450|    372|    486|    414|    252|
+DL1DXL, Lothar           428|    120|     99|     78|      0|     64|     67|
+DL1HBL, Claus             74|     21|      2|     10|     13|      8|     20|
+DL7UGN, Michael           59|     22|     26|      1|      0|      0|     10|
+DM4RW, Robert             36|      8|      0|     10|      7|     11|      0|
+F5IYJ, Philippe          188|     47|     18|     25|     53|     30|     15|
+G0ILN, Richard           181|     49|     26|      0|     39|     30|     37|
+G3XVL, Chris             331|     54|     26|     55|     48|    101|     47|
+G3ZOD, Graham             22|     15|      2|      4|      0|      1|      0|
+G4FAI, Tony               30|      4|      0|      1|      4|      3|     18|
+G4LHI, Peter            3293|    715|    615|    502|    528|    524|    409|
+G4TGJ, Richard            14|      0|      0|      0|      0|      0|     14|
+I0YQX, Italo             255|      0|      0|     52|     74|     66|     63|
+I2AZ, Giuseppe            45|      0|     45|      0|      0|      0|      0|
+I2CZQ, Peter             557|    166|      0|      0|      3|    226|    162|
+I2QIL, Antonio           246|      0|      0|      0|     53|    153|     40|
+I3JUK, Giuseppe         2220|      0|    225|    442|    499|    511|    543|
+I8QFK, Ben               211|      0|     26|     67|      0|     55|     63|
+II2EMCA, Michele          89|      0|     34|     14|     30|      4|      7|
+IK0XFD, Giordano         184|      0|      0|     89|     73|      9|     13|
+IK1WNO, Enrico           160|      0|     35|     42|     23|     32|     28|
+IK1YBL, Paolo            146|     26|     15|      8|      0|     81|     16|
+IK2CKR, Angelo           125|      0|      0|     10|     75|     16|     24|
+IK2GAJ, Marco             63|      0|      0|      0|      0|     20|     43|
+IK2RMZ, Martin          1686|    155|    170|     96|    283|    274|    708|
+IK2SAE, Paolo             33|      0|      0|      0|      0|      0|     33|
+IK2WQH, Fabio            155|      0|      0|     17|     55|     44|     39|
+IK5WOB, Fabrizio          55|      0|      0|      0|     18|     22|     15|
+IK5ZWU, Walter          4620|      0|      0|   1632|    518|    816|   1654|
+IK7UKF, Sal              838|      0|    212|    171|    180|    132|    143|
+IK8SCR, Nicola           319|      0|      0|    108|     90|     83|     38|
+IN3FHE, Helga             46|      0|     12|      7|     12|     12|      3|
+IT9FGY, Salvo            222|      0|      0|     70|      0|     83|     69|
+IU0HMB, Vlado            888|      0|      0|     28|    270|    292|    298|
+IU0LJD, Ernesto           35|      0|      0|      0|     16|     12|      7|
+IU3KGO, Massimo          124|      0|     15|     86|     23|      0|      0|
+IW2JJS, Giorgio          117|      0|      0|     41|     45|     19|     12|
+IZ2CPS, Roberto            9|      0|      0|      0|      3|      3|      3|
+IZ2FME, Michele          794|     17|     14|    306|    136|    151|    170|
+IZ7EBY, Tony             331|      0|      4|    169|     51|     17|     90|
+IZ8NXG, Renato           760|     63|    145|    144|    188|    186|     34|
+IZ8SWO, Everaldo         125|      0|      0|     21|     30|     50|     24|
+M0DHP, Ray                 4|      0|      0|      0|      3|      1|      0|
+M0DRK, Derek              77|     16|      0|      0|     17|     33|     11|
+M0ILR, Simon             291|      0|     78|    109|    104|      0|      0|
+M0PYC, David             189|     42|     36|     42|     30|     18|     21|
+M0UZE, Mark              808|    111|    139|    123|    153|    153|    129|
+M5ABN, Pete              336|     21|     38|     31|     45|    139|     62|
+MI0WWB, William          259|     52|      6|     11|     92|     65|     33|
+MX5IPX, Graham            19|     12|      6|      0|      0|      1|      0|
+OH7QR, Erkki            1386|    214|    203|    222|    263|    212|    272|
+OK1LIX, Petr               7|      0|      3|      0|      0|      0|      4|
+OK2BMA, Pavel             73|      3|     16|      3|     11|     27|     13|
+PA0DIN, Din               81|     18|     43|      0|      5|      8|      7|
+PA0VLD, Cees             249|      0|      0|      0|     31|     82|    136|
+PG4I, Joop               971|    132|    234|    186|    208|    107|    104|
+SV2BBK, Fanis           1002|    165|     81|    181|    256|    165|    154|
+YL3JD, Hanz              359|      0|      0|     36|    149|     93|     81|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

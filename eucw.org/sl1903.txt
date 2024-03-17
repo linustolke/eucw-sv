@@ -1,0 +1,67 @@
+Snakes & Ladders, Edition 2016
+
+Results for February, first semester of 2019.
+
+Welcome to two new participants: Andy, G0UYG and Petr, OK1LIX.
+
+Received were 35 logs containing 1461 valid QSOs into 280 locator squares.
+Among these squares, we had 104 candidate ladders (each with 1 QSO
+only) of which the following 20 were randomly selected as ladders:
+
+	IM98 IM99 IO95 JN69 JN84 JN94 JO56 JO64 KM46 KN07
+	KN17 KN69 KN87 KN99 KO40 KO49 KO84 KP24 KP34 LO48
+
+Furthermore we had 64 candidate snakes (each with more than 5 QSOs), of which
+the following 6 were randomly selected as snakes:
+
+	IO93 JN39 JN88 JO01 JO10 JO89
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   75		 15	 34	 26
+9H1PI, Ivan:	   14		  6	  4	  4
+DH3LK, Rudolf:	   79		  -	 33	 46
+DJ6UX, Eddi:	 1042		327	367	348
+DL1DXL, Lothar:    29		 29	  -	  -
+DL1HBL, Claus:	  109		 66	 27	 16
+DL7UGN, Mike:	    6		  6	  -	  -
+DM4RW, Robert:	   66		  1	 55	 10
+F5IYJ, Philippe:   94		 34	 42	 18
+G0BON, Ivan:	   42		 17	 10	 15
+G0ILN, Richard:   244		 55	 79	110
+G0UYG, Andy:	   76		  -	  -	 76
+G0POT, Michael:	   21		  6	 15	  -
+G3XVL, Chris:	  151		 53	 44	 54
+G4FAI, Tony:        9		  1	  3	  5
+G4LHI, Peter:	 1478		390	400	688
+G4RHR, Ken:	   97		 29	 31	 37
+G4TGJ, Richard:	   14		  6	  7	  1
+I5EFO, Emil:	   68		 15	 53	  -
+I5SKK, Alex:	  356		141	 64	151
+IK1YBL, Paolo:	   15		  -	  -	 15
+IK2RMZ, Martin:	  519		134	170	215
+IZ8NXG, Renato:   143		 73	 46	 24
+M0DRK, Derek:	   91		 27	 15	 49
+M0ILR, Simon:	  120		 39	 27	 54
+M0PYC, David:	  144		 54	 39	 51
+M0UZE, Mark:	  271		 92	 76	103
+M5ABN, Pete:	  131		 15	 32	 84
+MI0WWB, William:  154		 29	 53	 72
+OE3KAB, Karl:	  120		 60	 33	 27
+OE6GWG, Werner:	  264		 93	 75	 96
+OH7QR, Erkki:	  377		 97	158	122
+OK1LIX, Petr:	   27		  -	  -	 27
+OK2BMA, Pavel:	   45		  9	 21	 15
+OK2PXJ, Vaclav:	   56		  -	 56	  -
+PA0DIN, Din:	   43		 20	  8	 15
+SN9MT, Mirek:	   13		  -	 10	  3
+SQ9IWA, Tom:	  394		  -	 59	335
+SV2BBK, Fanis:	  497		187	 35	275
+SV9RPE, Dick:	   99		 53	 15	 31
+
+I wish all good luck for the running month of March, and see you back soon.
+
+73,
+DM4RW mgr S&L

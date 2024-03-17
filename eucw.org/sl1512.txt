@@ -1,0 +1,53 @@
+Snakes & Ladders (v2) result for December 2015
+
+This is the last result for Snakes & Ladders version 2.
+Received were 28 logs containing 1194 valid QSOs into 284 locator squares.
+
+Among the 284 locator squares, we had 51 locator squares with more than 5 QSOs.
+From these 51 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	IO70 JO02 JO30 JO57 JN45
+
+Of the 284 square locators worked, 121 made it to ladder square with
+only 1 QSO each:
+
+IM57 IM79 IM98 IM99 IN51 IN52 IN70 IN72 IN77 IN80 IN81 IN82 IN87 IN88 IN95 IN96
+IO53 IO68 IO72 IO74 IO86 IO87 JM08 JM67 JM78 JN04 JN05 JN06 JN16 JN20 JN24 JN26
+JN29 JN37 JN44 JN54 JN58 JN65 JN67 JN68 JN73 JN77 JN83 JN84 JN85 JN90 JN92 JN93
+JN94 JO44 JO55 JO63 JO66 JO73 JO82 JO83 JO93 JO94 JO97 JP33 JP50 JP53 JP77 JP81
+JP83 JP93 KM17 KM28 KN03 KN05 KN09 KN12 KN15 KN23 KN31 KN33 KN37 KN39 KN47 KN56
+KN59 KN67 KN68 KN69 KN84 KN85 KN89 KN95 KO00 KO18 KO25 KO29 KO44 KO49 KO52 KO53
+KO55 KO65 KO68 KO70 KO73 KO91 KO97 KP11 KP22 KP34 KP41 KP68 LN04 LN24 LO19 LO20
+LO23 LO32 LO53 LO66 LP04 MO08 MO25 NO14 OO06
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   16 points (168)	G3ZOD, Graham:	    - points (58)
+2E0EML, David:	    4 points (80)	G4FAI, Tony:       18 points (228)
+2E0TEK, Graham:	    - points (8)	G4KLE, Merv:	    - points (365)
+DF2OK, Mike:	    - points (98)	G4LHI, Peter:	  133 points (1360)
+DH3LK, Rudolf:	    - points (310)	G4RHR, Ken:	    0 points (26)
+DH4PB, Sylvester    - points (4)	G7JMZ, John:	    - points (30)
+DJ6UX, Eddi:	  138 points (662)	GX0IPX, FISTS:      - points (14)
+DK0AG, AGCW:	    - points (229)	I2CZQ, Peter:	  330 points (2210)
+DK5OE, Klaus:	   14 points (232)	IK2RMZ, Martin:	  429 points (2620)
+DL1DXL, Lothar:    30 points (553)	M0DRK, Derek:	   20 points (238)
+DL1GBZ, Martin:	    - points (198)	M5ABN, Pete:	   70 points (564)
+DL1HBL, Claus:	   68 points (605)	MX5IPX, FISTS:      - points (12)
+DL7UGN, Mike:	   30 points (230)	M6MEN, Mark:        4 points (34)
+DO1UZ, Olaf:        - points (126)	OE6GWG, Werner:	   20 points (804)
+EI6KH, Chris:	   18 points (32)	OH7QR, Erkki:	   72 points (947)
+F5IYJ, Philippe:   24 points (530)	OK2BMA, Pavel:	   10 points (118)
+G0DDX, Geoff:       6 points (96)	OK2PXJ, Vaclav:	    2 points (116)
+G0DJA, Dave:	    - points (70)	ON7AMI, Jean-Paul:  - points (36)
+G0HGH, Jim:         - points (8)	PA0DIN, Din:       18 points (148)
+G0ILN, Richard:    26 points (492)	R2DEX, Alexej:	    - points (4)
+G0POT, Michael:	   22 points (636)	RN3ANT, Vit:	    - points (94)
+G3XVL, Chris:	   90 points (391)	RW3AI, Valery:	   52 points (248)
+G3YJQ, Fred:	    8 points (180)
+	
+This finalises Snakes & Ladders version 2. Congratulations to all for the
+achieved results, thank you for participating, and I hope to see you back
+for our new activity SL2016. Take care and best 73,
+
+DM4RW mgr S&L

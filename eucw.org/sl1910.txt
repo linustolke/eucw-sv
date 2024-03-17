@@ -1,0 +1,60 @@
+Snakes & Ladders, Edition 2016
+
+Results for October, fourth month of the second semester of 2019.
+
+Received were 25 logs containing 966 valid QSOs into 215 locator squares.
+Among these locator squares, we had 89 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+	IM76 IM77 IN63 IN91 IN94 IO71 JN70 JO49 JO66 JO86
+	KM18 KM46 KN86 KN98 LN04 LO18 LO66
+
+Furthermore we had 38 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO83 IO93 JO89
+
+This leads to the following scores
+
+Call, name	Total score	  1	  2	  3	  4	  5	  6
+=============================================================================
+2E0DPH, Phil:	    98		 43	 22	 12	 21
+9H1PI, Ivan:	     1		  -	  -	  1	  -
+DJ6UX, Eddi:	  1480		495	306	271	408
+DH3LK, Rudolf:	    55		  -	 55	  -	  -
+DL1DXL, Lothar:	   131		 58	  -	  7	 66
+DL1GBZ, Martin:	   116		  -	  -	116	  -
+DL1HBL, Claus:	    72		 21	 27	  5	 19
+F5IYJ, Phil:	    11		  -	  -	  5	  6
+G0BON, Ivan:	    36		 36	  -	  -	  -
+G0ILN, Richard:    261		 64	 87	 63	 47
+G0POT, Michael:	    19		 19	  -	  -	  -
+G0UYG, Andy:	    60		 60	  -	  -	  -
+G0XAH, David:	   194		 82	 51	 61	  -
+G3XVL, Chris:	   123		 19	 34	 27	 43
+G3ZOD, Graham:	    10		  5	  -	  -	  5
+G4FAI, Tony:	     5		  2	  2	  1	  -
+G4KLE, Mervyn:	    13		  -	  -	  -	 13
+G4LHI, Peter:	  1844		521	346	433	544
+G4RHR, Ken:	   134		 33	 35 	 43	 23
+G4TGJ, Richard:	    28		 13	  5	  6	  4
+I2CZQ, Peter:	   260		 41	 63	 31	125
+I5SKK, Alex:	    64		  -	 15	 49	  -
+IK2RMZ, Martin:	  1362		153	488	389	332
+M0DRK, Derek:	   129		 42	 32	 29	 26
+M0ILR, Simon:	   144		 39	 24	 30	 51
+M0PYC, David:	   180		 57	 48	 39	 36
+M0UZE, Mark:	   310		 81	 69	 68	 92
+M5ABN, Pete:	   146		 36	 34	 35	 41
+MI0WWB, William:   412		179	 95	 56	 82
+OH7QR, Erkki:	   352		 97	105	 31	119
+OK1LIX, Petr:	    14		  -	  5	  7	  2
+OK2BMA, Pavel:	    12		  1	  6	  2	  3
+PA0DIN, Din:	    24	 	  -	 18	  6	  -
+SV2BBK, Fanis:	   895		204	237	144	310
+SV9RPE, Dick:	    65		 31	 15	  7	 12
+
+I wish all good luck for November, have fun and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

@@ -1,0 +1,176 @@
+
+EuCW Bulletin No 2020/02
+========================
+
+
+1) Covid-19
+Dear members, we all had very difficult moments owing to this pandemic period; I hope you and your families are in health and safe. Now, we will “see the light” at the end of the tunnel, hoping all things shall pass in some months. In the meanwhile, I hope to hear from you on the bands and you can take part to the initiatives of the Club, especially to our Snakes & Ladders (see below).
+ 
+
+2) Merry X-Mas and Happy New Year
+I’d like to wish you and your families Merry X-Mas and a very, very Happy New Year (better than 2020, hi). I hope to hear from you on the air more often.
+
+
+3) EUCW actions in defense of CW frequencies
+However, it is our task to defend the interests of the Morse code community in case of band-plan abuse at the expense of dedicated CW-only frequencies. Occasionally, I do this by sending out a letter. Usually, inviting the involved parties to respect the recommendations of the band-plan. So,please, if you are a DXer, check first DXpeditions announcing CW frequencies for digital modes. If you detect them, please let the organizers know that the IARU band plan should be respected by us all; a friend of mine said, many many years ago, that … “legum servi sumus ut liberi esse possimus” (“We are slaves of the law, so that we may be able to be free.” Cicero).
+
+
+4) IARU Region1 General Conference
+
+The Novi Sad virtual IARU conference (10–16 October 2020) was attended by more than 40 Member Societies of IARU Region 1.
+
+Among the other, these Morse Code related topics were discussed(documents can be found at https://conf.iaru-r1.org/part-1/documents/):
+
+a)  Morse code, an intangible cultural heritage
+
+IARU Region1 recommends to continue the initiative launched in 2011 and confirmed in 2017 to get Morse Code on various national lists of UNESCO’s national intangible cultural heritages. The establishment of an action group for coordination and the direct intervention of IARU are recommended. (Paper NS20_C4_09);
+
+b)  CW Operating Procedures
+It is recalled the recommendation approved in 2014 Varna-Albena conference regarding the booklet “Ethics and Procedures for the Radio Amateur" by ON4UN and ON4WW, endorsed by IARU.
+
+The Recommendation (VA14_C3_REC_21) says:
+The recommended CW (and digital mode) operating procedure involves the following:
+
+a) "K" is an invitation to transmit at the end of transmission.
+
+b) A station ending the transmission with "AR" alone is not inviting callers.
+
+c) "K" is also the most common ending of a general "CQ" call.
+
+Procedures introduced in the booklet are alternatives.
+The new recommendation is that previous Recommendation VA14_C3_REC_21 should accompany the book when publicized by the IARU and its member-societies, until the book has been revised.
+
+(Paper NS20_C4_14_V3)
+
+c)  CW for Beginners: Problem with Farnsworth?
+
+Paper NS20_C4_10 is a request for a discussion about methods of learning CW.
+Here is the text:
+
+”Introduction and Background
+
+You can listen to it again and again on the bands: There are some Morse novices who have difficulties with the speed of their counterpart. A “PSE QRS” could remedy this. But that is only an apparent possibility. 
+
+Those who have learned according to the Farnsworth method, who are used to the fact that the distances between the individual Morse characters are increased, will also have their difficulties with a slower tempo. Their sound image of Morse code according to the Farnsworth method would still differ. 
+
+Key points and Proposal
+
+The "Farnsworth Method" consists of sending characters forming words, also at high Speed and vary the spacing so you have time to interpret what you heard. Then reducing the space until it is the correct spacing for the preferred speed. It is meant to get you used to the sound of word rather than letters, thereby being able to listen to and interpret words at the high speed that you want to achieve.
+
+It is contrary to those who have learned Morse code by using the “Koch Method”: This method consist of learning each individual letter at a fairly high speed, then adding 1 or 2 more letters, then alternating the sending and mixing the letters up. When you have achieved a copying success rate of say 90% or so then add 1 or 2 more letters,or perhaps a number or two. Once you get this far you can then switch to listen to words to get used to the sound of a word rather than the sound of letters,which the most believe is the only way to high speed copying, coupled with reading without the assistance of a pencil and paper ( in your head like regular speech).
+
+“Farnsworth” vs “Koch” -what would be the solution? Should IARU officially recommend a method? Or should we introduce a shortcut in order to communicate to your counterpart:Please give “Farnsworth”? 
+
+The goal should be not to frustrate or lose a beginner in telegraphy on the bands during the first attempts at walking. Any ideas?“
+
+d)  Band Plan Philosophy and Challenges
+
+In this paper it is explained the IARU philosophy of segmenting HF bands into segments with a different maximum of occupied bandwidth for the specific modes: segments with max. 200Hz, 500Hz, 2700Hz, and in the 10m band additionally, with max. 6000Hz bandwidth. Up to the maximum bandwidth all modes should get access to the specified segments with equal rights. Max. bandwidth of 200Hz are assigned to CW and “Narrow band modes”.
+It states, too:
+“But: For traditional reasons only telegraphy is named as mode in some segments with a max. bandwidth of 200Hz.And it is strongly recommended to use this segments for CW only.”
+Final recommendation is that “as now”IARU Region1 sticks to bandwidth philosophy as well as to the naming of CW in several 200Hz segments, but examines the possibilities of additional areas for wide digital modes, since the amateur radio service is an experimental radio service.
+
+(Paper NS20_C4_07)
+ 
+
+5) Snakes& Ladders
+
+The Snakes & Ladders has a new life: we had many,many new OM taking part to the Snakes and that is really fun. Please remember that EuCW is on the air 24 h a day to promote friendship among OM, all over the world; no contests, no pile-ups, no 599/73, just friendly QSO on the air.
+
+Our activity is called SNAKES and LADDERS. However,the game has plenty of other names such as Змеи и лестницы = Ormar ochStegar = Cobras e Escadas = Kígyók és létrák = Serpientes y escalas = Węże idrabiny = Serpents et Echelles = Змії і Сходи = Gioco dell'Oca =Ganzenbord = Leiterspiel = Hadi a žebříky = Serpentoj kaj ŝtupetaroj = Змии и скали = Käärmeet ja tikkaat = Snakes og stiger = Slanger og stiger = Φίδια και σκάλες = Serps i escales = סנייקס און לאַדדערס.
+
+While Snakes and Ladders is the only activity hosted by us, some of our Clubs dedicate their own activities to us such as the 160m ON5ME contest of UFT, the summer issue of SCAG's Straight Key Day, and the AGCW QRS week formerly hosted by FISTS.
+
+Please help our Club to promote more and more the Snakes. How we can do that? Simply helping other OM to write down the ADIF log and to send it to the manager. Here you can find an example of letter you can use to promote the Snakes. You can also write articles on your national Club reviews, explaining in your own languages the rules of the Snakes & Ladders. E.g.: “Dear OM, I would be delighted if you could participate to the “Snakes & Ladders”, a monthly activity organized by EuCW (https://www.eucw.org/). We are trying to make sure that there is a large group of OM taking part to it. It is not a contest: there is no need to make many QSO, also because the assignment of the monthly points is largely random, depending on the drawing of a "locator / bonus" which exponentially increases the points; even those who make few QSO can then go at the top of the standings.
+
+You do not need to be a member of any club to participate to the Snakes. It is not necessary to pass progressive numbers,zone, etc., or do anything in particular. Participation is completely free and you can take part to the Snake when you prefer (not every month).
+
+Just make your normal QSO and, at the end of the month, save all the QSOs of the month in an ADIF file. 
+
+At least the following information must be inserted into the log (and then exported into .ADI file): 1) call of the other station;2) QSO date; 3) QSO start-time; 4) QSO end-time; 5) QTH of the other station; 6)exact QRG; 7) QTH locator square of the other station (just check “Grid Square”on qrz.com; if the call is not listed on QRZ, just look for it on the web;there are many software that automatically calculate the exact locator starting from the QTH you find on qrz.com). Then, within the first three–four days of the month, send the file as an email attachment to the address: sl@eucw.org.Robert (DM4RW), our Snake manager is in charge of collecting all the logs and drawing up the monthly list of participants, which will later be published through the official channels of the EuCW.
+
+Which QSO are valid for European Stations? Just QSO with European stations with at least 5 minutes duration; if you do QSOs in the upper part of the bands (excluding 60 m. and 4 m.),each QSO gives you 3 points.
+
+"HIGH" FREQUENCY PARTS (3 POINTS A QSO):
+
+160m: 1.828-1.838 MHz;
+
+80m: 3.560-3.570 MHz;
+
+40m: 7.030-7.040 MHz;
+
+30m: 10.120-10.130 MHz;
+
+20m: 14.060-14.070 MHz;
+
+17m: 18.085-18.095 MHz;
+
+15m: 21.060-21.070 MHz;
+
+12m: 24.905-24.915 MHz;
+
+10m: 2 8.060-28.070 MHz;
+
+6m: 50.090-50.100 MHz;
+
+2m: 144.100-144.110 MHz.
+
+So, please, let’s try! I am available for any request:call me at … [EMAIL] if you need some help and I’ll be glad to help you. Best73 de ... [CALL]”. Please help us in this.
+
+
+6) ARI Loano –Marconi Club activity on the air
+
+I inform you all that A.R.I Loano is promoting the MARCONI CLUB A.R.I. LOANO, founded on May 8th 1988 by Libero Meriggi I1YXN, strongly motivated by the famous DXpeditioners Baldur DJ6SI, and is organizing a day to introduce the new generations to the Club, and bring together all those who truly love in the art of radiotelegraphy and Morse code.So, they ask us to spend a few hours on the key. Date: 16/01/2021. Time: from 08:00UTC – 22:00 UTC. Band: 20m - 40m - 80m - Exchange: “CQ MCD” - RST report and the membership number. Non members: RST report + progressive number 
+
+Logs: marconiclub@ariloano.it – manager: IK1QAD Walter
+
+Link: http://www.ariloano.it/marconiclub/index.php?option=com_content&view=article&id=99:marconi-club-qso-party-day-edizione-2021&catid=8&Itemid=101).
+ 
+
+7) Discussing about the EuCW – proposals to improve EuCW activities
+
+As I’ve already written, I’d like to open a dialogue with all the interested EuCW officers and ECM: we need new proposals, and we think it could be a good way to meet new friends. If you are interested, just give mea call via skype at: franzcarlone@gmail.com account.
+ 
+
+8) Do you know? The EuCW award
+
+This very attractive award can be requested by all licensed OM and SWL anywhere in the world; only QSO made on or after 27.04.1991, (the 200th anniversary of the birth of Samuel Morse)are valid; applicants should submit a list of QSO confirmed. The list must be certified by a licensed amateur who is a member of an EuCW club, who should state the name of his/her Club and membership number. The list must include date of contact, call sign of station worked or heard; band; name of operator;QTH; EuCW club; and club membership number. A little fee is required to obtain the award (EUR 6 or US$ 8), for post costs; applications for the award should be sent to the Award Manager (see our web site for more info).
+
+ 
+9) On-air and on-line CW Course.
+
+In these Covid-19 we are seeing an increasing interest in CW courses. Here a sample list: 
+On line basic Morse international school / practice by IK2YRT
+
+A small group of telegraphy enthusiasts is trying to organize an online cw course. The main idea is to propose frontal lessons via web meeting, structured in levels, basic and advanced, offering to the participants both listening exercises both transmission techniques, supervised directly by the teachers during the lessons and with home works in order to consolidate what you have learned in class and thus verify your personal progress. Mario IK2YRT, an over-30-years-experienced OM is the main instructor (lessons are starting in 2021, jan., each Monday,from 8,00 p.m., to 10,00 p.m. UTC). Write to milanocwyt@gmaiil.com.
+
+Morse Basic School (https://www.facebook.com/groups/1249467528489773)
+
+Weekly lessons on Tuesdays 144.0695 MHz and on Thursdays 3569.5 kHz 2015z de ik2tkx JN45SK
+
+Basic CW Course by I7PHH (info Telegram https://t.me/cw_qrs)
+
+Monday-Friday 7037 kHz 1530z 3558 kHz 2000z
+
+Intermediate CW Course on Wednesdays and Thursdays in video meeting (info: https://t.me/cw_qrs) 
+
+Corso ARI Lucca (https://t.me/corsoCWariLucca)
+
+A beginner course entirely in Telegram chat held by IZ5OVP
+
+
+10) R2DNN/B news
+
+The EuCW efforts have been awarded: R2DNN was contacted by Oleg, RX3G. Vlad has agreed to dismantle the beacon on 14.060 kHz and QSY. We want to thank our friends Oleg and Vlad for their decision.
+
+
+11) DF5JL proposal: Morse code as an intangible UNESCO heritage
+
+This is DF5JL proposal requested to the Novi Sad IARU Conference (thank you Tom): “Remember Recommendation LA17_C3_Rec_28: It is recommended to continue the initiative within IARU Region 1 to get Morse Code on different national lists of heritage. Furthermore, IARU is asked to request UNESCO to establish Morse Code as an intangible heritage. At the IARU Region1General Conference 2011 in Sun City it was decided that each member society would try to get Morse code placed on the list of national intangible cultural heritages. This decision, as proposed in paper SC11_C3_32, was approved unanimously. As well as LA17_C3_Rec_28. This project is a formal commitment (C3 agreement) for each MS to take it further in their countries. Key points and proposal
+
+Becoming an Intangible Heritage would be an adequate honor for Morse code and could gain the popularity even in modern times. Up to now, only a few member societies have succeeded in getting Morse code on the national list of intangible cultural heritage. To this end it is proposed that a significant majority of IARU-Region 1 member societies starts or continues negotiations on a national level. But we need an action group for coordination.Otherwise nobody will feel really responsible for the implementation of the decision and it will come to nothing. It is recommended to continue the initiative within IARU-Region 1 to get Morse code on different national lists of heritage and to build an action group. Furthermore, it is highly recommended in tasking IARU to request UNESCO for establishing Morse code as an intangible heritage. If this proposal does not receive a majority, it is recommended that the decision LA17_C3_Rec_28 be formally withdrawn. The EuCW thinks that each National Society and each EuCW member Club should be active to promote any initiatives to make it possible. Could we try to create an EuCW board to study a coordinate programme about it?
+
+I wish you all the best and stay safe!
+
+Michele, IZ2FME
+

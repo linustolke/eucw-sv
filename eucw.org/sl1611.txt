@@ -1,0 +1,64 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for November 2016, 5th month of the summer/autumn run.
+
+November was a relatively good month for Snakes & Ladders, considering the
+many complaints about bad conditions. Received were 30 logs, containing 1023
+valid QSOs into 251 locator squares.
+Among these locator squares, we had 109 candidate ladders (each with 1 QSO
+only) of which the following 21 were randomly selected as ladders:
+
+	IM59 IN71 IN95 JN04 JN28 JN46 JO59 JO68 JO81 JO97
+	JP50 KN46 KN64 KN74 KN84 KN88 KO23 KO26 KO90 LO01
+	LO33
+
+Furthermore we had 40 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN65 JO31 JO60 JO90
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	   144		  -	 50	  23	   32	    39
+2E0EML, David:	   279		 42	 48	  57       66	    66
+DH3LK, Rudolf:	    81		 34	 29	  18        -	     -
+DJ6UX, Eddi:	   704		  -	 64	  34      312	   294
+DK5OE, Klaus:	    23		 11	  7	   1        -	     4
+DL1DXL, Lothar:    154		 19	  4	  51       80	     -
+DL1GBZ, Martin:    116		  -       -        -      116	     -
+DL1HBL, Claus:	   129		 52	  -	  18       38	    21
+DL7UGN, Mike:	    41		 13	  6	   3       16	     3
+DM4RW, Robert:	    83		 21	  -	  17       17	    28
+F5IYJ, Philippe:   295		 96	 80	  58       51	    10
+G0ILN, Richard:    240		 48	 33	  47       51	    61
+G0POT, Michael:	   114		 15	  6	  60       21	    12
+G3XVL, Chris:	   446		107	114	  37       42	   146
+G3YJQ, Fred:	   144		  9	 10	  35       69	    21
+G3ZOD, Graham:	    15		  6	  -	   6        -	     3
+G4FAI, Tony:       113		 61	  9	  19        -	    24
+G4LHI, Peter:	  1651		286	234	 243      469	   419
+G4RHR, Ken:	   179		 23	 41	  52       45	    18
+G7JMZ, John:	     8		  -	  6	   -        2	     -
+GX0IPX, FISTS:	     4		  -	  -	   4        -	     -
+I2CZQ, Peter:	   644		  -	126	 149      200	   169
+I5EFO, Emil:	    56		  -	  -	  22       18	    16
+I5SKK, Alex:	   470		176	 93	 126       46	    29
+IK2RMZ, Martin:	  1461		233	445	 368      200	   215
+M0DRK, Derek:	   307	         27	 77	  38       65	   100
+M5ABN, Pete:	   167	         32	 39	  40       23	    33
+M6MEN, Mark:       528	         50	149	  91       97	   141
+MX5IPX, FISTS:	    12		  -	  -	  10        2	     -
+OE3LHB, Heinz:	    79		 16	 30	   8       19	     6
+OE6GWG, Werner:	   337	         33	 75	  54       54	   121
+OH7QR, Erkki:	   207	         21	 31	  33      101	    21
+OK2BMA, Pavel:	    53	         12	  5	  29        3	     4
+PA0DIN, Din:        65	         18	 12	   6       11	    18
+RW3AI, Val:        423		  -       -        -      185	   238
+SV2BBK, Fanis:	   693		143	157	 150      120	   123
+
+I wish all good luck for the running month of December, and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

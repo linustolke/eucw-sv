@@ -1,0 +1,65 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the first semester of 2023
+
+Received were 38 logs containing 1493 valid QSOs into 290 locator squares.
+
+Among these squares, we had 104 candidate ladders (each with 1 QSO
+only) from which the following 20 were randomly selected as ladders:
+
+     IN61 IO86 IP61 JO56 KM16 KM19 KM46 KM78 KN18 KN40
+     KN69 KN74 KO01 KO14 KO27 KO47 KO53 KP30 OO22 QO09
+     
+Furthermore we had 68 candidate snakes (each with more than 5 QSOs), of which
+the following 6 were randomly selected as snakes:
+
+     JM77 JN46 JN49 JN53 JN55 JO33 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+DJ6UX, Eddi              411|    411|
+DL1DHM, Hanns             41|     41|
+DL1DXL, Lothar           124|    124|
+DL1GBZ, Martin           321|    321|
+DL1HBL, Claus              1|      1|
+DL1TW, Tom                 7|      7|
+DL7UGN, Michael           10|     10|
+F4GOU, Tom               193|    193|
+F5IYJ, Philippe           47|     47|
+F5LKK, Serge              50|     50|
+F5POJ, Philippe          523|    523|
+F8EHJ, Herve              26|     26|
+G3XVL, Chris              39|     39|
+G6HH, Richard             15|     15|
+I0YQX, Italo              76|     76|
+I3JUK, Giuseppe            3|      3|
+I5ECW, Vanni              41|     41|
+IK1VQO, Gianluca          30|     30|
+IK1WNO, Enrico            67|     67|
+IK5WOB, Fabrizio          63|     63|
+IK7UKF, Sal               29|     29|
+IN3FHE, Helga              1|      1|
+IT9FGY, Salvo             16|     16|
+IU5HES, Michele            5|      5|
+IU8OJT, Marco             87|     87|
+IW2JJS, Giorgio           58|     58|
+IZ2FME, Michele          145|    145|
+M0KTZ, Enzo              184|    184|
+M5ABN, Pete               33|     33|
+MM0UMH, Les              163|    163|
+OE6GWG, Werner           123|    123|
+OH7QR, Erkki              74|     74|
+OK2BMA, Pavel              4|      4|
+PA0DIN, Din               14|     14|
+PA7RA, Rien               54|     54|
+RM2D, Mats                49|     49|
+SV1DAY, Manos            114|    114|
+SV2BBK, Fanis             96|     96|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

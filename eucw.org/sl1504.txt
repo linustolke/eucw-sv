@@ -1,0 +1,66 @@
+Snakes & Ladders (v2) result for April 2015
+
+Welcome back to this second edition of EuCW Snakes & Ladders. It is good to see
+so many participants back. And a warm welcome to three new participants, DH3LK
+Rudolf, OE6GWG Werner and OK2PXJ Vaclav!
+
+Received were 30 logs, containing 1213 valid QSOs into 253 locator squares. A
+good start of the new season, thanks to all for participating!
+
+Among the 253 locator squares, we had 51 locator squares with more than 5 QSOs.
+From these 51 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	IN96, IO71, IO93, JN49, KP10
+
+Of the 253 square locators worked, 111 (!) made it to ladder square with only 1
+QSO each:
+IM58 IM78 IM79 IM99 IN72 IN81 IN82 IN83 IN87 IN91 IN92 IN97 IO51 IO52 IO53 IO62
+IO73 IO76 IO84 JM75 JM76 JN01 JN09 JN13 JN23 JN24 JN26 JN27 JN28 JN38 JN52 JN61
+JN66 JN69 JN70 JN71 JN72 JN78 JN80 JN85 JN94 JO29 JO57 JO63 JO68 JO71 JO72 JO73
+JO77 JO79 JO80 JO83 JO92 JP66 JP70 JP77 JP83 KN04 KN15 KN25 KN29 KN35 KN37 KN56
+KN64 KN66 KN68 KN69 KN86 KN87 KN94 KN95 KN97 KO02 KO06 KO12 KO13 KO15 KO21 KO30
+KO40 KO45 KO52 KO59 KO84 KO86 KO90 KO95 KO96 KO97 KP01 KP17 KP22 KP24 KP30 KP50
+KP68 KP72 LN13 LO01 LO09 LO32 LO43 LO55 LO62 MO05 MO25 MO27 NP49 OO06 OO62
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   16 points (16)	G3ZOD, Graham:	    6 points (6)
+2E0EML, David:	   24 points (24)	G4FAI, Tony:       44 points (44)
+2E0TEK, Graham:	    8 points (8)	G4KLE, Merv:	  135 points (135)
+DF2OK, Mike:	   18 points (18)	G4LHI, Peter:	  187 points (187)
+DH3LK, Rudolf:	   12 points (12)	I2CZQ, Peter:	  173 points (173)
+DK5OE, Klaus:	   38 points (38)	IK2RMZ, Martin:	  306 points (306)
+DL1DXL, Lothar:    86 points (86)	M0DRK, Derek:	   56 points (56)
+DL1GBZ, Martin:	   66 points (66)	M5ABN, Pete:	   88 points (88)
+DL1HBL, Claus:	   96 points (96)	OE6GWG, Werner:	   46 points (46)
+DL7UGN, Mike:	   30 points (30)	OH7QR, Erkki:	  129 points (129)
+DO1UZ, Olaf:       42 points (42)	OK2BMA, Pavel:	   20 points (20)
+F5IYJ, Philippe:   64 points (64)	OK2PXJ, Vaclav:	   20 points (20)
+G0ILN, Richard:    74 points (74)	PA0DIN, Din:       24 points (24)
+G0POT, Michael:	   84 points (84)	RN3ANT, Vit:	   42 points (42)
+G3YJQ, Fred:	    2 points (2)	RW3AI, Valery:	   20 points (20)
+
+Many thanks for such a great contribution: I wish all good luck for the running
+month of May, hope conditions will stay good, and I hope to hear back from you
+end of May, early June.
+
+To close this first report, some reactions from participants:
+
+Lothar, DL1DXL, writes: I like the higher reward in the hot-bands and the 5
+minute rule. Great also that the FISTS log converter was adapted for this.
+MGR=> As to the FISTS log converter: all courtesy to Graham, G3ZOD, who has
+again done a great job.
+
+Michael, G0POT, writes: This activity and QRS week has encouraged me onto the
+key more in the last month than in the last 4 years. Thoughroughly enjoying
+improving my fist.
+MGR=> Very glad to hear this (courtesy to Martin, IK2RMZ for QRS week!)
+
+David, 2E0EML, writes: This month, I have been encouraged to try the HF bands.
+Compared to 2M, HF has its challenges, but the rewards are greater. I now have
+more CW QSOs logged than SSB. I just want to say Thank you to Peter G4LHI and
+the gang in and around Huntingdon for getting me this far in a short space of
+time.
+
+Regards, best 73,
+DM4RW mgr S&L

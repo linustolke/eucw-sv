@@ -1,0 +1,54 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the 2nd semester of 2020
+
+Received were 28 logs containing 1313 valid QSOs into 240 locator squares.
+Among these squares, we had 92 candidate ladders (each with 1 QSO
+only) of which the following 18 were randomly selected as ladders:
+
+        IN53 IN78 IN93 JM68 JN06 JN16 JN17 JN77 JO28 JO45
+        JO82 JP50 KN01 KN89 KN95 KO23 KO74 LO02
+
+Furthermore we had 55 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+        JN39 JN47 JN68 JO31 JO55
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:      11            11
+DJ6UX, Eddi:      432           432
+DL1DXL, Lothar:   120           120
+DL1HBL, Claus:     21            21
+DL7UGN, Mike:      22            22
+DM4RW, Robert:      8             8
+F5IYJ, Phil:       47            47
+G0ILN, Richard:    49            49
+G3XVL, Chris:      54            54
+G3ZOD, Graham:     15            15
+G4FAI, Tony:        4             4 
+G4LHI, Peter:     715           715
+I2CZQ, Peter:     166           166
+IK1YBL, Paolo:     26            26
+IK2RMZ, Martin:   155           155
+IZ2FME, Mike:      17            17
+IZ8NXG, Renato:    63            63
+M0DRK, Derek:      16            16
+M0PYC, David:      42            42
+M0UZE, Mark:      111           111
+M5ABN, Pete:       21            21
+MI0WWB, William:   52            52
+MX5IPX, Graham:    12            12
+OH7QR, Erkki:     214           214
+OK2BMA, Pavel:      3             3
+PA0DIN, Din:       18            18
+PG4I, Joop:       132           132
+SV2BBK, Fanis:    165           165
+
+I wish all good luck for the running month of August, enjoy summer and
+I hope to see you back soon. Take care and stay safe.
+
+73,
+DM4RW mgr S&L

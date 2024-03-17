@@ -1,0 +1,82 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fifth month of the second semester of 2021
+
+Received were 46 logs containing 1543 valid QSOs into 309 locator squares.
+
+Among these squares, we had 114 candidate ladders (each with 1 QSO
+only) from which the following 22 were randomly selected as ladders:
+
+     IM59 IN52 JN37 JN69 JO75 JO98 KN19 KN35 KN79 KN85
+     KN89 KN96 KO20 KO90 KO91 KP01 KP22 LO07 LO48 MO09
+     OO22 PP42 
+
+Furthermore we had 79 candidate snakes (each with more than 5 QSOs), of which
+the following 7 were randomly selected as snakes:
+
+     IO85 IO93 IO94 JO22 KN59 KP25 KP42 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+2E0DPH, Phil              59|      0|     10|     13|     19|     17|
+CR7AWB, Jorge             14|      3|      8|      3|      0|      0|
+DJ6UX, Eddi             2113|    408|    378|    445|    432|    450|
+DL1DXL, Lothar           305|     74|     77|     46|     72|     36|
+DL1GBZ, Martin           157|     48|      0|    109|      0|      0|
+DL1HBL, Claus             82|     56|     10|      6|      5|      5|
+DL3GJ, Greg              104|     57|      6|     16|     11|     14|
+DM4RW, Robert             31|      6|      0|      1|     15|      9|
+F4GLJ, Pierre             39|     12|     27|      0|      0|      0|
+F4GOU, Tom               379|    138|     45|     90|     51|     55|
+F5IYJ, Philippe          235|     50|     59|     18|     41|     67|
+F5POJ, Philippe         1617|    385|    282|      0|    506|    444|
+G0ILN, Richard           151|     30|     35|     33|     33|     20|
+G3XVL, Chris             251|     30|     66|     34|     96|     25|
+G3ZOD, Graham              8|      2|      0|      2|      4|      0|
+G4FAI, Tony               25|      1|      6|     10|      6|      2|
+G4LHI, Peter            1923|    331|    372|    399|    437|    384|
+I0YQX, Italo             418|     71|     89|     74|    101|     83|
+I3JUK, Giuseppe          962|    266|    218|    240|    194|     44|
+I5ECW, Vanni             726|    148|    189|    121|    159|    109|
+IK1VQO, Gianluca          28|      0|      0|      0|     28|      0|
+IK1WNO, Enrico           193|     13|     18|     18|     61|     83|
+IK1YBL, Paolo            221|     89|     20|     39|     54|     19|
+IK2CKR, Angelo           223|      0|    123|     58|     22|     20|
+IK2GAJ, Marco            159|     67|      8|     26|     20|     38|
+IK2GWH, Paolo            150|      0|      0|     83|     38|     29|
+IK2RMZ, Martin          1171|    228|    276|    167|    276|    224|
+IK2SAE, Paolo            191|     28|     34|     27|     21|     81|
+IK7UKF, Sal              305|     55|     39|     87|     97|     27|
+IK8SCR, Nicola           152|     24|     80|     27|     14|      7|
+IN3FHE, Helga             45|      5|      8|     20|      9|      3|
+IT9FGY, Salvo            181|     12|     20|     31|     91|     27|
+IU0PJJ, Danilo           119|      0|      0|     32|     74|     13|
+IW2JJS, Giorgio          227|     75|     45|     34|     55|     18|
+IZ2FME, Michele          487|      0|     86|    133|    133|    135|
+IZ7EBY, Tony             166|     21|     12|     25|     45|     63|
+IZ8SWO, Everaldo          62|     18|     13|      6|     12|     13|
+M0DRK, Derek               7|      0|      0|      0|      7|      0|
+M0ILR, Simon              26|      0|      0|      0|      0|     26|
+M0KTZ, Enzo              221|      0|      0|      0|     75|    146|
+M0LPZ, Gabor               7|      0|      0|      1|      6|      0|
+M0PYC, David              54|      0|     15|     15|     15|      9|
+M5ABN, Pete              180|     35|     29|     25|     63|     28|
+OH7QR, Erkki            1044|    157|    205|    192|    203|    287|
+OK1LIX, Petr              72|     21|     23|      7|      5|     16|
+OK2BMA, Pavel            100|      4|     28|     36|     19|     13|
+PA0DIN, Din               35|     18|      3|      6|      2|      6|
+PA7RA, Rien              558|    114|    161|    127|    134|     22|
+PG4I, Joop               325|     68|    127|     32|     38|     60|
+SN9MT, Mirek              19|      0|      0|      0|     16|      3|
+SQ9S, Adam                29|      7|     16|      4|      2|      0|
+SV1DAY, Manos            168|     53|     15|     18|     14|     68|
+SV2BBK, Fanis            664|    192|    145|    129|    126|     72|
+YL3JD, Hanz              617|     64|    193|    187|     96|     77|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

@@ -1,0 +1,59 @@
+Snakes & Ladders, Edition 2016
+
+Results for September, third month of the second semester of 2019.
+
+Received were 29 logs containing 755 valid QSOs into 195 locator squares.
+Among these locator squares, we had 88 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+        IM69 IM97 IN51 IO63 IO75 JN05 JN17 JN29 JN40 JN62
+        JN81 JN83 JN90 JO29 JO33 KO25 KO55
+
+Furthermore we had 25 candidate snakes (each with more than 5 QSOs), of which
+the following 2 were randomly selected as snakes:
+
+        JN45 JO30
+
+This leads to the following scores
+
+Call, name      Total score       1       2       3       4       5       6
+=============================================================================
+2E0DPH, Phil:       77           43      22      12
+9H1PI, Ivan:         1            -       -       1
+DJ6UX, Eddi:      1072          495     306     271
+DH3LK, Rudolf:      55            -      55       -
+DL1DXL, Lothar:     65           58       -       7
+DL1GBZ, Martin:    116            -       -     116
+DL1HBL, Claus:      53           21      27       5
+F5IYJ, Phil:         5            -       -       5
+G0BON, Ivan:        36           36       -       -
+G0ILN, Richard:    214           64      87      63
+G0POT, Michael:     19           19       -       -
+G0UYG, Andy:        60           60       -       -
+G0XAH, David:      194           82      51      61
+G3XVL, Chris:       80           19      34      27
+G3ZOD, Graham:       5            5       -       -
+G4FAI, Tony:         5            2       2       1
+G4LHI, Peter:     1300          521     346     433
+G4RHR, Ken:        111           33      35      43
+G4TGJ, Richard:     24           13       5       6
+I2CZQ, Peter:      135           41      63      31
+I5SKK, Alex:        64            -      15      49
+IK2RMZ, Martin:   1030          153     488     389
+M0DRK, Derek:      103           42      32      29
+M0ILR, Simon:       93           39      24      30
+M0PYC, David:      144           57      48      39
+M0UZE, Mark:       218           81      69      68
+M5ABN, Pete:       105           36      34      35
+MI0WWB, William:   330          179      95      56
+OH7QR, Erkki:      233           97     105      31
+OK1LIX, Petr:       12            -       5       7
+OK2BMA, Pavel:       9            1       6       2
+PA0DIN, Din:        24            -      18       6
+SV2BBK, Fanis:     585          204     237     144
+SV9RPE, Dick:       53           31      15       7
+
+I wish all good luck for October, have fun and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

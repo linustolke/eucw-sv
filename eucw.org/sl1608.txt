@@ -1,0 +1,58 @@
+Snakes & Ladders version 2016 (SL2016).
+
+Results for August 2016, 2nd month of the summer/autumn run.
+
+Welcome back to Peter, I2CZQ!
+
+Received were 28 logs containing 792 valid QSOs into 197 locator squares.
+Among these locator squares, we had 89 candidate ladders (each with 1 QSO
+only) of which the following 17 were randomly selected as ladders:
+
+	IL18 IN78 JM29 JN17 JN55 JO99 JP20 JP65 JP82 KN25
+	KN26 KN31 KO14 KO23 KO91 KP22 KP50
+
+Furthermore we had 26 candidate snakes (each with more than 5 QSOs), of which
+the following 2 were randomly selected as snakes:
+
+	IO82 JO00
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    50		  -	 50
+2E0EML, David:	    90		 42	 48
+DH3LK, Rudolf:	    63		 34	 29
+DJ6UX, Eddi:	    64		  -	 64
+DK5OE, Klaus:	    18		 11	  7
+DL1DXL, Lothar:     23		 19	  4
+DL1HBL, Claus:	    52		 52	  -
+DL7UGN, Mike:	    19		 13	  6
+DM4RW, Robert:	    21		 21	  -
+F5IYJ, Philippe:   176		 96	 80
+G0ILN, Richard:     81		 48	 33
+G0POT, Michael:	    21		 15	  6
+G3XVL, Chris:	   221		107	114
+G3YJQ, Fred:	    19		  9	 10
+G3ZOD, Graham:	     6		  6	  -
+G4FAI, Tony:        70		 61	  9
+G4LHI, Peter:	   520		286	234
+G4RHR, Ken:	    64		 23	 41
+G7JMZ, John:	     7		  -	  7
+I2CZQ, Peter:	   126		  -	126
+I5SKK, Alex:	   269		176	 93
+IK2RMZ, Martin:	   678		233	445
+M0DRK, Derek:	   104	         27	 77
+M5ABN, Pete:	    71	         32	 39
+M6MEN, Mark:       199	         50	149
+OE3LHB, Heinz:	    46		 16	 30
+OE6GWG, Werner:	   108	         33	 75
+OH7QR, Erkki:	    52	         21	 31
+OK2BMA, Pavel:	    17	         12	  5
+PA0DIN, Din:        30	         18	 12
+SV2BBK, Fanis:	   300		143	157
+
+I wish all good luck for the running month of September, and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

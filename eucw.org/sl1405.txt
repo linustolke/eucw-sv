@@ -1,0 +1,61 @@
+Snakes & Ladders result for May
+
+Received were 28 logs, containing 1359 valid log entries into 295 square locators. Although one log
+less, more valid entries could be recorded into more locators squares!
+
+The Snake squares have been determined as follows:
+IO91 with 59 hits
+IO93 with 47 hits
+JO00 with 30 hits
+
+IO92, JO02 and IO83 received 147, 104 and 33 hits respectively, but because these were already snakes
+last month, they will count as normal locators for the month of May.
+
+=> Note that IO83, IO91, IO92, IO93, JO00 and JO02 cannot be snake in the month of June!!!
+
+Of the 295 square locators worked, 119 (!) made it to ladder square with 1 log entry each:
+HM77 IL27 IM58 IM77 IM88 IN51 IN52 IN80 IN83 IN95 IN99 IO29 IO52 IO53 IO63 IO76 JM18 JM99 
+JN01 JN04 JN07 JN08 JN16 JN24 JN29 JN52 JN69 JN77 JN78 JN81 JN94 JO03 JO29 JO45 JO46 JO57
+JO69 JO72 JO76 JO78 JO81 JO82 JO88 JP30 JP50 JP51 JP65 JP81 KM17 KM18 KM27 KN07 KN08 KN11 
+KN16 KN17 KN22 KN23 KN29 KN32 KN35 KN43 KN46 KN57 KN58 KN59 KN66 KN67 KN69 KN74 KN86 KN87
+KO05 KO11 KO12 KO16 KO20 KO27 KO29 KO30 KO34 KO35 KO37 KO55 KO70 KO73 KO84 KO90 KO96 KO97
+KP03 KP04 KP06 KP10 KP11 KP15 KP30 KP68 KP71 LN28 LO01 LO07 LO22 LO23 LO48 LO51 LO71 LO97
+MO07 MO26 MO27 MO64 MO95 MP80 NO14 NO53 NO66 NO68 OO43
+
+This leads to the following score for May (aggregate score in parentheses):
+2E0DPH, Phil:	50 points (100)		GM0EPO, John:		40 points (90)
+5B4AHO, Barry:	60 points (120)		IK1POZ, Paolo:		60 points (85)
+DH0DK, Ben:	55 points (115)		IK2RMZ, Martin:		60 points (120)
+DK5OE, Klaus:	 - points (50)		IK5WOB, Fabrizio:	25 points (60)
+DL1DXL, Lothar:	60 points (120)		IZ5JLW, Lele:		 0 points (55)
+DL1GBZ, Martin:	 - points (60)		M0DAG, Dean:		-5 points (25)
+DO1UZ, Olaf:	35 points (95)		M5ABN, Pete:		20 points (45)
+DO2TC, Peter:	 5 points (40)		OE3LHB, Heinz:		60 points (120)
+DL7UGN, Mike:	60 points (60)		OH7QR, Erkki:		60 points (120)
+EI6KH, Chris:	35 points (90)		OK2BMA, Pavel:		20 points (30)
+G0DJA, Dave:	-5 points (40)		PA0ATG, Adriaan:	50 points (100)
+G3YJQ, Fred:	60 points (110)		PA0DIN, Din:		10 points (10)
+G3ZOD, Graham:	 5 points (20)		RN3ANT, Vitaly:		 0 points (30)
+G4KLE, Merv:	60 points (120)		RW3AI, Valery:		60 points (120)
+G4LHI, Peter:	60 points (120)		SP9NLI, Andy:		60 points (75)
+G5VZ, Chris:	 0 points (0)
+
+=> note that "- points" means that no log was received this month
+
+Unfortunately, a few S&L participants had to suffer a snake bite in May, some can be
+recognised from the negative scoring. There were others, but their bites were neutralised
+because they either managed to climb a ladder at the same time, or they did not climb a ladder in April.
+
+Again there were some nice and encouraging reactions from participants this month. There was one however,
+that I would like to share here with you, and that came from Andy, SP9NLI:
+
+"It's okay this game accepts QSOs made with any stations that may come our way on the bands,
+but wouldn't it be nice if there were some frequencies and times designated for the participants
+to meet other fellow S&L players?"
+
+If anyone wishes to react on Andy's question, then please feel free to do so. S&L is not meant to be a
+contest in any way, but if there appears to be a more general need for "arranged contacts within S&L", then
+we might have a look into that, either for this or next year's run.
+
+Regards, 73s,
+DM4RW mgr S&L

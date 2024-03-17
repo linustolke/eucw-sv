@@ -1,0 +1,63 @@
+Snakes & Ladders, Edition 2016
+
+Results for the second month of 1st semester of 2018
+
+A warm welcome to our new participants: G4TGJ, Richard; M0ILR, Simon;
+and M0PYC, David (ex-2E0EML)
+
+Received were 30 logs containing 930 valid QSOs into 265 locator squares.
+Among these squares, we had 110 candidate ladders (each with 1 QSO
+only) of which the following 22 were randomly selected as ladders:
+
+	IN78 IN91 IN96 IO86 JN05 JN96 JO54 JO69 JO72 JO78
+	JO80 JO91 JP83 KM18 KM28 KN76 KO02 KO25 KO32 KO44
+	KP13 LN13
+
+Furthermore we had 43 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN55 JN88 JO52 JO53
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   43		 28	 15
+2E0EML, David:	   12		 12	  -
+DJ6UX, Eddi:	  693		327	366
+DL1DXL, Lothar:   204		126	 78
+DL1HBL, Claus:	   39		 20	 19
+DL7UGN, Mike:	   12		 11	  1
+DM4RW, Robert:	   27		  7	 20
+F5IYJ, Philippe:   48		  8	 40
+G0ILN, Richard:   107		 74	 33
+G0JHK, Mike:	   55		 41	 14
+G0POT, Michael:	    1		  -	  1
+G3XVL, Chris:	   62		 62	  -
+G3YJQ, Fred:	   53		 40	 13
+G4FAI, Tony:       68		 37	 31
+G4LHI, Peter:	  368		124	244
+G4RHR, Ken:	   66		 19	 47
+G4TGJ, Richard:	   21		  -	 21
+GM0EPO, John:	   32		  -	 32
+I2CZQ, Peter:	  589		195	394
+I5EFO, Emil:	   23		  9	 14
+I5SKK, Alex:	   30		 24	  6
+IK2RMZ, Martin:	  500		253	247
+IZ8NXG, Renato:   445		207	238
+M0DRK, Derek:	   32		 21	 11
+M0ILR, Simon:	   21		  -	 21
+M0PYC, David:	   21		  -	 21
+M0UZE, Mark:	   22		 22	  -
+M5ABN, Pete:	   63		 28	 35
+OE6GWG, Werner:	  208		102	106
+OH7QR, Erkki:	   94		 37	 57
+OK1PSI, Michal:     4		  4	  -
+OK2BMA, Pavel:	   38		 32	  6
+PA0DIN, Din:	    6		  -	  6
+SV2BBK, Fanis:	  377		210	167
+
+I wish all good luck for the running month of March, and see you back soon.
+
+73,
+DM4RW mgr S&L

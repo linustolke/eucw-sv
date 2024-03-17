@@ -1,0 +1,67 @@
+Snakes & Ladders edition 2nd semester of 2017
+
+Results for December 2017, final month.
+
+Welcome to Mike, G0JHK, who joined us this month.
+
+Received were 32 logs containing 1000 valid QSOs into 216 locator squares.
+Among these locator squares, we had 76 candidate ladders (each with 1 QSO
+only) of which the following 15 were randomly selected as ladders:
+
+	IM58 IO51 JM77 JN66 JO48 JO86 JP20 KM28 KN19 KN87
+	KP32 LN07 LO06 LO74 LO88
+
+Furthermore we had 47 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	IO64 IO83 JN59 JN68
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    82		 12	 16	  20	   13	     1	     20
+2E0EML, David:	   171		 30	 30	  33	   24	    39	     15
+2E0ENL, Mark:	    92		  -	  -	   -	    -	    59	     33
+DJ6UX, Eddi:	  2349		539	360	 330	  462	   310	    348
+DL1DXL, Lothar:	   310		  -	 40	 108	   73	    43	     46
+DL1GBZ, Martin:	   141		  -	  -	 141	    -	     -	      -
+DL1HBL, Claus:	   135		 45	 22	   9	   43	     -	     16
+DL7UGN, Mike:	    44		 12	  7	  18	    -	     1	      6
+DM4RW, Robert:	    90		  -	  7	   8	   23	    19	     33
+F5IYJ, Philippe:   132		 49	 35	   7	    9	     1	     31
+G0ILN, Richard:    106		 12	 15	   6	    -	     -	     73
+G0JHK, Mike:	    36		  -	  -	   -	    -	     -	     36
+G0POT, Michael:	   115		  9	 37	  38	   22	     -	      9
+G3XVL, Chris:	   801		172	120	 149	  129	   142	     89
+G3YJQ, Fred:	    89		  6	 22	  19	   17	    21	      4
+G4FAI, Tony:       108		 29	 22	   1	   21	    14	     21
+G4KLE, Mervin:	    55		 55	  -	   -	    -	     -	      -
+G4LHI, Peter:	  2501		299	502	 343      442	   480 	    435
+G4RHR, Ken:	   253		 32	 31	  17	   61	    86	     26
+G6HH, Richard:      82		 14	 19	  17	   17	     4	     11
+G7JMZ, John:	     2		  -	  -	   1	    -	     -	      1
+I2CZQ, Peter:	   355		 70	  -	   -	   15	   130	    140
+I5EFO, Emil:	   216		 40	 41	  42	   42	    32	     19
+I5SKK, Alex:	   126		  -	  -	  45	   15	    24	     42
+IK1YBL, Paolo:      65		  1	 32	  15	    9	     -	      8
+IK2RMZ, Martin:	  1361		180	108	 175	  399	   236	    263
+IZ8NXG, Renato:	   684		 12	116	 140	  125	   198	     93
+M0DRK, Derek:	   134		 25	 20	  20	   23	    21	     25
+M5ABN, Pete:	   123		 27	 34	  27	   15	     3	     17
+M6MEN, Mark:       162		 74	 45	  18	   25	     -	      -
+OH2BN, Jarmo:	     1		  -	  1	   -	    -	     -	      -
+OH7QR, Erkki:	   296		 30	 20	  49	   86	    58	     53
+OK1PSI, Michal:     51		 12	  5	  10	    1	    15	      8
+OK2BMA, Pavel:	   150	 	 12	  6	  40	   37	     4	     51
+OK2PXJ, Vaclav:	    10		  -	  -	  10	    -	     -	      -
+PA0DIN, Din:       156		 10	 38	  46	   30	    10	     22
+SV2BBK, Fanis:	   877		102	 74	 140	  224	   161	    176
+
+Congratulations to the winner of the second semester of 2017: Peter G4LHI!
+
+I wish all good luck for the first semester of 2018, and hopefully I'll be hearing
+back from all of you next month.
+
+Best 73,
+Robert, DM4RW mgr S&L

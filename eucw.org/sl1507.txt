@@ -1,0 +1,59 @@
+Snakes & Ladders (v2) result for July 2015
+
+There was one new participant this month: welcome to R2DEX, Alexej. This brings
+the total number of participants so far to 38.
+
+Received were 30 logs and 1 check log from Eddi, DJ6UX. The 30 logs contained
+776 valid QSOs into 249 locator squares. Less QSOs than last month, it seems we
+are having a bit of a summer-blues.
+
+Among the 249 locator squares, we had 29 locator squares with more than 5 QSOs.
+From these 29 locator squares, the following squares were randomly selected to
+be the snakes for this month:
+
+	IO93, JO30
+
+Of the 249 square locators worked, 121 (!) made it to ladder square with only 1
+QSO each:
+
+HM77 IL28 IM76 IM78 IM97 IN78 IN88 IN89 IN90 IN92 IN93 IO51 IO62 IO78 IO82 IO86
+IO94 IO99 JM75 JM88 JM89 JN00 JN03 JN05 JN07 JN13 JN17 JN23 JN26 JN41 JN46 JN47
+JN52 JN55 JN65 JN69 JN71 JN77 JN78 JN79 JN80 JN88 JN92 JN93 JN96 JO10 JO45 JO46
+JO49 JO54 JO55 JO57 JO73 JO75 JO80 JO86 JO98 JP20 JP32 JP40 JP41 JP73 JP80 JP81
+JP99 JQ78 KM38 KN04 KN05 KN07 KN16 KN26 KN31 KN32 KN36 KN39 KN45 KN64 KN66 KN69
+KN84 KN88 KN97 KN98 KO04 KO12 KO14 KO36 KO37 KO39 KO47 KO55 KO60 KO64 KO70 KO86
+KO91 KO95 KP03 KP04 KP05 KP12 KP22 KP23 KP24 KP31 KQ10 KQ17 LN14 LN28 LN42 LO03
+LO45 LO58 LO67 LP04 LP31 LP51 LP52 MO36 MO65
+
+This leads to the following score (accumulated score in parentheses):
+2E0DPH, Phil:	   18 points (70)	G3YJQ, Fred:	   20 points (92)
+2E0EML, David:	    4 points (44)	G3ZOD, Graham:	    - points (26)
+2E0TEK, Graham:	    - points (8)	G4FAI, Tony:       30 points (138)
+DF2OK, Mike:	    - points (52)	G4KLE, Merv:	   58 points (319)
+DH3LK, Rudolf:	   86 points (186)	G4LHI, Peter:	  143 points (632)
+DK5OE, Klaus:	   24 points (130)	G7JMZ, John:	    4 points (16)
+DL1DXL, Lothar:    32 points (343)	I2CZQ, Peter:	  237 points (903)
+DL1GBZ, Martin:	    - points (66)	IK2RMZ, Martin:	  237 points (1055)
+DL1HBL, Claus:	   68 points (387)	M0DRK, Derek:	   24 points (112)
+DL7UGN, Mike:	   22 points (118)	M5ABN, Pete:	  104 points (274)
+DO1UZ, Olaf:       30 points (108)	M6MEN, Mark:        6 points (10)
+EI6KH, Chris:	    - points (8)	OE6GWG, Werner:	  144 points (444)
+F5IYJ, Philippe:   34 points (274)	OH7QR, Erkki:	  104 points (434)
+G0DDX, Geoff:      16 points (28)	OK2BMA, Pavel:	   10 points (64)
+G0DJA, Dave:	    4 points (42)	OK2PXJ, Vaclav:	    - points (62)
+G0HGH, Jim:         - points (8)	PA0DIN, Din:       16 points (64)
+G0ILN, Richard:    24 points (206)	R2DEX, Alexej:	    4 points (4)
+G0POT, Michael:	   84 points (373)	RN3ANT, Vit:	    - points (94)
+G3XVL, Chris:	    8 points (22)	RW3AI, Valery:	    8 points (84)
+	
+Many thanks for such a great contribution, especially considering the 
+circumstances: hot summer weather and still bad conditions.
+
+I wish all good luck for the running month of August, and I hope I may hear
+back from you end of August, early September.
+
+Regards, best 73,
+DM4RW mgr S&L
+
+PS: my apologies to DL1HBL, whose score I forgot to update in the report for
+June, and to G3XVL, whom I mistakingly called G3VXL... All has been corrected!

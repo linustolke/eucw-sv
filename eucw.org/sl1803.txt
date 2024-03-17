@@ -1,0 +1,64 @@
+Snakes & Ladders, Edition 2016
+
+Results for the third month of 1st semester of 2018
+
+A good month for Snakes & Ladders despite the spottless sun!
+
+Received were 32 logs containing 1208 valid QSOs into 308 locator squares.
+Among these squares, we had 126 candidate ladders (each with 1 QSO
+only) of which the following 25 were randomly selected as ladders:
+
+	IM59 IN98 IP35 JN26 JN52 JO48 JO88 JP81 KN49 KN74
+	KO04 KO40 KO51 KO58 KO64 KO86 KP13 KP71 LN05 LN07
+	LN08 LO02 LO45 LO66 OO06
+
+Furthermore we had 53 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	IO93 JN53 JN88 JO02 JO71
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   66		 28	 15	 23
+2E0EML, David:	   12		 12	  -	  -
+DJ6UX, Eddi:	 1104		327	366	411
+DL1DXL, Lothar:   261		126	 78	 57
+DL1HBL, Claus:	   53		 20	 19	 14
+DL7UGN, Mike:	   34		 11	  1	 22
+DM4RW, Robert:	   37		  7	 20	 10
+F5IYJ, Philippe:   61		  8	 40	 13
+G0ILN, Richard:   190		 74	 33	 83
+G0JHK, Mike:	   55		 41	 14	  -
+G0POT, Michael:	   13		  -	  1	 12
+G0XAH, David:	  102		  -	  -	102
+G3XVL, Chris:	   62		 62	  -	  -
+G3YJQ, Fred:	   72		 40	 13	 19
+G4FAI, Tony:       87		 37	 31	 19
+G4LHI, Peter:	 1023		124	244	655
+G4RHR, Ken:	   90		 19	 47	 24
+G4TGJ, Richard:	   59		  -	 21	 38
+GM0EPO, John:	   45		  -	 32	 13
+I2CZQ, Peter:	 1196		195	394	607
+I5EFO, Emil:	   35		  9	 14	 12
+I5SKK, Alex:	   78		 24	  6	 48
+IK1YBL, Paolo:	    5		  -	  -	  5
+IK2RMZ, Martin:	  946		253	247	446
+IZ8NXG, Renato:   605		207	238	160
+M0DRK, Derek:	   73		 21	 11	 41
+M0ILR, Simon:	   54		  -	 21	 33
+M0PYC, David:	   90		  -	 21	 69
+M0UZE, Mark:	   22		 22	  -	  -
+M5ABN, Pete:	   75		 28	 35	 12
+OE6GWG, Werner:	  298		102	106	 90
+OH7QR, Erkki:	  144		 37	 57	 50
+OK1PSI, Michal:     7		  4	  -	  3
+OK2BMA, Pavel:	   62		 32	  6	 24
+PA0DIN, Din:	   20		  -	  6	 14
+SV2BBK, Fanis:	  584		210	167	207
+
+I wish all good luck for the running month of April, and see you back soon.
+
+73,
+DM4RW mgr S&L

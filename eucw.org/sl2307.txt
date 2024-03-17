@@ -1,0 +1,66 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the second semester of 2023
+
+We welcome one new participant: Renato, IZ5BBS.
+
+Received were 37 logs containing 1458 valid QSOs into 281 locator squares.
+
+Among these squares, we had 98 candidate ladders (each with 1 QSO
+only) from which the following 19 were randomly selected as ladders:
+
+     IN96 IO73 IO76 JN08 JN11 JN13 JN60 JN69 JN80 KM69
+     KN68 KN84 KN96 KO24 KO47 KO51 KO70 KP06 KP42 
+
+Furthermore we had 82 candidate snakes (each with more than 5 QSOs), of which
+the following 8 were randomly selected as snakes:
+
+     IO91 JM19 JN03 JO22 JO40 JO43 JO57 JO67 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+DJ6UX, Eddi              399|    399|
+DL1DHM, Hanns             67|     67|
+DL1DXL, Lothar           126|    126|
+DL1GBZ, Martin           236|    236|
+DL1HBL, Claus              2|      2|
+DL3GJ, Greg               13|     13|
+DM4RW, Robert              5|      5|
+F4GOU, Tom               233|    233|
+F5IYJ, Philippe            8|      8|
+F5LKK, Serge              21|     21|
+F5POJ, Philippe          397|    397|
+F8EHJ, Herve              31|     31|
+G0ILN, Richard             2|      2|
+G3XVL, Chris              43|     43|
+G3ZOD, Graham             12|     12|
+I0YQX, Italo               7|      7|
+I3JUK, Giuseppe          260|    260|
+I5ECW, Vanni              62|     62|
+IK1VQO, Gianluca           6|      6|
+IK1WNO, Enrico            24|     24|
+IK5WOB, Fabrizio          39|     39|
+IK7UKF, Sal               13|     13|
+IK8SCR, Nicola             6|      6|
+IN3FHE, Helga              2|      2|
+IU8OJT, Marco             23|     23|
+IW2JJS, Giorgio           17|     17|
+IZ2FME, Michele           24|     24|
+IZ5BBS, Renato           134|    134|
+IZ7EBY, Tony              18|     18|
+M0KTZ, Enzo              126|    126|
+M5ABN, Pete               37|     37|
+MI0WWB, William          177|    177|
+MM0UMH, Les               66|     66|
+OH7QR, Erkki              33|     33|
+PA7RA, Rien              189|    189|
+SN9MT, Mirek              10|     10|
+SV2BBK, Fanis            110|    110|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

@@ -1,0 +1,88 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fourth month of the 2nd semester of 2020
+
+This month we may welcome the following newcomers: I2QIL, Antonio;
+IU0LJD, Ernesto; IZ2CPS, Roberto; M0DHP, Ray; and PA0VLD, Cees. 
+
+Received were 47 logs containing 2479 valid QSOs into 321 locator squares.
+Among these squares, we had 105 candidate ladders (each with 1 QSO
+only) of which the following 21 were randomly selected as ladders:
+
+        IM87 IO51 JM76 JN00 JN04 JN08 JN27 JN72 JN90 JO38
+        JO91 JP33 KM25 KM69 KN13 KN26 KN49 KN59 KO14 LO36
+        NO56
+
+Furthermore we had 103 candidate snakes (each with more than 5 QSOs), of which
+the following 10 were randomly selected as snakes:
+
+        IM58 IO70 JN52 JN58 JN81 JO65 JO89 KN06 KO85 KP25
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:         42         11       -      10      21
+DJ6UX, Eddi:        1740        432     450     372     486
+DL1DXL, Lothar:      297        120      99      78       -
+DL1HBL, Claus:        46         21       2      10      13
+DL7UGN, Mike:         49         22      26       1       -
+DM4RW, Robert:        25          8       -      10       7
+F5IYJ, Phil:         143         47      18      25      53
+G0ILN, Richard:      114         49      26       -      39
+G3XVL, Chris:        183         54      26      55      48
+G3ZOD, Graham:        21         15       2       4       -
+G4FAI, Tony:           9          4       -       1       4
+G4LHI, Peter:       2360        715     615     502     528
+I0YQX, Italo:        126          -       -      52      74
+I2AZ, Giuseppe:       45          -      45       -       -
+I2CZQ, Peter:        169        166       -       -       3
+I2QIL, Antonio:       53          -       -       -      53
+I3JUK, Giuseppe:    1166          -     225     442     499
+I8QFK, Ben:           93          -      26      67       -
+II2EMCA, Mike:        78          -      34      14      30
+IK0XFD, Giordano:    162          -       -      89      73
+IK1WNO, Enrico:      100          -      35      42      23
+IK1YBL, Paolo:        49         26      15       8       -
+IK2CKR, Angelo:       85          -       -      10      75
+IK2RMZ, Martin:      704        155     170      96     283
+IK2WQH, Fabio:        72          -       -      17      55
+IK5WOB, Fabrizio:     18          -       -       -      18
+IK5ZWU, Walter:     2150          -       -    1632     518
+IK7UKF, Sal:         563          -     212     171     180
+IK8SCR, Nicola:      198          -       -     108      90
+IN3FHE, Helga:        31          -      12       7      12
+IT9FGY, Salvo:        70          -       -      70       -
+IU0HMB, Vlado:       298          -       -      28     270
+IU0LJD, Ernesto:      16          -       -       -      16
+IU3KGO, Massimo:     124          -      15      86      23
+IW2JJS, Giorgio:      86          -       -      41      45
+IZ2CPS, Roberto:       3          -       -       -       3
+IZ2FME, Mike:        473         17      14     306     136
+IZ7EBY, Tony:        224          -       4     169      51
+IZ8NXG, Renato:      540         63     145     144     188
+IZ8SWO, Everaldo:     51          -       -      21      30
+M0DHP, Ray:            3          -       -       -       3
+M0DRK, Derek:         33         16       -       -      17
+M0ILR, Simon:        291          -      78     109     104
+M0PYC, David:        150         42      36      42      30
+M0UZE, Mark:         526        111     139     123     153
+M5ABN, Pete:         135         21      38      31      45
+MI0WWB, William:     161         52       6      11      92
+MX5IPX, Graham:       18         12       6       -       -
+OH7QR, Erkki:        902        214     203     222     263
+OK1LIX, Petr:          3          -       3       -       -
+OK2BMA, Pavel:        33          3      16       3      11
+PA0DIN, Din:          66         18      43       -       5
+PA0VLD, Cees:         31          -       -       -      31
+PG4I, Joop:          760        132     234     186     208
+SV2BBK, Fanis:       683        165      81     181     256
+YL3JD, Hanz:         185          -       -      36     149
+
+II2EMCA is a special call sign run by IZ2FME, Miki
+
+I wish all good luck for the running month of November, thanks for participating
+and hopefully I'll see you back next month. Take care and stay safe.
+
+vy73,
+DM4RW mgr S&L

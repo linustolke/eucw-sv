@@ -1,0 +1,60 @@
+Snakes & Ladders edition 1st semester of 2017
+
+Results for January 2017, first month of the winter/spring run.
+
+A warm welcome back to all participants.
+
+Received were 32 logs containing 940 valid QSOs into 244 locator squares.
+Among the 244 locator squares, we had 109 candidate ladders (each with 1 QSO
+only) of which the following 21 were randomly selected as ladders:
+
+	IM87 IM88 IM97 IN78 IN83 IO64 JN04 JN17 JN25 JN80
+	JO76 JP66 KN03 KN32 KN33 KN67 KN68 KN88 KN89 KO41
+	KP25
+
+Furthermore we had 38 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO92 JN49 JN76
+
+This leads to the following scores
+
+Call, name	Total score	 1	2	3	4	5	6
+===========================================================================
+2E0DPH, Phil:	    18		18	
+DJ6UX, Eddi:	   359	       359
+DK5OE, Klaus:	    21	        21
+DL1DXL, Lothar:     83	        83
+DL1HBL, Claus:	    43	        43
+DL7UGN, Mike:	    10	        10
+DM4RW, Robert:	    14	        14
+F5IYJ, Philippe:    15	        15
+G0DDX, Geoff:       15	        15
+G0ILN, Richard:     45	        45
+G0POT, Michael:	    10	        10
+G3XVL, Chris:	    91	        91
+G3YJQ, Fred:	    26	        26
+G3ZOD, Graham:	     1		 1
+G4FAI, Tony:        28	        28
+G4LHI, Peter:	   347	       347
+G4RHR, Ken:	    31	        31
+G6HH, Richard:	    14		14
+G7JMZ, John:	     2	         2
+I2CZQ, Peter:	    93		93
+I5EFO, Emil:	    26		26
+IK2RMZ, Martin:	   315	       315
+M0DRK, Derek:	    48	        48
+M5ABN, Pete:	    56	        56
+M6MEN, Mark:       136	       136
+MX5IPX, Graham:	     6		 6
+OE6GWG, Werner:	    27	        27
+OH7QR, Erkki:	    36	        36
+OK2BMA, Pavel:	    18	        18
+OK2PXJ, Vaclav:	    15	        15
+PA0DIN, Din:         6	         6
+SV2BBK, Fanis:	   299	       299
+
+I wish all good luck for the running month of February, and see you back soon.
+
+73,
+DM4RW mgr S&L

@@ -1,0 +1,64 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fourth month of 1st semester of 2018
+
+Again another good month despite the conditions, many thanks to you all!
+
+Received were 32 logs containing 1218 valid QSOs into 291 locator squares.
+Among these squares, we had 124 candidate ladders (each with 1 QSO
+only) of which the following 24 were randomly selected as ladders:
+
+	IM76 IN95 JM19 JN13 JN17 JN72 JN87 JO29 JO77 JP32
+	KM27 KN19 KN25 KN37 KN70 KN84 KO00 KO05 KO12 KO74
+	KO86 KP15 LN14 LO00
+
+Furthermore we had 56 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+	IO80 JN48 JN71 JN77 KO85
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   83		 28	 15	 23	 17
+2E0EML, David:	   12		 12	  -	  -	  -
+DJ6UX, Eddi:	 1575		327	366	411	471
+DL1DXL, Lothar:   267		126	 78	 57	  6
+DL1HBL, Claus:	   59		 20	 19	 14	  6
+DL7UGN, Mike:	   34		 11	  1	 22	  -
+DM4RW, Robert:	   47		  7	 20	 10	 10
+F5IYJ, Philippe:   76		  8	 40	 13	 15
+G0ILN, Richard:   260		 74	 33	 83	 70
+G0JHK, Mike:	   55		 41	 14	  -	  -
+G0POT, Michael:	   40		  -	  1	 12	 27
+G0XAH, David:	  256		  -	  -	102	154
+G3XVL, Chris:	   62		 62	  -	  -	  -
+G3YJQ, Fred:	   89		 40	 13	 19	 17
+G4FAI, Tony:       93		 37	 31	 19	  6
+G4LHI, Peter:	 1793		124	244	655	770
+G4RHR, Ken:	   96		 19	 47	 24	  6
+G4TGJ, Richard:	   94		  -	 21	 38	 35
+GM0EPO, John:	  106		  -	 32	 13	 61
+I2CZQ, Peter:	 1716		195	394	607	520
+I5EFO, Emil:	   52		  9	 14	 12	 17
+I5SKK, Alex:	  168		 24	  6	 48	 90
+IK1YBL, Paolo:	   15		  -	  -	  5	 10
+IK2RMZ, Martin:	 1404		253	247	446	458
+IZ8NXG, Renato:   638		207	238	160	 33
+M0DRK, Derek:	  108		 21	 11	 41	 35
+M0ILR, Simon:	   78		  -	 21	 33	 24
+M0PYC, David:	  144		  -	 21	 69	 54
+M0UZE, Mark:	   25		 22	  -	  -	  3
+M5ABN, Pete:	   97		 28	 35	 12	 22
+OE6GWG, Werner:	  412		102	106	 90	114
+OH7QR, Erkki:	  176		 37	 57	 50	 32
+OK1PSI, Michal:     9		  4	  -	  3	  2
+OK2BMA, Pavel:	   71		 32	  6	 24	  9
+PA0DIN, Din:	   28		  -	  6	 14	  8
+SV2BBK, Fanis:	  816		210	167	207	232
+
+I wish all good luck for the running month of May, and see you back soon.
+
+73,
+DM4RW mgr S&L

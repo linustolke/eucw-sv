@@ -1,0 +1,87 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fifth month of the 2nd semester of 2020
+
+This month we may welcome IK2GAJ, Marco, as newcomer. 
+
+Received were 52 logs containing 2883 valid QSOs into 346 locator squares.
+Among these squares, we had 104 candidate ladders (each with 1 QSO
+only) of which the following 20 were randomly selected as ladders:
+
+	IM12 IM88 IN95 IO67 JN90 JN95 JO46 JO49 JO92 KN01
+	KN21 KN24 KN44 KN68 KN69 KO13 KO36 KO96 KP03 KP06
+
+Furthermore we had 106 candidate snakes (each with more than 5 QSOs), of which
+the following 10 were randomly selected as snakes:
+
+	IM99 IN87 JN38 JN53 JN58 JN76 JN88 JO31 JO60 KP32
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	     157	 11	  -	 10	 21	115
+DJ6UX, Eddi:	    2154	432	450	372	486	414
+DL1DXL, Lothar:      361	120	 99	 78	  -	 64
+DL1HBL, Claus:	      54	 21	  2	 10	 13	  8
+DL7UGN, Mike:	      49	 22	 26	  1	  -	  -
+DM4RW, Robert:	      36	  8	  -	 10	  7	 11
+F5IYJ, Phil:	     173	 47	 18	 25	 53	 30
+G0ILN, Richard:      144	 49	 26	  -	 39	 30
+G3XVL, Chris:	     284	 54	 26	 55	 48	101
+G3ZOD, Graham:        22	 15	  2	  4	  -	  1
+G4FAI, Tony:          12	  4	  -	  1	  4	  3
+G4LHI, Peter:	    2884	715	615	502	528	524
+I0YQX, Italo:	     192	  -	  -	 52	 74	 66
+I2AZ, Giuseppe:	      45	  -	 45	  -	  -	  -
+I2CZQ, Peter:	     395	166	  -	  -	  3	226
+I2QIL, Antonio:	     206	  -	  -	  -	 53	153
+I3JUK, Giuseppe:    1677	  -	225	442	499	511
+I8QFK, Ben:	     148	  -	 26	 67	  -	 55
+II2EMCA, Mike:	      82	  -	 34	 14	 30	  4
+IK0XFD, Giordano:    171	  -	  -	 89	 73	  9
+IK1WNO, Enrico:	     132	  -	 35	 42	 23	 32
+IK1YBL, Paolo:	     130	 26	 15	  8	  -	 81
+IK2CKR, Angelo:	     101	  -	  -	 10	 75	 16
+IK2GAJ, Marco:	      20	  -	  -	  -	  -	 20
+IK2RMZ, Martin:	     978	155	170	 96	283	274
+IK2WQH, Fabio:	     116	  -	  -	 17	 55	 44
+IK5WOB, Fabrizio:     40	  -	  -	  -	 18	 22
+IK5ZWU, Walter:     2966	  -	  -    1632	518	816
+IK7UKF, Sal:	     695	  -	212	171	180	132
+IK8SCR, Nicola:      281	  -	  -	108	 90	 83
+IN3FHE, Helga:	      43	  -	 12	  7	 12	 12
+IT9FGY, Salvo:	     153	  -	  -	 70	  -	 83
+IU0HMB, Vlado:	     590	  -	  -	 28	270	292
+IU0LJD, Ernesto:      28	  -	  -	  -	 16	 12
+IU3KGO, Massimo:     124	  -	 15	 86	 23	  -
+IW2JJS, Giorgio:     105	  -	  -	 41	 45	 19
+IZ2CPS, Roberto:       6	  -	  -	  -	  3	  3
+IZ2FME, Mike:	     624	 17	 14	306	136	151
+IZ7EBY, Tony:	     241	  -	  4	169	 51	 17
+IZ8NXG, Renato:      726	 63	145	144	188	186
+IZ8SWO, Everaldo:    101	  -	  -	 21	 30	 50
+M0DHP, Ray:	       4	  -	  -	  -	  3	  1
+M0DRK, Derek:	      66	 16	  -	  -	 17	 33
+M0ILR, Simon:	     291	  -	 78	109	104	  -
+M0PYC, David:	     168	 42	 36	 42	 30	 18
+M0UZE, Mark:	     679	111	139	123	153	153
+M5ABN, Pete:	     274	 21	 38	 31	 45	139
+MI0WWB, William:     226	 52	  6	 11	 92	 65
+MX5IPX, Graham:       19	 12	  6	  -	  -	  1
+OH7QR, Erkki:	    1114	214	203	222	263	212
+OK1LIX, Petr:	       3	  -	  3	  -	  -	  -
+OK2BMA, Pavel:	      60	  3	 16	  3	 11	 27
+PA0DIN, Din:	      74	 18	 43	  -	  5	  8
+PA0VLD, Cees:	     113	  -	  -	  -	 31	 82
+PG4I, Joop: 	     867	132	234	186	208	107
+SV2BBK, Fanis:	     848	165	 81	181	256	165
+YL3JD, Hanz:	     278	  -	  -	 36	149	 93
+
+II2EMCA is a special call sign run by IZ2FME, Miki
+
+I wish all good luck for the running month of Decemer, thanks for participating
+and hopefully I'll see you back next month. Take care and stay safe.
+
+vy73,
+DM4RW mgr S&L

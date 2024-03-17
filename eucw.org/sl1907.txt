@@ -1,0 +1,54 @@
+Snakes & Ladders, Edition 2016
+
+Results for July, first month of the second semester of 2019.
+
+Welcome back to the second half year of 2019.
+
+Received were 27 logs containing 1090 valid QSOs into 198 locator squares.
+Among these locator squares, we had 78 candidate ladders (each with 1 QSO
+only) of which the following 15 were randomly selected as ladders:
+
+	IN51 IN96 IO68 JN12 JN47 JO59 JO98 JP90 KN15 KN23
+	KN24 KN89 KO90 KP03 KP25
+
+Furthermore we had 35 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO82 IO83 JN48
+
+This leads to the following scores
+
+Call, name	Total score	  1	  2	  3	  4	  5	  6
+=============================================================================
+2E0DPH, Phil:	    43		 43
+DJ6UX, Eddi:	   495		495
+DL1DXL, Lothar:	    58		 58
+DL1HBL, Claus:	    21		 21
+G0BON, Ivan:	    36		 36
+G0ILN, Richard:     64		 64
+G0POT, Michael:	    19		 19
+G0UYG, Andy:	    60		 60
+G0XAH, David:	    82		 82
+G3XVL, Chris:	    19		 19
+G3ZOD, Graham:	     5		  5
+G4FAI, Tony:	     2		  2
+G4LHI, Peter:	   521		521
+G4RHR, Ken:	    33		 33
+G4TGJ, Richard:	    13		 13
+I2CZQ, Peter:	    41		 41
+IK2RMZ, Martin:	   153		153
+M0DRK, Derek:	    42		 42
+M0ILR, Simon:	    39		 39
+M0PYC, David:	    57		 57
+M0UZE, Mark:	    81		 81
+M5ABN, Pete:	    36		 36
+MI0WWB, William:   179		179
+OH7QR, Erkki:	    97		 97
+OK2BMA, Pavel:	     1		  1
+SV2BBK, Fanis:	   204		204
+SV9RPE, Dick:	    31		 31
+
+I wish all good luck for August, enjoy the summer and see you back soon.
+
+Best 73,
+Robert, DM4RW mgr S&L

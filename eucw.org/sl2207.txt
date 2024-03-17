@@ -1,0 +1,68 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the second semester of 2022
+
+Received were 41 logs containing 1425 valid QSOs into 267 locator squares.
+
+Among these squares, we had 94 candidate ladders (each with 1 QSO
+only) from which the following 18 were randomly selected as ladders:
+
+     JN17 JN24 JN37 JN84 JN93 JO88 KM27 KN12 KN15 KN23
+     KN24 KO12 KO53 KO81 KO86 KP25 LO43 LP04 
+
+Furthermore we had 77 candidate snakes (each with more than 5 QSOs), of which
+the following 7 were randomly selected as snakes:
+
+     IO80 IO92 JN58 JN88 JN95 JO11 JO90 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+DJ6UX, Eddi              424|    424|
+DL1DHM, Hanns             33|     33|
+DL1DXL, Lothar            83|     83|
+DL1HBL, Claus             29|     29|
+DL3GJ, Greg                3|      3|
+F4GOU, Tom                81|     81|
+F5IYJ, Philippe           22|     22|
+F5POJ, Philippe          147|    147|
+F8EHJ, Herve              52|     52|
+G0ILN, Richard            55|     55|
+G0XAH, David              36|     36|
+G3XVL, Chris              19|     19|
+G3ZOD, Graham              1|      1|
+I0YQX, Italo              63|     63|
+I3JUK, Giuseppe           59|     59|
+I5ECW, Vanni              16|     16|
+IK1WNO, Enrico            59|     59|
+IK2RMZ, Martin           243|    243|
+IK5WOB, Fabrizio          63|     63|
+IK7UKF, Sal               60|     60|
+IK8SCR, Nicola             9|      9|
+IN3FHE, Helga              5|      5|
+IU0PJJ, Danilo            50|     50|
+IW2JJS, Giorgio           12|     12|
+IZ1POZ, Paolo            125|    125|
+IZ2FME, Michele           61|     61|
+IZ7EBY, Tony              65|     65|
+M0KTZ, Enzo              178|    178|
+M0LPZ, Gabor               4|      4|
+M5ABN, Pete              161|    161|
+MM0UMH, Les               86|     86|
+OE6GWG, Werner           202|    202|
+OH7QR, Erkki              49|     49|
+OK1LIX, Petr              24|     24|
+OK2BMA, Pavel             22|     22|
+PA7RA, Rien              127|    127|
+SN9MT, Mirek              65|     65|
+SQ9S, Adam                 9|      9|
+SV1DAY, Manos             66|     66|
+SV2BBK, Fanis            161|    161|
+YL3JD, Hanz               40|     40|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

@@ -1,0 +1,63 @@
+Snakes & Ladders, Edition 2016
+
+Results for the second month of the first semester of 2024
+
+Received were 33 logs containing 1077 valid QSOs into 244 locator squares.
+
+Among these squares, we had 99 candidate ladders (each with 1 QSO
+only) from which the following 19 were randomly selected as ladders:
+
+     IN61 IN99 IO51 JM89 JN17 JO76 KM16 KM69 KN13 KN16
+     KN18 KN25 KN30 KN59 KN74 KN88 KO03 KO59 KP32 
+
+Furthermore we had 58 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+     IO91 JN65 JN66 JO42 KO85 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+5B4AHO, Barry             34|     28|      6|
+DJ6UX, Eddi              665|    362|    303|
+DL1DHM, Hanns            199|     74|    125|
+DL1DXL, Lothar           165|     78|     87|
+DL1GBZ, Martin           408|    256|    152|
+DL1HBL, Claus             15|      3|     12|
+F4GOU, Tom               508|    237|    271|
+F5IYJ, Philippe          123|     49|     74|
+F5LKK, Serge              37|     25|     12|
+F5POJ, Philippe          142|     64|     78|
+F8EHJ, Herve              67|     42|     25|
+G3XVL, Chris              79|     43|     36|
+G4KLE, Merv                6|      0|      6|
+G6HH, Richard             18|      8|     10|
+GM0EPO, John              26|     19|      7|
+I0YQX, Italo              36|     19|     17|
+I3JUK, Giuseppe          526|    271|    255|
+I5ECW, Vanni             134|     69|     65|
+IK1WNO, Enrico            97|     57|     40|
+IK5WOB, Fabrizio         183|    103|     80|
+IK7UKF, Sal               50|     15|     35|
+IK8SCR, Nicola            24|     12|     12|
+IN3FHE, Helga             15|      6|      9|
+IT9FGY, Salvo            105|     65|     40|
+IW2JJS, Giorgio           29|     20|      9|
+IZ2FME, Michele          115|     66|     49|
+IZ5BBS, Renato           137|    137|      0|
+IZ7EBY, Tony              30|     18|     12|
+M0KTZ, Enzo              333|    333|      0|
+M5ABN, Pete               78|     25|     53|
+MI0PYN, Stefan            28|      0|     28|
+MM0UMH, Les              165|     77|     88|
+OH7QR, Erkki             226|     76|    150|
+OK2BMA, Pavel             24|      2|     22|
+PA7RA, Rien              127|     69|     58|
+RM2D, Mats                15|     15|      0|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

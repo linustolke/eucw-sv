@@ -1,0 +1,66 @@
+Snakes & Ladders result for April
+
+Received were 29 logs, containing 1125 valid log entries into 274 square locators
+
+The Snake squares have been determined as follows:
+IO92 with 72 log entries
+JO02 with 56 log entries
+IO83 with 29 log entries
+
+=> Note that these squares cannot be snake in the next two periods of activity
+=> Because no one has climbed a ladder in the previous month, no snake bites can happen in April
+
+Of the 274 square locators worked, 113 (!) made it to ladder square with 1 log entry each:
+HM77 IM88 IM98 IN70 IN71 IN73 IN77 IN80 IN95 IO44 IO52 IO64 IO67
+IO72 IO73 IO84 IO85 JM68 JM78 JM89 JN05 JN08 JN28 JN38 JN52 JN67
+JN88 JN90 JN93 JN96 JO23 JO28 JO45 JO49 JO54 JO55 JO56 JO57 JO58
+JO66 JO68 JO72 JO83 JO94 JP32 JP64 JP73 JP77 JP80 JP83 JP90 JP93
+KM17 KM25 KN06 KN07 KN18 KN22 KN25 KN28 KN34 KN45 KN56 KN59 KN64
+KN68 KN75 KN77 KN86 KO00 KO02 KO04 KO12 KO14 KO23 KO25 KO26 KO29
+KO39 KO40 KO41 KO43 KO52 KO64 KO81 KO84 KO86 KO88 KO95 KP06 KP21
+KP22 KP32 KP34 KP68 LN28 LO06 LO20 LO44 LO48 LO53 LO66 LO91 MO16
+MO25 MO27 NO15 NO35 OO06 OO22 OO62 PN64 QN16
+
+This leads to the following score (# log entries in parentheses):
+2E0DPH, Phil:	50 points (47)		IK2RMZ, Martin:		60 points (188)
+5B4AHO, Barry:	60 points (52)		IK5WOB, Fabrizio:	35 points (5)
+DH0DK, Ben:	60 points (31)		IZ1POZ, Paolo:		25 points (43)
+DK5OE, Klaus:	50 points (37)		IZ5JLW, Lele:		55 points (25)
+DL1DXL, Lothar:	60 points (48)		M0DAG, Dean:		30 points (3)
+DL1GBZ, Martin:	60 points (49)		M5ABN, Pete:		25 points (31)
+DO1UZ, Olaf:	60 points (27)		OE3LHB, Heinz:		60 points (28)
+DO2TC, Peter:	35 points (8)		OH7QR, Erkki:		60 points (104)
+EI6KH, Chris:	55 points (23)		OK2BMA, Pavel:		10 points (6)
+G0DJA, Dave:	45 points (13)		PA0ATG, Adriaan:	50 points (50)
+G3YJQ, Fred:	50 points (14)		PA0DIN, Din:		0 points  (2)
+G3ZOD, Graham:	15 points (15)		RN3ANT, Vitaly:		30 points (5)
+G4KLE, Merv:	60 points (102)		RW3AI, Valery:		60 points (54)
+G4LHI, Peter:	60 points (82)		SP9NLI, Andy:		15 points (17)
+GM0EPO, John:	50 points (16)
+
+Some participants with fewer QSOs (e.g. DO2TC, M0DAJ) were lucky enough to climb at least one ladder,
+whereas others (e.g. G3ZOD, M5ABN) were not so fortunate.
+
+Some reactions from participants:
+Dean, M0DAG, writes: First three qso/ragchews ever, may as well use them in S+L too!
+MGR=> I could not agree more Dean: these 3 QSOs brought you 30 points!
+
+Chris, EI6KH, writes: It's been great fun so far and has been a big help getting me
+back on track after an abscence from CW. I can't remember how many QSO's I need per
+month but hopefully 23 is ok. 73 and keep up the good work.
+MGR=> The number of log entries is not important. Because of the high non-contest-like
+point system, you can get a high score with few QSOs, but you need some luck for that!
+
+Peter, M5ABN, writes: An interesting and enjoyable activity. Nice that you can add to
+your score at anytime during the month as and when time allows. Looking forward to the rest of the year.
+MGR=> If you miss out on a month of participation: no problem, just come back the next month
+
+Andy, SP9NKI, writes: I guess I got bitten by a snake more than once.
+MGR=> Well, this depends on all valid log entries! It is quite impossible to predict whether you'll
+hit a snake. The best way to avoid snakes is: make as many QSOs as possible, and try to catch a ladder!
+
+Graham, G3ZOD, writes: I was pleased to take part in the first month of the Snakes and Ladders activity.
+MGR=> Well Graham, I hope everybody was as pleased as you were, and I hope to see you all back next month
+
+Regards, 73s,
+DM4RW mgr S&L

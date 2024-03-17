@@ -1,0 +1,64 @@
+Snakes & Ladders, Edition 2016
+
+Results for February, first semester of 2019.
+
+Welcome to one new participant: Tom, SQ9IWA.
+
+Received were 35 logs containing 974 valid QSOs into 215 locator squares.
+Among these squares, we had 95 candidate ladders (each with 1 QSO
+only) of which the following 19 were randomly selected as ladders:
+
+	IM78 IN87 IO65 IO75 IO95 JN17 JN27 JN33 JO55 JO63
+	JO91 KN19 KN32 KN43 KN98 KO01 KO25 KO76 KP22
+
+Furthermore we had 46 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+	JN56 JN61 JN88 JO40
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	  3	  4	  5	  6
+===========================================================================
+2E0DPH, Phil:	   49		 15	 34
+9H1PI, Ivan:	   10		  6	  4
+DH3LK, Rudolf:	   33		  -	 33
+DJ6UX, Eddi:	  694		327	367
+DL1DXL, Lothar:    29		 29	  -
+DL1HBL, Claus:	   93		 66	 27
+DL7UGN, Mike:	    6		  6	  -
+DM4RW, Robert:	   56		  1	 55
+F5IYJ, Philippe:   76		 34	 42
+G0BON, Ivan:	   27		 17	 10
+G0ILN, Richard:   134		 55	 79
+G0POT, Michael:	   21		  6	 15
+G3XVL, Chris:	   97		 53	 44
+G4FAI, Tony:        4		  1	  3
+G4LHI, Peter:	  790		390	400
+G4RHR, Ken:	   60		 29	 31
+G4TGJ, Richard:	   13		  6	  7
+I5EFO, Emil:	   68		 15	 53
+I5SKK, Alex:	  205		141	 64
+IK2RMZ, Martin:	  304		134	170
+IZ8NXG, Renato:   119		 73	 46
+M0DRK, Derek:	   42		 27	 15
+M0ILR, Simon:	   66		 39	 27
+M0PYC, David:	   93		 54	 39
+M0UZE, Mark:	  168		 92	 76
+M5ABN, Pete:	   47		 15	 32
+MI0WWB, William:   82		 29	 53
+OE3KAB, Karl:	   93		 60	 33
+OE6GWG, Werner:	  168		 93	 75
+OH7QR, Erkki:	  255		 97	158
+OK2BMA, Pavel:	   30		  9	 21
+OK2PXJ, Vaclav:	   56		  -	 56
+PA0DIN, Din:	   28		 20	  8
+SN9MT, Mirek:	   10		  -	 10
+SQ9IWA, Tom:	   59		  -	 59
+SV2BBK, Fanis:	  222		187	 35
+SV9RPE, Dick:	   68		 53	 15
+
+I wish all good luck for the running month of March, and see you back soon.
+
+73,
+DM4RW mgr S&L

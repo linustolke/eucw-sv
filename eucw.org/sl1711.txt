@@ -1,0 +1,62 @@
+Snakes & Ladders edition 2nd semester of 2017
+
+Results for November 2017, 5th month.
+
+Received were 26 logs containing 784 valid QSOs into 217 locator squares.
+Among these locator squares, we had 97 candidate ladders (each with 1 QSO
+only) of which the following 19 were randomly selected as ladders:
+
+	IN78 JN03 JN08 JN34 JN62 JN68 JN80 JN92 JO44 JO46
+	JO90 JP65 KM18 KN06 KN76 KN87 KO01 KO10 KP01
+
+Furthermore we had 33 candidate snakes (each with more than 5 QSOs), of which
+the following 3 were randomly selected as snakes:
+
+	IO82 JO43 JO71
+
+This leads to the following scores
+
+Call, name	Total score	 1	  2	   3	    4	     5	      6
+===============================================================================
+2E0DPH, Phil:	    62		 12	 16	  20	   13	     1
+2E0EML, David:	   156		 30	 30	  33	   24	    39
+2E0ENL, Mark:	    59		  -	  -	   -	    -	    59
+DJ6UX, Eddi:	  2001		539	360	 330	  462	   310
+DL1DXL, Lothar:	   264		  -	 40	 108	   73	    43
+DL1GBZ, Martin:	   141		  -	  -	 141	    -	     -
+DL1HBL, Claus:	   119		 45	 22	   9	   43	     -
+DL7UGN, Mike:	    38		 12	  7	  18	    -	     1
+DM4RW, Robert:	    57		  -	  7	   8	   23	    19
+F5IYJ, Philippe:   101		 49	 35	   7	    9	     1
+G0ILN, Richard:     33		 12	 15	   6	    -	     -
+G0POT, Michael:	   106		  9	 37	  38	   22	     -
+G3XVL, Chris:	   712		172	120	 149	  129	   142
+G3YJQ, Fred:	    85		  6	 22	  19	   17	    21
+G4FAI, Tony:        87		 29	 22	   1	   21	    14
+G4KLE, Mervin:	    55		 55	  -	   -	    -	     -
+G4LHI, Peter:	  2066		299	502	 343      442	   480
+G4RHR, Ken:	   227		 32	 31	  17	   61	    86
+G6HH. Richard:      71		 14	 19	  17	   17	     4
+G7JMZ, John:	     1		  -	  -	   1	    -	     -
+I2CZQ, Peter:	   215		 70	  -	   -	   15	   130
+I5EFO, Emil:	   197		 40	 41	  42	   42	    32
+I5SKK, Alex:	    84		  -	  -	  45	   15	    24
+IK1YBL, Paolo:      57		  1	 32	  15	    9	     -
+IK2RMZ, Martin:	  1098		180	108	 175	  399	   236
+IZ8NXG, Renato:	   591		 12	116	 140	  125	   198
+M0DRK, Derek:	   109		 25	 20	  20	   23	    21
+M5ABN, Pete:	   106		 27	 34	  27	   15	     3
+M6MEN, Mark:       162		 74	 45	  18	   25	     -
+OH2BN, Jarmo:	     1		  -	  1	   -	    -	     -
+OH7QR, Erkki:	   243		 30	 20	  49	   86	    58
+OK1PSI, Michal:     43		 12	  5	  10	    1	    15
+OK2BMA, Pavel:	    99	 	 12	  6	  40	   37	     4
+OK2PXJ, Vaclav:	    10		  -	  -	  10	    -	     -
+PA0DIN, Din:       134		 10	 38	  46	   30	    10
+SV2BBK, Fanis:	   701		102	 74	 140	  224	   161
+
+I wish all good luck for December, and hopefully I'll be hearing
+back from all of you next month.
+
+Best 73,
+Robert, DM4RW mgr S&L

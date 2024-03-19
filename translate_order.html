@@ -1,0 +1,20 @@
+---
+title: Translation order
+---
+Pages to process.
+
+The order is first the ones with the highest priority, then lower,
+then the ones without.
+
+Within each priority, firstly the ones without translated-date and
+then oldest first.
+<ol>
+  {% assign sorted = site.pages |
+     sort: 'translated' | reverse |
+     sort: 'priority' | reverse %}
+  {% for p in sorted %}
+  <li>
+    <a href="{{ p.url }}">{{ p.url }}</a> {{ p.priority }} {{ p.translated }}
+  </li>
+  {% endfor %}
+</ol>

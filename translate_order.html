@@ -18,8 +18,9 @@ datum med de äldsta först.
      sort: 'translated' | reverse |
      sort: 'priority' | reverse %}
   {% for p in sorted %}
-  <li>
-    <a href="{% p.url | replace_first: "/", "" %}">{{ p.url }}</a> {{ p.priority }} {{ p.translated }}
-  </li>
+    {% assign url = p.url | replace_first: "/", "" %}
+    <li>
+      <a href="{{ url }}">{{ url }}</a> {{ p.priority }} {{ p.translated }}
+    </li>
   {% endfor %}
 </ol>

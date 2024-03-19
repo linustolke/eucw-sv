@@ -1,13 +1,14 @@
 ---
 title: Translation order
+translated: 2024-03-19
 ---
-Pages to process.
+Sidor att gå igenom.
 
-The order is first the ones with the highest priority, then lower,
-then the ones without.
+Ordningen är i första hand de med högst "priority", därefter lägre och
+de som inte har någon angiven "priority" sist.
 
-Within each priority, firstly the ones without translated-date and
-then oldest first.
+Inom varje "priority" är det först de utan datum och därefter de med
+datum med de äldsta först.
 <ol>
   {% assign sorted = site.pages |
      sort: 'translated' | reverse |

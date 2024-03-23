@@ -22,3 +22,7 @@ EUCW-bulletin		EUCW Bulletin
 förbindelsefunktionär	Liaison officer
 EUCWs QRS-party		EUCW QRS Party
 EUCWs 160m-tävling	EUCW 160m Contest
+contest			contest
+EUCW			EuCW
+EUCW-klubbar		EuCW clubs
+Lyssnaramatörer		Short Wave Listeners (SWL)

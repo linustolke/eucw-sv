@@ -20,7 +20,7 @@ datum med de äldsta först.
   {% for p in sorted %}
     {% assign url = p.url | replace_first: "/", "" %}
     <li>
-      <a href="{{ url }}">{{ url }}</a> {{ p.priority }} {{ p.translated }}
+      <a href="{{ url }}">{{ p.title }} {{ url }}</a> {{ p.priority }} {{ p.translated }}
     </li>
   {% endfor %}
 </ol>

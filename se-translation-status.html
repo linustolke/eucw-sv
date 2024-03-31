@@ -5,18 +5,25 @@ translated: 2024-03-19
 <h1>Status of the Swedish translation</h1>
 
 <p>
-Ordningen är i första hand de med högst "priority", därefter lägre och
-de som inte har någon angiven "priority" sist.
+  Pages with dates are when the translation was done or updated to
+  match the original page.  Pages without dates are not translated.
 </p>
 
 <p>
-Inom varje "priority" är det först de utan datum och därefter de med
-datum med de äldsta först.
+  The order is firstly the not translated, and after that, softed
+  after date with the oldest first.
+</p>
+
+<p>
+  Within each "date", it is sorted by priority, started with the
+  highest priority and then lower. The pages without priority are
+  listed last.
 </p>
 <ol>
   {% assign sorted = site.pages |
-     sort: 'translated' | reverse |
-     sort: 'priority' | reverse %}
+     where_exp: "item", "item.url != '/se-translation-status.html'" |
+     reverse | sort: 'priority' |
+     reverse | sort: 'translated' %}
   {% for p in sorted %}
     {% assign url = p.url | replace_first: "/", "" %}
     <li>

@@ -1,0 +1,63 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fifth month of the 1st semester of 2020
+
+Welcome to Andreas, DK9HE, and Mateusz, M0TEU, who both found their way to S&L.
+
+Received were 30 logs containing 1308 valid QSOs into 260 locator squares.
+Among these squares, we had 103 candidate ladders (each with 1 QSO
+only) of which the following 24 were randomly selected as ladders:
+
+        IM77 IN52 IO70 IO86 JM68 JN75 JN80 JO82 KM18 KM46
+        KN20 KN24 KN79 KO24 KO86 KO90 KP50 KP63 LO26 MO46
+
+Furthermore we had 57 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+        IO82 JN55 JO01 JO22 JO53
+
+This leads to the following scores
+
+Call, name      Total score      1        2       3       4       5       6
+===========================================================================
+2E0DPH, Phil:     175            13      11      31      89      31
+DH0DK, Ben:        26            13      13       -       -       -
+DH3LK, Rudolf:    112            40      72       -       -       -
+DJ6UX, Eddi:     1735           343     189     432     369     402
+DK9HE, Andreas:     7             -       -       -       -       7
+DL1DXL, Lothar:   397           110      65      96      74      52
+DL1HBL, Claus:     80             2      25      42       8       3
+DL7UGN, Mike:      52             6       4       9      17      16
+DM4RW, Robert:      6             -       -       2       2       2
+F5IYJ, Phil:       67             -       2       9      16      40
+G0DDX, Geoff:       9             -       -       9       -       -
+G0ILN, Richard:   152            22      37      24      32      37
+G0POT, Michael:    40             -       -       -      40       -
+G3XVL, Chris:     220            34      33      43      39      71
+G3ZOD, Graham:      2             -       -       -       -       2
+G4FAI, Tony:       66            36      16       -       3      11
+G4LHI, Peter:    2749           278     419     495     789     768
+G4TGJ, Richard:    12             3       6       3       -       -
+GM0EPO, John:      50             -       -      25       7      18
+IK1YBL, Paolo:     36             -       -       -       -      36
+I2CZQ, Peter:    2507           244     466     784     587     426
+I5SKK, Alex:      147            60       -      42      45       -
+IK2RMZ, Martin:  1385            82     225     286     542     250
+IK5WOB, Fabrizio:  56            13       3      30       1       9
+IZ2FME, Mike:     199            39       7      56      29      68
+M0DRK, Derek:      93             -      13      23      48       9
+M0ILR, Simon:     378             8      63      70     126     111
+M0PYC, David:     231            30      33      36      66      66
+M0TEU, Mateusz:     2             -       -       -       -       2
+M0UZE, Mark:      185             3       -       -      46     136
+M5ABN, Pete:      219            24      61      40      56      38
+MI0WWB, William:  190            37      59      32      30      32
+OH7QR, Erkki:    1203           255     276     257     197     218
+OK2BMA, Pavel:     74             6       3       3      15      47
+PA0DIN, Din:       63            19      25      18       -       1
+SV2BBK, Fanis:   1252           145     152     326     301     328
+
+I wish all good luck for the running month of May, and see you back soon.
+
+73,
+DM4RW mgr S&L

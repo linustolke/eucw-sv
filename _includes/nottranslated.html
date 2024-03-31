@@ -1,0 +1,17 @@
+<html>
+  <head>
+    {% if page.originalhref %}
+    <meta http-equiv="Refresh" content="5;{{ page.originalhref }}">
+    {% endif %}
+  </head>
+  <body bgcolor="#DCFDDC" text="black" link="blue" alink="red" vlink="purple">
+    <h1>Sidan är ännu inte översatt</h1>
+    <p>Denna sida är ännu inte översatt till svenska.
+      {% if page.originalhref %}
+      Om en liten stund förflyttas du därför automatiskt till
+      <a href="{{ page.originalhref }}">den engelska versionen av samma sida</a>
+      {% endif %}
+    </p>
+  </body>
+</html>
+

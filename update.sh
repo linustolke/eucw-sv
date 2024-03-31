@@ -16,8 +16,10 @@
 # rewritten urls but instead the newly fetched urls and the recursive
 # descent works.
 
-mkdir -p eucw.org
-cd eucw.org && wget -N \
+site=eucw.org
+rm -r $site
+mkdir -p $site
+cd $site && wget -N \
      --wait=10 --random-wait \
      -x -nH -r -k -np \
-     http://eucw.org/
+     http://$site/

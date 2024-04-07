@@ -22,6 +22,7 @@ translated: 2024-03-19
 <ol>
   {% assign sorted = site.pages |
      where_exp: "item", "item.url != '/se-translation-status.html'" |
+     where_exp: "item", "item.url != '/assets/css/style.css'" |
      reverse | sort: 'priority' |
      reverse | sort: 'translated' %}
   {% for p in sorted %}

@@ -6,5 +6,9 @@
 </head>
 <body bgcolor="#DCFDDC" text="black" link="blue" alink="red" vlink="purple">
 {{ content }}
+{% if page.url != "/se-index.html" %}
+<a href="se-index.html"> Tillbaka </a> till EuCWs startsida <br>
+{% endif %}
+{% include translated.html %}
 </body>
 </html>

@@ -1,0 +1,193 @@
+EuCW Bulletin No 2024/02
+========================
+
+1) European CW greetings from your Chairman, presently in Mui Ne, Vietnam.
+Unfortunately no activity from XV9D this time, as my licence is still
+pending renewal. However a bit of Remote activity through somewhat shaky
+internet lines using SM6LRR and SJ6R callsigns. I would like to REALLY
+thank all of you for making an effort to share news for this newsletter.
+This kind of generous sharing of information from many of our clubs makes
+the editing work for the Newsletter a true pleasure. I hope we can continue
+in the same spirit for the next newsletter to be published in the beginning
+of July. Just start mentally preparing and start making some bullet points
+that can develop into useful contributions in three months from now.  Thank
+you so much in advance for making it possible to hopefully share an even
+more interesting newsletter the next time.
+
+2) AGCW introduced a new interesting Activity Week - "Morse telegraphy -
+ An Intangible Cultural Heritage", 06-10 May 2024 0:00 UTC - 23:59 UTC.
+Europe Day is 09 May 2024. More info can be found here:
+https://eucw.org/agcw/ich.txt ICH (Intangible Cultural Heritage) is a
+UNESCO program.
+
+3) The normal AGCW-DL activity week will take place the week before
+Pentecost (Whitsun), 7 weeks after Easter. Remember this is regular QSOs,
+exchange of at least RST, QTH and name. No contest style! No serial numbers
+to be used. The rules can be found here:  https://eucw.org/agcw/aw.txt
+
+4) We ask all members to spread the information about our EuCW QRS week as
+follows: https://eucw.org/euqrs.html The rules are available in several
+languages. (Thanks to Martin DL1GBZ for info)
+
+5) AGCW-NTC Friendship QSO party. Rules are unchanged, you can find them at
+https://pi4ntc.nl/agcw-ntcqp. Please submit logs to Lothar DL1DXL (who is
+the new contest manager for this QSO party).
+
+6) NTC (Netherlands Telegraphy Club) has a new board member: Mike PD5MI.
+Being a software engineer with 20 years of experience he will start with
+the integration of our QSO party (submission and results) into the web
+pages at https://pi4ntc.nl
+
+7) NTC QSO parties remain a success. Join the fun on every third Thursday
+of the month from 19-20 UTC. Upcoming dates are: April 18, May 16 and June
+20. (Thanks to Joop PG4I for info)
+
+8) Gerard F6EEQ shares some excellent Best Practise experience related to
+UFT (Union Française des Télégraphistes) participation in various Ham
+Exhibitions. During 2023, UFT took part in five different exhibitions. In
+March 2024 (in Clermont, about 50 km north of Paris), UFT met more people
+with a wish to discuss CW, learn telegraphy. A lot of young or very young
+persons were interested to try the keys, and get their "Telegraphist
+Certificate". Also several YLs showed CW interest, asking keen questions
+about learning, rhythm (how do you know this is a dit  !!!), speed... UFT
+is getting new members and managing to keep most of the existing ones as
+well. News from France is very well appreciated. Merci!
+
+9) Several activities in the pipeline from GQRP:
+
+- International QRP Day runs on June 17th every year. In 2024 this will be
+on a Monday. The QRP Centres of Activity (CoA) on all bands are excellent
+places to start. We aim to repeat the success of last year, where all (but
+one!) of the Regional Variations of the Club callsign G5LOW were on air on
+the 17th and during the Summer Sizzler.
+
+- Suffolk Trophy. The GQRP Club has traditionally organized the Suffolk
+Trophy on the International QRP Day. Power and limits as for the Chelmsley
+Trophy but with operation for six hours only, split into not more than two
+periods. Contacts are with any Region 1 countries; normal QSO, no serial
+numbers. Scoring: Each Region 1 country counts one (1) point on each band.
+The total score is the total of IARU countries on the bands used. Only one
+contact per country per band is allowed irrespective of mode. The other
+station may be QRO.  Please include Name, address, call, power used,
+equipment, time, call \& band for each contact. A trophy to the winner plus
+runner up certificates.
+
+- Summer Sizzler. This stress-free "get-on-air" GQRP Club event runs
+between Saturday 15th and Sunday 23th of June. It is not a contest, rather
+a relaxed activity that we can use to meet and greet new and old friends,
+to test our latest homebrew creations, and to fill the bands with friendly
+QRP signals. QRP power levels only, the other station might be QRO. The
+best log submitted will be awarded The GM3OXX Trophy, with certificates
+available for runner-ups. We will also award five more certificates, namely
+The Busy-Bee certificate} (for contacts made using exclusively homebrew
+equipment), The Tiny-Flea certificate (for QRPp contacts, i.e., using 1W
+output or less), The Old-Beetle certificate (for contacts made using
+vintage rigs, 25 years or older), The Iron-Knee certificate (for POTA,
+SOTA, /P, /M  or /MM operations), and The Ladybird certificate (for logs
+submitted by hams licensed less than three years ago).
+
+(Thanks to Enzo M0KTZ for valuable GQRP news)
+
+10) Stathis SV5DKL shares some truly interesting news from Manos SV1DAY /
+GTC (Greek Telegraphy Club):
+
+“When at SZ1A for a contest, about a year ago, Сostas, SV1DPI shared with
+me that the demand for CW skills is substantial in the Greek amateur radio
+community, most probably in the international one too, but the training
+offerings are limited.  He had heard me talking about my positive
+experience with CW Academy and the merits of working CW after my
+graduation, so Costas suggested that I organize CW Academy classes for
+Greek students, but in Greek, especially for those for whom English is a
+barrier.  So, I accepted the challenge, although I was a bit skeptical (and
+still am) at the higher classes, where "Short Stories" are introduced as
+part of the home practice, because they are in English. Costas published
+appropriate announcements in April 2023. We organized an on-line first
+meeting, to present CW Academy's goals, method and requirements. The
+audience was 17 potential students, out of whom two were YL. I explained to
+them the method and the personal commitment they must have (one hour daily
+practice minimum), to achieve the goals of the CW Academy. Two OM and one
+YL were experienced enough already, so they did not register for Beginners
+Class. Out of the rest 14, only 7 decided that they could commit to the
+personal practice requirements of CW Academy and decided to start the
+Beginners class. After the first on-line meeting, and having the final
+number of registered students for Beginners class, I requested appropriate
+permission to translate in Greek the English curriculum for Beginners, with
+the help of Fanis, SV2BBK. The Greek version was translated with the
+valuable contribution of Costas, SV1DPI and Fannis, SV2BBK, it is published
+at CW Academy web site and the Beginners class started in September and
+completed in October 2023 semester. The enthusiasm was great and the 6 out
+of the 7 students wanted to continue to the next level. One more student
+joined the Fundamental class and one resigned. The Fundamental class was
+completed in January-February 2024 successfully and the team is looking
+forward to start the Intermediate class in May-June semester. Some of the
+students participated already at some contests, while others enjoy rag
+chewing. The CW Academy effect is exceptional and all students are
+impressed by the personal progress they have achieved.
+
+The above I personally find very useful and an example that all our EuCW
+member clubs may "steal with pride". The Greek achievement is well worth to
+be applauded and we are looking forward to meeting the new Greek YL and OM
+CW operators in contests and for normal QSOs in the future (Chairman's
+comment).
+
+11)  Lacy HA3NU reminds us about the HA3NS MEMORIAL SPRINT CONTEST 2024, in
+memory of a great CW enthusiast and founder of HACWG: Date and time of the
+contest in this year: 07. June 2024. (Friday), 1st period 7MHz 19.00-19.29
+UTC, 2nd period 3.5MHz 19.30-19.59 UTC. Frequencies: 7010-7040 KHz and
+3510-3560 KHz. Mode: CW only. Categories: Single op HP (more than 100W)
+ Single op LP (100W or less). Exchange: 599 + membership number for HACWG
+members, 599 + NM to all other participants
+Call for contest: CQ NS Multiplier: no multipliers. Score: Each valid
+contact counts 1 point. The final score is the total number of valid
+contacts. QSY (Sprint) rule: If a station makes a QSO after a CQ or QRZ
+he/she has to QSY at least
+1KHz from that frequency to continue the competition. Awards: downloadable
+electronic awards will be available List of HACWG members:
+https://ha3kna.webnode.hu/hacwg/ or
+https://radioamator.honlapepites.hu/?p=7827  Log: Log upload available in
+Cabrillo format to: https://log.mrasz.hu Suggested software: DXlog or N1MM
+with HA3NS.udc If you are not able to create Cabrillo or upload your log,
+please send it via E-mail to ha3kna@tolna.net Log deadline: not later than
+7 days after the contest.
+
+12) SCAG (Scandinavian CW Activity Group has the following information:
+
+- The first activity for the new year was the Straight Key Day the Jan 1st.
+There was a lot of nice telegraphy on the bands and the winner was DJ6UX
+Eddi. We also had a lottery and the winner for a Begali Spark key was
+SM5TA, Lasse in Boxholm. Big congratulations to all winners from everyone
+in SCAG.
+
+- The yearly annual SCAG meeting will take place April 17th via Zoom.
+
+- The third Thursday every month at 19.00-20.30 UTC we have a club evening
+on the bands. For more information, check our homepage.
+
+- SC50AG Special callsign https://www.qrz.com/db/SC50AG - We were using the
+special call SC50AG to celebrate the 50-year anniversary for the
+Scandinavian CW Activity Group - SCAG. The activity was limited to February
+2024. All stations worked will receive a QSL-card via the bureau and a
+confirmation via LOTW. SCAG was started in 1974 with a mission to promote
+and preserve the use of telegraphy - CW - on our ham bands. This mission
+remains as the focus of the club. Maybe more so in these days when you
+don't have to master telegraphy to become a radio amateur. However, over
+the decades we still see a steady interest in preserving the use of
+telegraphy on our ham bands and in recent years also an increasing interest
+to learn the morse code.
+
+- SCAG is the proud sponsor of Swedish club activities related to learning
+morse code or other activities related to our mission to promote and
+preserve the use of telegraphy on our ham bands.
+
+- SCAG arranges Straight Key Day twice a year, on New Year's Day in January
+and on Midsummers Day at the end of June.
+
+(Thanks to Hakan SM5OCK for valuable and interesting information)
+
+
+73 de 3W/RM2D Mats - This year more QRV as SM6LRR, SJ6R and also as YB0LRR/x
+
+_______________________________________________
+EuCW mailing list
+EuCW@lists.posteo.de
+https://lists.posteo.de/listinfo/eucw

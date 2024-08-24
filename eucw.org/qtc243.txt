@@ -1,0 +1,116 @@
+EuCW Bulletin No 2024/03
+========================
+
+1) Summer conditions are now prevailing and the bands normally starts to
+become alive when darkness appears. It seems to me actually that CW
+activity also has increased somewhat. European CW bands have always been
+quite active even in the past years, but there is much more DX coming
+through due to the improved propagation. I estimate this will continue to
+be so, and therefore ask you to support this general activity trend with
+your own personal activity. Personally I have lately mainly been QRV
+remotely using SM6LRR and SJ6R (in contests) from Indonesia, Kazakhstan,
+Russia and Mongolia. My next business trip (this week) will be to China,
+but unfortunately no Ham activity planned this time. I may have some future
+location change from Jakarta to another DXCC country. You will be the first
+one to know when and if this happens.
+
+2) The first half-year of Snakes & Ladders is now finished. Almost 50
+callsigns have participated. All CW friends are invited to participate in
+the next round from July to December 2024. The number of documented
+contacts varied from 1000 to over 1500 per month. This is a nice amount of
+rag chews far away from contesting. Many contacts are indeed way longer
+than the required 5 minutes.
+
+3) The EUCW/AGCW QRS week triggered almost 500 QSOs at slow pace. 28 logs
+were received, but the true success remains outside the statistics.
+Numerous newcomers were present, some could be identified as participants
+in recent CW training courses. However, only 7 EUCW clubs were represented.
+The most active clubs were AGCW from Germany and OECWG from Austria.
+Experienced operators are invited to call CQ at slow speed. Therefore,
+awards were issued to those who created the most impressive counts of spots
+in the reverse beacon network. The winner in the 100 W class was spotted
+over 3000 times in slow speed. He finished 2nd in class A with 36 QSOs.
+Congratulations on the exposure of such patience.
+
+4) Immediately after the QRS week the Activity Week concerning Morse code
+as an intangible cultural heritage was held by AGCW and DARC. The
+participation rate left to be desired though. Maybe some of us were already
+exhausted by the QRS week. Indeed, it requires a lot of patience,
+perseverance and dedication to stick to slow speeds for five days in a row.
+
+5) The AGCW QRS Net (3555.5 kHz) on Tuesday evenings struggled with poor
+conditions caused by both daylight and D-layer attenuation (as a result by
+solar X-ray flares). It was decided that the net starts at 19 hours local
+time from mid-May to mid-September (20h during the rest of the year). There
+is no particular network traffic, the net control station runs QSOs at slow
+speed, working one newcomer after the other for at least an entire hour.
+All the net control stations use club calls (DL0/DF0/DK0) or special calls,
+usually DL0SLW. At present, we have 4 net control operators in the German
+states of NRW, SX, RP, and BW. (see agcw.de/funkaktivitaeten/qrs-net). All
+are welcome.  (Thanks a lot Martin DL1GBZ for topics #2-5 in this
+newsletter!)
+
+6) FOC (First Class CW Operators' Club) has a new nice upcoming activity
+called MDQP (Memorial Day QSO Party). Although the activity is planned for
+November 1st to 2nd, I think it is still appropriate already now to promote
+this upcoming activity, so we can add it to our CW calendars. Memorial Day
+QSO Party (MDQP) is an activity providing participants with an opportunity
+to honour amateur radio operators who are now Silent Keys. MDQP is being
+sponsored and managed by FOC and is open to ALL licensed amateurs: The idea
+is for each participant to honour one Silent Key. They might have a special
+memory to share, along with the callsign and name of one who went before
+us. MDQP begins at 09:00 UTC on 1. November 2024, ending at 08:59 UTC on 2.
+November 2024. Certificates will be available for all participants
+submitting an ADIF log and there will be awards for the highest number of
+QSOs made, the runner-up with the second highest number of QSOs and the
+participant sharing the most highly-regarded detail about their chosen
+Silent Key. Of course, this is a CW- only event (suggested CW Speed is 15
+up to 30 WPM). At a minimum, each exchange must include RST, QTH and Name
+of operator, together with the callsign of the Silent Key in honour;
+additionally, sharing the name and at least one item of interest about the
+SK operator is encouraged. A participant may honour more than one single SK
+but only one SK call per band. QSOs may be on the 6, 10, 15, 20, 40, 80,
+and 160 meter bands only. MDQP QSOs are not permitted on WARC bands (30m,
+17m, 12m) or 60m. Stations may be worked once per band.  There are two
+sections, Single Operator Low Power (SOLP) using 100 Watts or less and
+Single Operator High Power (SOHP) running more than 100 Watts up to their
+local legal limit. More information on the event is available at
+https://g4foc.org or contact IZ2FME at MDQP@g4foc.org, or at
+iz2fme@amsat.org. Many thanks in advance and good luck!  (Thanks Michele
+IZ2FME for info and for agreeing to lead this activity for FOC)
+
+7) OK QRP Club celebrates this year 40 years since its foundation. At this
+occasion the club issues the “ 40 OK-QRP-C “ certificate. There are also
+Special Event Stations OL40QRP, OK5SLP and OK1OQI, all valid for the award.
+
+More details can be found on the OK QRP Club web page: https://okqrp.fud.cz/
+or at the OL40QRP QRZ.com (Thanks Pavel OK2BMA for the good contribution).
+
+8) NTC (Netherlands Telegraphy Club):  On April 16 was the first of the
+bi-yearly AGCW-NTC friendship QSO party. Although not so many participants
+it is always a nice event to meet members of both the clubs. This QSO party
+is held twice a year on the third Tuesday in April and October. The
+responsible person is Lothar DL1DXL. More info athttps://
+pi4ntc.nl/agcw-ntcqp. Last month NTC issued number 47 of the W-NTC-M
+(worked NTC members) award. You need to work with 25 NTC members, the award
+is free and available as a PDF document. Info at https://pi4ntc.nl/wntcm.
+The NTC member list is available on our website. The monthly QSO parties
+remain popular. Despite the worsening propagation on 80 meters considering
+the time of the party (19-20 UTC), we have nearly 40 participants every
+month. A great way to spent one hour at the radio!(Thanks Joop PG4I for the
+info).
+
+
+9) The GQRP Club, one of the three original founders of EuCW, will have its
+annual Convention in Telford, on August 31st and September 1st. The
+Convention is the main event of the ongoing celebrations for the 50th
+anniversary of the Club. There will be a buildhaton on Saturday afternoon,
+followed by a simple reception, and a fantastic line-up of QRP talks on
+Sunday morning. The Club will also be active on air for the whole month of
+September, with all the regional variations of the Club Callsign (Gx5LOW)
+and several other special callsigns operated by Club members across Europe.
+A special award will be available for contacts with the Club callsigns and
+overseas stations.  More information will be posted on the Club webpage at
+https://gqrp.com/ (Thanks Enzo M0KTZ for details).
+
+73 de Mats RM2D (SM6LRR, SJ6R and YB0LRR)

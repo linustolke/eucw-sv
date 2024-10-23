@@ -1,0 +1,118 @@
+EuCW Bulletin No 2024/04
+========================
+
+1) First I would like to truly apologize for a both somewhat delayed and
+also considerably shorter Newsletter this time. The main reason is that I
+have now ended my work assignment in Indonesia, and the beginning of
+October has been busy with moving back from Jakarta to Moscow. But also to
+be honest, a very limited amount of contributions from the clubs in EuCW :(
+Please next time support me with your contributions and there are still
+many clubs that never or very seldom share any activity. This is a sad
+development honestly.
+
+In one month I will probably start another international assignment, so
+please stay tuned for updates regarding new location until the end of this
+year. I have also slowly started to get my station on the air from Moscow
+Region, but still only on 10-20 meters using my TS 590S, OM-2500 and the
+SP7IDX hexbeam. My ambition is also to add at least 30 and 80 meter dipoles
+before I leave for new adventures. Band conditions have been great, but of
+course with high geomagnetic activity.
+
+2. The International Amateur Radio Union (Region 3) is undertaking a review
+of the 40 Metre Band Plan. This is being done under the banner of
+Harmonisation, and seeks to address many of the inconsistencies in the 40
+metre band plans across different countries and regions. You can review the
+chart produced by the WIA in the link below illustrating the differences
+between Band Plans across Region 3. One of Australia's representative
+bodies, the Wireless Institute of Australia (WIA) has taken the lead on
+behalf of the IARU, Region 3. Whilst this is a worthy aspiration, we are
+concerned that the proposed solutions are discriminating against CW
+operators. CW operators may end up with as little as 25kHz at the bottom of
+the band. Indeed, one option will see our allocation restricted to 7000 -
+7025kHz, which would also exclude some USA operators from the Band
+altogether. The objective of this Save 40 metres CW initiative is to raise
+awareness with CW operators worldwide and to advocate for a fair and
+reasonable allocation on 40 metres for all CW operators.
+
+How to navigate this website https://www.save40metrescw.com/ :
+
+Read the Consultation Paper first.
+Read and consider the Key Issues
+Read the Call to Action
+Stay up to date by visiting our News Blog from time to time
+
+3) The G-QRP Club had a month-full of on-the-band activity in September,
+with most of the regional variation of the Club callsign (G#5LOW) activated
+during the month, ant seven overseas special event stations from all over
+Europe. A real success, which saw dozens of operators on the bands, and
+lots of CW activity. The next major Club event will be the Winter Sports.
+This is NOT a contest, but more a gathering of likeminded souls on the
+bands on, or around the QRP frequencies. This all takes place twixt the
+Christmas pud and the New Years hangover.  To be more precise it runs from
+Boxing Day until New Years Day inclusive.  The G4DQP Trophy is awarded
+annually to the best log submitted of QRP contacts during the clubs Winter
+Sports. All logs and claims must be sent to Enzo M0KTZ (via email) by 7th
+February each year.
+
+4) The HACWG held his annual "HA3NS Memorial Sprint Contest" on 1st June.
+This very short -  one hour - contest became a popular CW event. Well over
+100 CW fans from more than 20 countries participated in two categories. We
+had 65 LP and 36 HP entrants. All participants had the possibilty two
+download an online award after the contest. Results are available here:
+https://log.mrasz.hu/results/6652071b0507c1dca92abe95/final?eventId=6652071b0507c1dca92abe95
+ Thanks Lacy HA3NU (Chairman of HACWG) for the contribution.
+
+5) YL3JD, Hans informs us of the Latvian Mechanical Key Activity, Friday
+the 11th of October. Time : Start 18:00 UTC till 19:00 UTC. Duration 1
+hour. Exchange : RST AGE/Type of key. Band : 80 meters Type of key : S for
+Straight key B for Bug
+C for Cootie or Side Swiper. For 2024 the dates are set to: 11 Oct   2024
+ –   18:00 UTC 06 Dec  2024  –    18:00 UTC  Hope to hear you all on Friday
+the 11th with great sounding mechanical key music. All information, log
+upload and certificates can be found on: https://yl3jd.fizioikskile.lv/mkey/
+
+
+6) For 2025 AGCW invites all EUCW friends to participate in its permanent
+activities:
+
+AGCW Activities:
+
+A) Friendship Activity: AGCW fosters friendships and rag chews on the top 5
+kHz of all CW only bands. Submit all QSOs over a duration of 10 minutes. (
+eucw.org/agcw/fsa.txt)
+
+B) Bug and Cootie Activity: This promotes the use of bugs and sideswipers
+on the top 10 kHz, Submit all B+C QSOs there over a duration of 5 min, even
+those with users of other keys. (eucw.org/agcw/buc.txt).
+
+Both activities are widely compatible with EUCW's Snakes and Ladders and
+ICWC's Top9 activity. AGCW applies synergy instead of competing with these
+great CW on-air activities. This means that many if not most contacts in
+our activities do qualify vor Top9 and S+L, too. Upcoming AGCW Contests:
+
+16-10-2024 Semi-Automatic Party (eucw.org/agcw/semi.txt).
+01-01-2025 Happy New Year Contest (eucw.org/agcw/hny.txt).
+
+While contests are fun to some of us they are just hay fires in terms of
+band occupancy. Therefore, we strongly recommend the permanent activities
+because they are more resilient, and they take place where the CW community
+struggles with intruders. Unless we use our frequencies we will lose them.
+
+Eyeball meetings: Future meetings will be held near Fulda (JO40sm46) in
+central Germany.
+
+7) Although not exactly a club activity, but still a very interesting CW
+activity, Vlado Z35M from MCWG made a HF actication (CW of course) on
+22.9.2024 from a cable car cabin, second time after first attempt in 2018.
+This time two CW QSOs (OZ and LY) were done on 20m CW with a power of 5W
+and a short vertical antenna. The entire activation lasted 10 minutes in a
+cabin with four other unknown persons. Probably the first such QSOs
+globally. CW from everywhere!
+
+
+73 de Mats RM2D (SM6LRR, SJ6R and YB0LRR)
+
+_______________________________________________
+EuCW mailing list
+EuCW@lists.posteo.de
+https://lists.posteo.de/listinfo/eucw

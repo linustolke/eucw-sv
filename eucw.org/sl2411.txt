@@ -1,0 +1,72 @@
+Snakes & Ladders, Edition 2016
+
+Results for the fifth month of the second semester of 2024
+
+Received were 34 logs containing 1029 valid QSOs into 276 locator squares.
+
+Among these squares, we had 119 candidate ladders (each with 1 QSO
+only) from which the following 23 were randomly selected as ladders:
+
+     IN71 IN96 IO52 IO65 JM99 JN16 JN27 JN96 JO03 JO67
+     KM56 KN43 KN60 KN88 KO24 KO58 KO81 KO86 KO90 KP22
+     LO71 MO64 NO66 
+
+Furthermore we had 45 candidate snakes (each with more than 5 QSOs), of which
+the following 4 were randomly selected as snakes:
+
+     IO91 JO22 JO61 KN12 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+CT7/IZ5BBS, Renato       112|      0|    112|      0|      0|      0|
+DJ6UX, Eddi             1597|    315|    303|    349|    312|    318|
+DL0MUR, Martin           228|     48|     79|     29|     13|     59|
+DL1DHM, Hanns            409|    130|    182|     35|     25|     37|
+DL1DXL, Lothar           427|     87|     96|    143|     38|     63|
+DL1GBZ, Martin           514|    141|    151|     61|     88|     73|
+DL1HBL, Claus            142|     27|     68|     25|     18|      4|
+DL3GJ, Greg                7|      1|      3|      2|      0|      1|
+DM4RW, Robert              9|      0|      1|      0|      1|      7|
+EA1/IZ5BBS, Renato        19|      0|     19|      0|      0|      0|
+F4GOU, Tom               863|    232|    221|    124|    137|    149|
+F5IYJ, Philippe          138|     31|     12|     26|     46|     23|
+F5LKK, Serge              10|      2|      3|      5|      0|      0|
+F5POJ, Philippe         1761|    186|    401|    144|    535|    495|
+F8EHJ, Herve              35|     18|      2|      6|      9|      0|
+G0DJA, David             105|     25|     15|      9|      8|     48|
+G0ILN, Richard            39|     30|      0|      9|      0|      0|
+G3XVL, Chris             146|     47|     21|     30|     23|     25|
+G6HH, Richard             95|     28|     28|     28|      0|     11|
+HB9/IZ5BBS, Renato         5|      0|      5|      0|      0|      0|
+I0YQX, Italo              95|      7|     23|     22|     35|      8|
+I3JUK, Giuseppe         1717|    325|    341|    300|    367|    384|
+I5ECW, Vanni             241|     72|     44|     90|      9|     26|
+IK1VQO, Gianluca          72|      0|     26|     18|     18|     10|
+IK1WNO, Enrico           104|     10|     15|     29|     31|     19|
+IK5WOB, Fabrizio         162|     45|      2|     36|     63|     16|
+IK7UKF, Sal               48|      8|     27|     13|      0|      0|
+IK8SCR, Nicola            21|      2|      1|     14|      4|      0|
+IN3FHE, Helga             68|      3|      4|     12|     40|      9|
+IT9FGY, Salvo             19|      0|      0|      0|     14|      5|
+IU2KBN, Paolo              9|      0|      0|      9|      0|      0|
+IW2JJS, Giorgio           42|      0|      6|      1|      6|     29|
+IZ2FME, Michele          325|     41|     65|     73|     79|     67|
+IZ5BBS, Renato           717|    135|     25|    222|    170|    165|
+IZ5JLW, Lele             105|     47|     14|     21|     15|      8|
+IZ5LZP, Fabio              6|      0|      0|      0|      3|      3|
+IZ7EBY, Tony              59|     18|     34|      7|      0|      0|
+M5ABN, Pete              180|     34|     28|     60|     30|     28|
+MI0PYN, Stefan             5|      0|      0|      0|      0|      5|
+MM0UMH, Les              345|     42|     43|    115|     81|     64|
+OE6GWG, Werner           222|      0|      0|     58|     91|     73|
+OH7QR, Erkki             279|     53|     39|     65|     42|     80|
+OK2BMA, Pavel             23|     10|      5|      5|      2|      1|
+PA7RA, Rien              476|    145|    103|    102|     74|     52|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

@@ -1,0 +1,65 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the first semester of 2025
+
+Received were 38 logs containing 1362 valid QSOs into 267 locator squares.
+
+Among these squares, we had 98 candidate ladders (each with 1 QSO
+only) from which the following 19 were randomly selected as ladders:
+
+     IM78 IM98 IN99 JM67 JM99 JN72 JO75 JP99 KM28 KO90
+     KO93 KO94 KP10 KP42 LN32 LO03 LO66 LO79 NO35 
+
+Furthermore we had 67 candidate snakes (each with more than 5 QSOs), of which
+the following 6 were randomly selected as snakes:
+
+     IO83 IO90 JN59 JN70 JN79 JN81 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+2E0DPH, Phil              14|     14|
+DJ6UX, Eddi              366|    366|
+DL0MUR, Martin           162|    162|
+DL1DHM, Hanns             59|     59|
+DL1DXL, Lothar           103|    103|
+DL1GBZ, Martin           150|    150|
+DL1HBL, Claus             11|     11|
+F4GOU, Tom               215|    215|
+F5IYJ, Philippe           23|     23|
+F5LKK, Serge              20|     20|
+F5POJ, Philippe          304|    304|
+F8EHJ, Herve               5|      5|
+G0DJA, David              31|     31|
+G0FOZ, Simon              18|     18|
+G0UBE, John               23|     23|
+G3XVL, Chris              39|     39|
+I0YQX, Italo              19|     19|
+I3JUK, Giuseppe          212|    212|
+I5ECW, Vanni              89|     89|
+IK1VQO, Gianluca           4|      4|
+IK1WNO, Enrico            17|     17|
+IK5WOB, Fabrizio          74|     74|
+IK8SCR, Nicola            74|     74|
+IN3FHE, Helga              4|      4|
+IU8OJT, Marco             63|     63|
+IW2JJS, Giorgio           23|     23|
+IZ2FME, Michele           66|     66|
+IZ5BBS, Renato           194|    194|
+IZ5JLW, Lele              52|     52|
+IZ5LZP, Fabio              7|      7|
+IZ7EBY, Tony              17|     17|
+M5ABN, Pete               33|     33|
+MM0UMH, Les               50|     50|
+OE6GWG, Werner            60|     60|
+OH7QR, Erkki             103|    103|
+OK2BMA, Pavel             11|     11|
+PA7RA, Rien              115|    115|
+SQ9S, Adam                36|     36|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

@@ -25,4 +25,5 @@ EuCWs 160m-tävling	EuCW 160m Contest
 contest			contest
 EuCW			EuCW
 EuCW-klubbar		EuCW clubs
+kontaktperson           Liaison officer
 Lyssnaramatörer		Short Wave Listeners (SWL)

@@ -1,0 +1,69 @@
+Snakes & Ladders, Edition 2016
+
+Results for the last month of the first semester of 2025
+
+Received were 30 logs containing 1197 valid QSOs into 249 locator squares.
+
+Among these squares, we had 84 candidate ladders (each with 1 QSO
+only) from which the following 16 were randomly selected as ladders:
+
+     IN99 JN00 JN46 JN56 JN91 JO80 JO97 KN25 KN39 KO14
+     KO16 KO83 KP11 KP42 LO18 LO23 
+
+Furthermore we had 61 candidate snakes (each with more than 5 QSOs), of which
+the following 6 were randomly selected as snakes:
+
+     IO92 JN18 JN35 JN54 JN55 JO51 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+2E0DPH, Phil              49|     14|     23|     12|      0|      0|      0|
+DJ6UX, Eddi             2397|    366|    375|    420|    360|    402|    474|
+DL0MUR, Martin           838|    162|    168|    189|    124|    129|     66|
+DL0SLW, Martin           162|      0|      0|      0|    108|     54|      0|
+DL1DHM, Hanns            250|     59|     48|     44|     45|     49|      5|
+DL1DXL, Lothar           414|    103|     84|     97|     38|      0|     92|
+DL1GBZ, Martin           520|    150|     60|     62|     47|    124|     77|
+DL1HBL, Claus             56|     11|      9|      7|     17|      1|     11|
+DL3GJ, Greg                5|      0|      1|      2|      1|      1|      0|
+F4GOU, Tom              1669|    215|    378|    237|    258|    339|    242|
+F5IYJ, Philippe          138|     23|     51|     27|     18|     15|      4|
+F5LKK, Serge              49|     20|      6|      2|      5|      3|     13|
+F5POJ, Philippe         2110|    304|    347|    261|    235|    591|    372|
+F8EHJ, Herve             217|      5|     98|     55|     15|     32|     12|
+G0DJA, David             975|     31|    192|    237|    162|    198|    155|
+G0FOZ, Simon             549|     18|     90|    108|     92|    123|    118|
+G0UBE, John              107|     23|     51|     19|      5|      9|      0|
+G3XVL, Chris             270|     39|     61|     36|     34|     61|     39|
+I0YQX, Italo              96|     19|      6|     42|     14|     11|      4|
+I3JUK, Giuseppe         1052|    212|    184|    229|    135|    166|    126|
+I5ECW, Vanni             317|     89|     41|     62|     49|     33|     43|
+IK1VQO, Gianluca          82|      4|     24|     32|     22|      0|      0|
+IK1WNO, Enrico           402|     17|     33|     26|    140|     91|     95|
+IK5WOB, Fabrizio         533|     74|     88|     86|    120|     91|     74|
+IK8SCR, Nicola           136|     74|     49|     13|      0|      0|      0|
+IN3FHE, Helga             37|      4|      9|      9|      4|      3|      8|
+IU8OJT, Marco            143|     63|     31|     49|      0|      0|      0|
+IW2JJS, Giorgio           66|     23|      7|      8|     10|      5|     13|
+IZ2FME, Michele          310|     66|     76|     89|     32|     47|      0|
+IZ5BBS, Renato           537|    194|     63|     91|     86|      0|    103|
+IZ5JLW, Lele             275|     52|     56|     27|     25|     43|     72|
+IZ5LZP, Fabio             57|      7|      6|      7|     19|     11|      7|
+IZ7EBY, Tony              41|     17|      0|      0|      1|     23|      0|
+M0KTZ, Enzo              733|      0|     92|    179|    153|    171|    138|
+M5ABN, Pete              250|     33|     27|     30|     47|     77|     36|
+MI0PYN, Stefan             3|      0|      3|      0|      0|      0|      0|
+MM0UMH, Les              214|     50|     77|     10|     30|     15|     32|
+OE6GWG, Werner           304|     60|     45|    123|     67|      9|      0|
+OH7QR, Erkki             578|    103|    122|    135|     93|     91|     34|
+OK2BMA, Pavel             69|     11|     34|      4|      6|     12|      2|
+PA7RA, Rien              654|    115|    101|    135|     98|    103|    102|
+SQ9S, Adam                36|     36|      0|      0|      0|      0|      0|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

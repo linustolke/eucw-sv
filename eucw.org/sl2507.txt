@@ -1,0 +1,59 @@
+Snakes & Ladders, Edition 2016
+
+Results for the first month of the second semester of 2025
+
+Received were 32 logs containing 1141 valid QSOs into 248 locator squares.
+
+Among these squares, we had 98 candidate ladders (each with 1 QSO
+only) from which the following 19 were randomly selected as ladders:
+
+     IM69 IM98 IM99 IN82 IP62 JN15 JN40 JN93 JN95 JO83
+     JP72 JP81 KO00 KO34 KO37 KO84 KP10 LO00 LO45 
+
+Furthermore we had 56 candidate snakes (each with more than 5 QSOs), of which
+the following 5 were randomly selected as snakes:
+
+     JN88 JO01 JO11 JO22 JO70 
+
+This leads to the following scores:
+
+Call, Name       Total score|      1|      2|      3|      4|      5|      6|
+============================|=======|=======|=======|=======|=======|=======|
+DJ6UX, Eddi              399|    399|
+DL0MUR, Martin             5|      5|
+DL1DXL, Lothar            71|     71|
+DL1GBZ, Martin           118|    118|
+DL1HBL, Claus             33|     33|
+DL3GJ, Greg               12|     12|
+F4GOU, Tom               351|    351|
+F5IYJ, Philippe           11|     11|
+F5LKK, Serge              23|     23|
+F5POJ, Philippe          432|    432|
+F8EHJ, Herve              74|     74|
+G0DJA, David             101|    101|
+G0FOZ, Simon             109|    109|
+G0UBE, John               12|     12|
+G3XVL, Chris              16|     16|
+I0YQX, Italo               1|      1|
+I3JUK, Giuseppe          185|    185|
+I5ECW, Vanni              13|     13|
+IK1WNO, Enrico            84|     84|
+IK5WOB, Fabrizio          51|     51|
+IN3FHE, Helga             12|     12|
+IW2JJS, Giorgio            3|      3|
+IZ2FME, Michele           34|     34|
+IZ5BBS, Renato            94|     94|
+IZ5JLW, Lele              26|     26|
+IZ7EBY, Tony              11|     11|
+M5ABN, Pete               22|     22|
+MM0UMH, Les               18|     18|
+OH7QR, Erkki              95|     95|
+OK2BMA, Pavel              3|      3|
+PA7RA, Rien              130|    130|
+SQ9S, Adam                 1|      1|
+============================|=======|=======|=======|=======|=======|=======|
+
+Thanks for participating, good luck and hopefully I'll see you back next month.
+
+vy73,
+DM4RW mgr S&L

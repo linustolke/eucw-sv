@@ -20,10 +20,12 @@ Syfte			Objectives
 EuCW-kommunikationsfunktionär	EuCW Communications Manager, ECM
 EuCW-bulletin		EuCW Bulletin
 förbindelsefunktionär	Liaison officer
-EuCWs QRS-party		EuCW QRS Party
+EuCWs QRS-party		EuCW QRS Party (Ersatt av EuCW QRS ACTIVITY Week)
+EuCWs QRS-aktivitetsvecka    EuCW QRS ACTIVITY Week
 EuCWs 160m-tävling	EuCW 160m Contest
 contest			contest
 EuCW			EuCW
 EuCW-klubbar		EuCW clubs
 kontaktperson           Liaison officer
 Lyssnaramatörer		Short Wave Listeners (SWL)
+EuCWs ormar och stegar-aktivitet   EuCW Snakes and Ladders activity

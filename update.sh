@@ -20,6 +20,6 @@ site=eucw.org
 rm -r $site
 mkdir -p $site
 cd $site && wget -N \
-     --wait=13 --random-wait \
+     --wait=14 --random-wait \
      -x -nH -r -k -np \
      http://$site/
